@@ -334,7 +334,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_primary.m
 #EXTINF:-1 tvg-id="IMC" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/ImcV3.png" group-logo="" group-title="FHD",IMC
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
-#EXTINF:-1 tvg-id=".astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/f5654e6c9ee5488c949135e749eaf9db/version/0" group-logo="" group-title="FHD",KCM
+#####EXTINF:-1 tvg-id=".astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/f5654e6c9ee5488c949135e749eaf9db/version/0" group-logo="" group-title="FHD",KCM
+#EXTINF:-1 tvg-id=".astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Kcm.png" group-logo="" group-title="FHD",KCM
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcmasia-sooka-dash-sooka/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
