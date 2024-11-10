@@ -602,3 +602,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png" group-logo="" group-title="4K",Astro UHD 4K
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+
+#EXTINF:-1 tvg-id="SONY_PIX" tvg-name="SONY PIX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579791fac7f66229607bd43/images/277221101.webp" group-title="Airtel | Movies", SONY PIX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"nRDFK0an2Qm2nE1e31abWg", "kid":"t0SuDKuuOZi7+9d41TfwSQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/sony_pix/ndashd/sony_pix.mpd
+
+#EXTINF:-1 tvg-id="MOVIES_NOW" tvg-name="Movies Now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00debd2ee1bebbf9c51/images/503.webp" group-title="Airtel | Movies", Movies Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"egITRG6imZlJJLIpd+0tRw", "kid":"ACnSf11EN4eQIOHNzchVvQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/movies_now/ndashd/movies_now.mpd
+
+#EXTINF:-1 tvg-id="MNSYMPLUS" tvg-name="MN+" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a046277849cc653ced0ed6/images/LANDSCAPE_169/LANDSCAPE_169_xL_ScvEc7_MN+_264x144.webp" group-title="Airtel | Movies", MN+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"K5nRDbmfyK2FKDHlB22Sww", "kid":"OyOss5ALMBWaxY6MaNFYbg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media6/mn_plus/ndashd/mn_plus.mpd
+
+#EXTINF:-1 tvg-id="MNX" tvg-name="MNX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a0462994ec8e00c48d19c3/images/LANDSCAPE_169/LANDSCAPE_169_PDye_Z5Fz_MNX_264x144.webp" group-title="Airtel | Movies", MNX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"OsqJnmGSx5Xt9pLYFyWnlw", "kid":"kZyVicnuM2+InyoKS_E9jw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/mnx/ndashd/mnx.mpd
