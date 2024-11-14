@@ -97,6 +97,11 @@ http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
 #####https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2H5QP6/sDoQAtIm920UETA", "kid":"Gpgx8L4/9VH/CzKmTL0fEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="111.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PHC_2024.png" group-logo="" group-title="FHD",Project High Council
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5169/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="106.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-logo="" group-title="FHD",Oasis 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
