@@ -20,19 +20,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="108.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-logo="" group-title="FHD",8TV 
-https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="109.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-logo="" group-title="FHD",TV9 
-https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="114.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-logo="" group-title="FHD",Al-Hijrah 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="107.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="" group-title="FHD", DIDIK TV KPM 
-https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #EXTINF:-1 tvg-id="146.astro" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="FHD",Okey 
 https://raw.githubusercontent.com/mystery75/m3u8/main/OKEY.m3u8
