@@ -677,3 +677,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"nRDFK0an2Qm2nE1e31abWg", "kid":"t0SuDKuuOZi7+9d41TfwSQ" }], "type":"temporary" }
 https://companion-live-play1.streamready.in/live/media4/sony_pix/ndashd/sony_pix.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="FHD",test
+https://raw.githubusercontent.com/mystery75/m3u8/main/test.m3u8
+
