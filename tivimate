@@ -679,5 +679,5 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 https://companion-live-play1.streamready.in/live/media4/sony_pix/ndashd/sony_pix.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="FHD",test
-https://raw.githubusercontent.com/mystery75/m3u8/main/test.m3u8
+https://raw.githubusercontent.com/mystery75/m3u8/refs/heads/main/test.m3u8
 
