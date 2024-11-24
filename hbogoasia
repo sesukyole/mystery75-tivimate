@@ -859,17 +859,14 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HhrtLLur27WmqokLb9gxnA", "kid":"MMyPX1sRay+IsiEb0vMJEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" group-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KPAKZ_P_IVP_PORT_390x585_7E6EB_20241120_17281.jpg",Sting 2024
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KPAKZ_P_IVP_PORT_390x585_7E6EB_20241120_17281.jpg",Sting 2024
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/528cb906-115e-5fe6-a295-865c4a7b8990/default_primary.mpd
-
-
-
 
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ebb6e28c8db6df4325ac9bd545b7e810:f6b73bfbc9c7604f74b5d8a5e83c17e4} 
-#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="AstroFirst" group-logo="" tvg-logo="https://perfecttv.net/first/joker2024.jpg", 967-Joker 2024 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9rc7+8nHYE90tdil6DwX5A", "kid":"67bijI2230MlrJvVRbfoEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KOLEN_Early_P_IVP_PORT_390x585_7ECE9_2024114_102837.jpg",Joker 2024 
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/65266952-8476-5f90-a5f3-95f7f9f33436/default_dash.mpd
 
 
