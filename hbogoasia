@@ -932,7 +932,7 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2469b070-c
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QMyZl6jMZYrGsmKyqrGMxA", "kid":"z2JbCerrmNrZOd+VgSYqEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://popcornsg.s3.amazonaws.com/movies/650/9178-0-TheCurse.jpg",The Curse 2024
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2YzMzU1OTktNjFiMy00OWZiLWEwNDUtOWY4ZGRiZjdkMzU3XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",The Cursed 2024
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0170f1d3-4f46-56e2-8b89-84030abf6018/default_primary.mpd 
 
 #KODIPROP:inputstream=inputstream.adaptive 
@@ -968,5 +968,17 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/338c7334-6
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tTv5nJt/V+vr30vw2Gu9zA", "kid":"X1h21thok06RYRskxUveEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KOHBA_P_IVP_PORT_390x585_7C921_2024911_204311.jpg", 974-Despicable Me 4 2024 
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KOHBA_P_IVP_PORT_390x585_7C921_2024911_204311.jpg",Despicable Me 4 2024 
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/071886f2-5831-51dc-b328-afb8c94b4bea/default_primary.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eE6V99LbA4a8b6r7rylN/w", "kid":"8/eNtj1ilLXxvxmAgPOnEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KNCYX_P_IVP_PORT_390x585_2024722_6221.jpg",Tarot 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9a5679e9-ace8-590a-8843-ba12019799e7/default_primary.mpd 
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UaZAANnZYA1YRTmUJ/f0Ww", "kid":"5bkjXvUl/rcDXKzpR/wDEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KMUFP_P_IVP_PORT_390x585_2024612_14649.jpg",Monkey Man 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/98cc9ade-483f-5056-b620-5d039599aa5d/default_primary.mpd 
