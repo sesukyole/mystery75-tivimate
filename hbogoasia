@@ -908,36 +908,61 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f4d8afa4-7
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mcjkM23qIxmeD6iCZjFYgA", "kid":"+12NKYM8el/q/jekGJY7EA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KOKIN_P_IVP_PORT_390x585_7D08D_2024929_3225.jpg", 971-Harold and Purple Crayon 2024 
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KOKIN_P_IVP_PORT_390x585_7D08D_2024929_3225.jpg",Harold and Purple Crayon 2024 
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ffb25971-a87a-5778-a003-73307331af0d/default_primary.mpd
 
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/uwAsLxe+GfaZFLSltkE3g", "kid":"4A19Im8nIIEhR5OFpKILEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KNRAM_P_IVP_PORT_390x585_7C666_202494_20744.jpg",A Quiet Place Day 1 2024 
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0a5d9373-340a-5783-be8e-c00bb8ab2196/default_primary.mpd 
 
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bbgZqEu4tIvDgYDHWnxUsg", "kid":"BE87DiVAtyLb9m7I7nqkEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KLSYZ_P_IVP_PORT_390x585_2024820_103756.jpg",The Watchers 2024 
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ec79fcd9-446a-5694-9958-e47a75adf37a/default_primary.mpd 
 
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WwxY/I5L3FGZdkpFVYRe4Q", "kid":"nFZUkENI6eEhPvxH+mX0EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KOLEH_P_IVP_PORT_390x585_7BBE6_2024104_2598.jpg",Twister 2024 
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2469b070-c300-56e2-9da3-9a0ef31c1816/default_primary.mpd 
 
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QMyZl6jMZYrGsmKyqrGMxA", "kid":"z2JbCerrmNrZOd+VgSYqEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://popcornsg.s3.amazonaws.com/movies/650/9178-0-TheCurse.jpg",The Curse 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0170f1d3-4f46-56e2-8b89-84030abf6018/default_primary.mpd 
 
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oH9VvRvcLvfpIdlZdnfnxA", "kid":"qxFe0T6b3cIpmk7aXNc0EA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KMTGX_P_IVP_PORT_390x585_2024729_195546.jpg",IF 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7f8a84a0-19ab-55dc-83ad-4454cfa8ef41/default_primary.mpd 
 
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HJFB7j0CBjOvB72MLsA/Kg", "kid":"ouNuhmJ4KX3E/WtEyRNoEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KOLFU_IVP_LAND_917x516_7DC43_2024109_161928.jpg",Paku Tanah Jawa 2024 
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZjNGU2ZDEtOWI3NC00NTBmLWFhY2MtYWY1Y2RjNTJlYjU3XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Paku Tanah Jawa 2024 
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8e9b15c9-6e5d-531a-8602-3e6088df7cdb/default_primary.mpd 
 
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"T+dfb+OCxgZzntDobee4Tg", "kid":"+obyf3svzLXVd2VRralYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KOVJG_IVP_LAND_917x516_7D23F_2024930_161156.jpg",Lampir 2024 
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2IyNmQ0ZmEtNDFlNy00NmQ1LTlmZjQtZWJhOTdmZDQzYzFiXkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Lampir 2024 
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7b8e0a72-d310-56de-abd6-2597a53daa1c/default_primary.mpd 
 
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6nfcnm0GyljV5CR5Tmgp8w", "kid":"pbYHvbPaWF8FZPnsZJHVEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KLJSZ_IVP_LAND_917x516_7D093_20241121_181018.jpg",Beetle Juice 2024 
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRlYzE3ZTYtNjIyZi00MWYyLWEzZDItOWI5NzM1Yjc0NmI5XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Beetle Juice 2024 
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b48b9365-b71f-5e0c-93eb-1f2227e3f68a/default_primary.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={24f3139016d9bb78585811a2a191bd10:6ee6d40bfa8f1fc43fa717774c60d4e8} 
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_7BFAE_IVP_LAND_917x516_7BFAE_2024911_202333.jpg",Ultraman Ginga S 2024 
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU1MWQ0ZGUtOTk2OS00ODhmLWE4NWYtYjIxNDJlNjIxODc3XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Ultraman Ginga S 2024 
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/338c7334-6fb5-5fd1-8aac-b56315e2ef85/default_primary.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive 
