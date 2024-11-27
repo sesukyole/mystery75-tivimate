@@ -1096,3 +1096,38 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c161e6a9-1
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i4EnAtUWUnhfvpTsHZjPrg", "kid":"apluxV1yUtkjxCjm0mjnEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KPNIQ_P_IVP_PORT_390x585_7ED97_20241124_184611.jpg",The Killer 2024
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2a954abd-ddff-5491-80c3-983a134a0d21/default_primary.mpd
+
+
+############################################################################################################################################################################################################################
+
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GTMPLIYj63WBlNDX2B+nRA", "kid":"k7o14XNij182EE1DnQ56EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 1
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e24a4edc-4ece-510d-b5c6-c62c9d28f59d/default_primary.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bgw3UiFtCGp7BpgvcVXbkA", "kid":"z4UeMGRnx+0FvHEeoKvTEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 2
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/419945e7-98b6-5e9e-86f3-8e1341ef23f3/default_dash.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UPpAxWOBPH+PK4A6NHRM+w", "kid":"K1HZn4vynUTYc/EWNN/nEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 3
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1a213766-6dff-50c5-af14-8f74eb7750e6/default_dash.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zDEF7ufBSKREvDZVtrAMaQ", "kid":"EJOEA20wcUve+Pk8tzsjEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 4
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/81162152-3399-569e-9b9d-5b8287e973f8/default_dash.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qZTdENOQm1kDhfnPsVOsOw", "kid":"x5f7HEVGt/fUALH1Zhe3EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 5
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/142ace2d-bdea-53d0-a998-76f309f52cc2/default_dash.mpd
