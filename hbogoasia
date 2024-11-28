@@ -1016,7 +1016,7 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/766eb135-8
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yGyiQOrO9eaqTtRbZJAXBQ", "kid":"LUEAfkzNgJTN2RrrAkc7EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRmNzk4MmYtZTc3Ni00MmI1LWEyNjEtNGZlNThlOTAzNjk3XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Romeo 2024
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOBAX_p_IVP_PORT_476x716_2024719_1106.jpg",Romeo 2024
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d8cb626d-66d0-56ac-aac9-5f4eca7bced9/default_primary.mpd 
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1070,7 +1070,7 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/550af
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S0/3W7/4dhiT9WxPKhhRYw", "kid":"cysWJ1JGTd1o9BEtBAVuEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU4MzU0NGYtZGM3Ny00YTU2LWE5NTctOWU5NzE3ZTMzZmU5XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Siren 2024 
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMZDA_p_IVP_PORT_476x716_2024513_11134.jpg",Siren 2024 
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/51558f66-f240-5f04-89a5-38384c17492e/default_primary.mpd 
 
 #KODIPROP:inputstream=inputstream.adaptive 
