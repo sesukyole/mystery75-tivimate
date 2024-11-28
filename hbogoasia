@@ -1022,14 +1022,8 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d8cb626d-6
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RvkJE/TmTnxtzJ4AUQs8gQ", "kid":"kkYp5DIcHdq0/PAc2G3vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KLEJU_P_IVP_PORT_390x585_2024812_12040.jpg",Furiosa 2024 
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KLEJU_P_IVP_PORT_390x585_2024812_12040.jpg",Furiosa: A Mad Max Saga 2024 
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7c079dbc-a62b-5b63-a04f-64eda34f361a/default_primary.mpd 
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DShvcL4qCIqXoWLS23q0PQ", "kid":"A02O/6ucBmJwZgS2r4MXEA" } ], "type":"temporary" }
-#EXTINF:-1 type="movie" group-title="Movie Baru" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOOFL_p_IVP_PORT_476x716_2024815_112117.jpg",Furiosa: A Mad Max Saga 2024
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/20c8f3b1-9f05-5cb6-bd94-e20ba5ef4de0/default_primary.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
