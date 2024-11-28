@@ -1027,6 +1027,12 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7c079dbc-a
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DShvcL4qCIqXoWLS23q0PQ", "kid":"A02O/6ucBmJwZgS2r4MXEA" } ], "type":"temporary" }
+#EXTINF:-1 type="movie" group-title="Movie Baru" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOOFL_p_IVP_PORT_476x716_2024815_112117.jpg",Furiosa: A Mad Max Saga 2024
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/20c8f3b1-9f05-5cb6-bd94-e20ba5ef4de0/default_primary.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6KE0ivVWokOLJ9Pw3PFCsg", "kid":"IEfXBn6sOBoLKXFTqWgMEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KKWRI_P_IVP_PORT_390x585_7F5BD_20241120_191151.jpg",Geng Ji 2024
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/85501dcc-4012-5a6e-9148-fe88cb7ae190/default_primary.mpd
@@ -1040,7 +1046,7 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9cd02
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GlLF86LKsoM4Xgr3t14Xkg", "kid":"d4anp6RvKOvXraqRsc0iEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UwZjU5NDQtNTdhNy00MGQ2LWE4OTQtZDFjYjJmYWQzNzRjXkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",My Name Shruti 2024 
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNUCN_p_IVP_PORT_476x716_2024719_111717.jpg",My Name Shruti 2024 
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/41a81671-ed9d-58d7-ab5a-d48c029dacdc/default_primary.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1097,6 +1103,21 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c161e6a9-1
 #EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KPNIQ_P_IVP_PORT_390x585_7ED97_20241124_184611.jpg",The Killer 2024
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2a954abd-ddff-5491-80c3-983a134a0d21/default_primary.mpd
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VU10rZRvGZX7VzUza5qj1A", "kid":"CBirmhmOY+EhaHqvrl+DEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLUE_p_IVP_PORT_476x716_2024720_143436.jpg",Oppenheimer (2023)
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/799fb676-7a7e-56cc-8c1f-644d85f66168/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gkgbjU++KKrb8sy6hR4JZA", "kid":"e9sfhGFK3QGm2mj0ItLxEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFKPT_p_IVP_PORT_476x716_2024517_12646.jpg",Web (2023)
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/09fd079a-ca0e-5bcd-bb65-94c7fe49a131/default_primary.mpd
+
+
+
 
 ############################################################################################################################################################################################################################
 
@@ -1131,3 +1152,9 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/8116
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qZTdENOQm1kDhfnPsVOsOw", "kid":"x5f7HEVGt/fUALH1Zhe3EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 5
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/142ace2d-bdea-53d0-a998-76f309f52cc2/default_primary.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2NPeKw4CvmtId5q3fgvLOA", "kid":"WN6HUZpJhtVF9baFHiIJEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 6
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/3f2b2ed3-1bbc-5d93-86a5-5542a7dcb890/default_primary.mpd
