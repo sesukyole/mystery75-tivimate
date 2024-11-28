@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="
+#EXTM3U url-tvg="https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml
 
 
 
@@ -859,7 +859,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HhrtLLur27WmqokLb9gxnA", "kid":"MMyPX1sRay+IsiEb0vMJEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KPAKZ_P_IVP_PORT_390x585_7E6EB_20241120_17281.jpg",Sting 2024
+#EXTINF:-1 tvg-id="Sting" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KPAKZ_P_IVP_PORT_390x585_7E6EB_20241120_17281.jpg",Sting 2024
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/528cb906-115e-5fe6-a295-865c4a7b8990/default_primary.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive 
