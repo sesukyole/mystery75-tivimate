@@ -1097,6 +1097,12 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c161e6a9-1
 #EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KPNIQ_P_IVP_PORT_390x585_7ED97_20241124_184611.jpg",The Killer 2024
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2a954abd-ddff-5491-80c3-983a134a0d21/default_primary.mpd
 
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qY4HM5ayavGPGrhVVLfUJ9xjq8.jpg",The Experts 2024
+https://delicate-hat-9351.ytlampi.workers.dev/download.aspx?file=q3QAR8FUi8aCEZpljStL85PWPyXnN5i2d2Cx1vweCIb8sjx7EoRQFJRRoN71rQMW&expiry=GjQ9gyPKiEDYxUZ7PfSxyw%3D%3D&mac=1ac02d0d1ed1174775364bf322c805d54d4f3ed1609b72341ffe65054c56dc87
+
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",Deadpool & Wolverine 2024
+https://irwanluffyshare.irwanluffy2022.workers.dev/download.aspx?file=f5gF5h%2BK2soTA5h94dnkGi8kM3w4NI9hRU4y5nuW3lQ0IshPjTcA84X8GwkaTEv%2F&expiry=IjTIgFmlXrUHjgedSvzzNg%3D%3D&mac=46d676c6e109ae4ab6f28f04b00cada4656daac8e26379c5158c27d5c342f29e
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VU10rZRvGZX7VzUza5qj1A", "kid":"CBirmhmOY+EhaHqvrl+DEA" } ], "type":"temporary" }
@@ -1110,8 +1116,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/799fb676-
 #EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFKPT_p_IVP_PORT_476x716_2024517_12646.jpg",Web (2023)
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/09fd079a-ca0e-5bcd-bb65-94c7fe49a131/default_primary.mpd
 
-#EXTINF:-1 type="movie" group-title="Movie Baru" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qY4HM5ayavGPGrhVVLfUJ9xjq8.jpg",The Experts (2024)
-https://delicate-hat-9351.ytlampi.workers.dev/download.aspx?file=q3QAR8FUi8aCEZpljStL85PWPyXnN5i2d2Cx1vweCIb8sjx7EoRQFJRRoN71rQMW&expiry=GjQ9gyPKiEDYxUZ7PfSxyw%3D%3D&mac=1ac02d0d1ed1174775364bf322c805d54d4f3ed1609b72341ffe65054c56dc87
+
 
 
 
