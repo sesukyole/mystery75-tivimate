@@ -1106,22 +1106,37 @@ https://irwanluffyshare.irwanluffy2022.workers.dev/download.aspx?file=f5gF5h%2BK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VU10rZRvGZX7VzUza5qj1A", "kid":"CBirmhmOY+EhaHqvrl+DEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLUE_p_IVP_PORT_476x716_2024720_143436.jpg",Oppenheimer 2023
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLUE_p_IVP_PORT_476x716_2024720_143436.jpg",Oppenheimer 
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/799fb676-7a7e-56cc-8c1f-644d85f66168/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gkgbjU++KKrb8sy6hR4JZA", "kid":"e9sfhGFK3QGm2mj0ItLxEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFKPT_p_IVP_PORT_476x716_2024517_12646.jpg",Web 2023
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFKPT_p_IVP_PORT_476x716_2024517_12646.jpg",Web 
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/09fd079a-ca0e-5bcd-bb65-94c7fe49a131/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+2jw5uWSsHtHStjneUnTjQ", "kid":"x0vHwLZ+SD1AIZUNVJd1EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX390_CR0,0,380,562_.jpg",Hotel Transylvania 2023
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX390_CR0,0,380,562_.jpg",Hotel Transylvania 
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c1ca15f5-c39c-5d37-b029-c88a4e84e6ae/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tgoNwPMH/Ghx/JF3R5xzSA", "kid":"1q54cga5UpT9wHfNCGT1EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg",Hotel Transylvania 2 
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6d4adbf1-599f-564e-8f25-8fa79ad27939/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"65/v+rLI0yT72jsporROvw", "kid":"hIfS42VMVGoFfehhE0ZiEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX390_CR0,1,380,562_.jpg",Hotel Transylvania 3 
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8a8249b5-1045-5b07-b6a9-1a7da49b5bdb/default_primary.mpd
+
 
 
 
