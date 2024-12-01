@@ -1106,15 +1106,23 @@ https://irwanluffyshare.irwanluffy2022.workers.dev/download.aspx?file=f5gF5h%2BK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VU10rZRvGZX7VzUza5qj1A", "kid":"CBirmhmOY+EhaHqvrl+DEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLUE_p_IVP_PORT_476x716_2024720_143436.jpg",Oppenheimer (2023)
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLUE_p_IVP_PORT_476x716_2024720_143436.jpg",Oppenheimer 2023
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/799fb676-7a7e-56cc-8c1f-644d85f66168/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gkgbjU++KKrb8sy6hR4JZA", "kid":"e9sfhGFK3QGm2mj0ItLxEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFKPT_p_IVP_PORT_476x716_2024517_12646.jpg",Web (2023)
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFKPT_p_IVP_PORT_476x716_2024517_12646.jpg",Web 2023
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/09fd079a-ca0e-5bcd-bb65-94c7fe49a131/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+2jw5uWSsHtHStjneUnTjQ", "kid":"x0vHwLZ+SD1AIZUNVJd1EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX390_CR0,0,380,562_.jpg",Hotel Transylvania 2023
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c1ca15f5-c39c-5d37-b029-c88a4e84e6ae/default_primary.mpd
+
 
 
 
