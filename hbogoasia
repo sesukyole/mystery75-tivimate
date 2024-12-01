@@ -1126,7 +1126,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c1ca15f5-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tgoNwPMH/Ghx/JF3R5xzSA", "kid":"1q54cga5UpT9wHfNCGT1EA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vBvn6UV7hs8gFcrnR7O6ZA", "kid":"ILDYbPglh+QtGxHxxcFaEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg",Hotel Transylvania 2 
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6d4adbf1-599f-564e-8f25-8fa79ad27939/default_primary.mpd
 
