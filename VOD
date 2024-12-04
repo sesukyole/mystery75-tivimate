@@ -1,4 +1,34 @@
 [
+{  
+   "name": "Am I Ok?", 
+   "category": "HBOGO Asia",  
+   "info": { 
+      "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/042181X0-portrait.jpg", 
+      "bg": "https://dai3fd1oh325y.cloudfront.net/images/originald/042181X0-landscape.jpg", 
+      "plot": "\u201cAm I OK?\u201d memaparkan Lucy, 32 tahun yang tinggal di Los Angeles mengetahui bahawa hubungannya dengan lelaki selama ini gagal kerana dia tak tertarik dengan lelaki. Jane membantu Lucy untuk cuba menjalani kehidupannya yang sebenar dalam usia 30-an.", 
+      "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/042181X0-landscape.jpg", 
+      "director": ["Tig Notaro"], 
+      "cast": ["Dakota Johnson", "Sonoya Mizuno", "Jermaine Fowler", "Kiersey Clemons", "Molly Gordon", "Odessa A\u2019zion"], 
+      "year": "2024"}, 
+   "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6645532dd940521074ff8740_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+   "drm": "clearkey", 
+   "drmkey": "765c8bcaf473c5569fded758e9283746:c89579e1ca850deba8d07a3bfd452669"
+},
+{
+   "name":"Louder: The Soundtrack Of Change",
+   "category":"HBOGO Asia",
+   "info":{
+      "poster":"https://dai3fd1oh325y.cloudfront.net/images/480p/042577X0-portrait.jpg",
+      "bg":"https://dai3fd1oh325y.cloudfront.net/images/originald/042577X0-landscape.jpg",
+      "plot":"Dokumen ini membawa penonton merentasi beberapa generasi, era, dan genre, dipandu oleh satu korus wanita yang terdiri daripada ikon muzik, di mana lagu, suara, dan aktivisme mereka menginspirasi perjuangan untuk kesamaan.",
+      "backdrop":"https://dai3fd1oh325y.cloudfront.net/images/originald/042577X0-landscape.jpg",
+      "director":["Kristi Jacobson"],
+      "cast":[""],
+      "year":"2024"},
+   "video":"https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/670ddffbd9405210741235f7_hbovodhd/dash0/MYS_index.mpd",
+   "drm":"clearkey",
+   "drmkey":"de3f65a5ede5de374c49c3f1c42635d6:714560c3987d833603e361c9071f60db"
+},
 {
    "name":"Oprah And The Color Purple Journey",
    "category":"HBOGO Asia",
@@ -7,14 +37,9 @@
       "bg":"https://dai3fd1oh325y.cloudfront.net/images/originald/041607X0-landscape.jpg",
       "plot":"Di sebalik tabir pembikinan filem The Color Purple Musical serta kesan buku dan filem itu terhadap budaya. Oprah Winfrey akan membawa penonton meneroka kepentingan novel, filem, muzik dan komunikasi budaya.",
       "backdrop":"https://dai3fd1oh325y.cloudfront.net/images/originald/041607X0-landscape.jpg",
-      "director":[
-         ""
-      ],
-      "cast":[
-         "Oprah Winfrey"
-      ],
-      "year":"2023"
-   },
+      "director":[""],
+      "cast":["Oprah Winfrey"],
+      "year":"2023"},
    "video":"https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/658501a6d940521074ed91ac_hbovodhd/dash0/MYS_index.mpd",
    "drm":"clearkey",
    "drmkey":"2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f"
