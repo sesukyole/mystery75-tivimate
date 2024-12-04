@@ -1195,6 +1195,6 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e672
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r3LF3HtUGdbjl/y8RDLaOg", "kid":"rJE2k9mYpPEcn4eDWiE7EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 8
-
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f7a21df0-13d2-528f-b9d5-224aee9d5dca/default_primary.mpd
