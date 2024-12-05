@@ -677,7 +677,7 @@ http://d37lxn4ksn51zz.cloudfront.net/805.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/zJdyCpD/amc.png" group-title="MOVIES", AMC 🇪🇸 🇺🇸
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/zJdyCpD/amc.png" group-title="🇪🇸 🇺🇸", AMC 🇪🇸 🇺🇸
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xvu+HlBqQyPTBGswcxydUg", "kid":"/+w97EDLYaRelpyEl3YV7w" } ], "type":"temporary" }
