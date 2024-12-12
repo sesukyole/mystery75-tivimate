@@ -1203,11 +1203,11 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f7a2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h9dD8Qx79omg7TtBpozvcw", "kid":"HIFI49bIif4og8pgg+KgEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 9
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/4bc15a35-e23e-5664-bd69-ac3787b936d8/default_dash.mpd
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/4bc15a35-e23e-5664-bd69-ac3787b936d8/default_primary.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZzWhPhv3yp5uGTUJUW3q7g", "kid":"jyDAUsAzFCjKxvfmPKqHEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg",Twinkling Watermelon EP 10
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f6447333-494c-5018-a02a-b01ba9a2453f/default_dash.mpd
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f6447333-494c-5018-a02a-b01ba9a2453f/default_primary.mpd
 
