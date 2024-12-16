@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generated-by="mystery75 on github - EPG XML Generator V1.0 - EPG Generated for 17-12-2024">
+ <channel id="Twinkling Watermelon EP 1">
+  <display-name lang="en">Twinkling Watermelon EP 1</display-name>
+  <icon src="https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg"/>
+  <url>https://astro.com.my</url>
+ </channel>
+ <programme start="20241216120000 +0000" stop="20241216120500 +0000" channel="Twinkling Watermelon EP 1">
+  <title lang="en">Twinkling Watermelon EP 1</title>
+  <desc lang="en">Eun-gyeol, budak CODA, satu-satunya yang boleh mendengar dalam keluarganya dan sebagai penyelesai masalah. Suatu hari, selepas dia dibuli, muzik sedih dari Viva Music menarik perhatian Eun-gyeol.</desc>
+  </programme>
+</tv>
