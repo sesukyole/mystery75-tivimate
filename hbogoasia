@@ -1099,12 +1099,12 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2a954
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a031cfac45e00e712cec59a93d61b10:43cec36e92b06937e4ce36351014488f
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEKWN_IVP_LAND_432x243_640B8_20241030_15727.jpg" group-title="",The Roundup
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI5OGM2MTItNzc1Mi00OTkzLTk3MjMtZjA3Zjk5MzNkNDI3XkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg" group-title="",The Roundup
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e7eb63b8-2526-5386-b0a2-9c21956b1fdd/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7687646ad63dd6f5d5d5650cf8d22510:901c596b26e3009ebd07e2f6ab332560
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJHLO_IVP_LAND_432x243_73918_20241024_15359.jpg" group-title="",The Roundup: No Way Out
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BODJiMGJlMDEtNjNkZi00N2YzLTlhMzgtODMyZWJhNTIyMDIxXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg" group-title="",The Roundup: No Way Out
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/7c5713cb-254a-555e-bbc1-9ad7b91d8ef8/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qY4HM5ayavGPGrhVVLfUJ9xjq8.jpg",The Experts 2024
@@ -1177,27 +1177,27 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/730a46c4-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f91bb1d4913117a253cd19ddd5cb8d10:cf636f95a6f14641df7cb92825b4217a
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCSVB_IVP_LAND_288x162_2024731_11341.jpg" group-title="", Underworld: Evolution
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg" group-title="", Underworld: Evolution
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/34775378-b3dd-5bfd-bde4-bbce61cffbb4/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b0fef747d263b44b68f4ecd135233010:1e800b06018af545fea8eb3ea3342576
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IAYZQ_IVP_LAND_288x162_2024731_103248.jpg" group-title="", Underworld: Rise of the Lycans
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_FMjpg_UX390_CR0,1,380,562_.jpg" group-title="", Underworld: Rise of the Lycans
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/43b9a506-c72d-5f4b-874a-aa42b2ecf1ea/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8993798bf2608c605557cf37e259c510:e12e81e172b585fa4eb8934a80c07885
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IAYZP_IVP_LAND_171x96_2024731_103323.jpg" group-title="", Underworld: Awakening
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg" group-title="", Underworld: Awakening
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d40e684a-15da-5d64-bf92-80f374320641/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=537ec5f8aec146f44e388f4161cd9110:37d368dfeba7ac1ae006467c08c4cae5
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IAYYZ_IVP_LAND_288x162_2024731_113436.jpg" group-title="", Underworld: Blood Wars
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_FMjpg_UX390_CR0,1,380,562_.jpg" group-title="", Underworld: Blood Wars
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bdc4d547-d631-5183-a593-77809d7f5b61/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5276e2273267198dadf291e3b5358b10:0a338763a167934b69c644905fd7c295
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KCEDN_IVP_LAND_672x378_5EE05_20241119_81747.jpg" group-title="",The Hulk
+#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQxMmVlMTItMGFjYi00MTc2LWE5MzMtYjFhZWJmZGY0MTY5XkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg" group-title="",The Hulk
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/43bcaaab-e569-579d-bb3c-448c6c8afbc3/default_primary.mpd
 
 
