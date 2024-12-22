@@ -3,7 +3,7 @@
     "name": "Twinkling Watermelon",
     "category": "Drama",
     "info": {
-      "genre": ["drama",]
+      "genre": ["drama"]
     },
     "seasons": [
       {
@@ -13,7 +13,7 @@
       },
         "episodes": [
                 {
-                 "episode": 01,
+                 "episode": 1,
                  "name": "Twinkling Watermelon",
                  "info": {
                           "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
