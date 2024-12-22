@@ -1,6 +1,7 @@
 [
  {        
   "name": "16 Puasa", 
+  "icon":"https://raw.githubusercontent.com/mystery75/logo/main/Astro.jpg",
   "category": "Movies",  
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -17,6 +18,7 @@
  }, 
  {        
   "name": "Twinkling Watermelon EP 1", 
+  "icon":"https://raw.githubusercontent.com/mystery75/logo/main/Astro.jpg",
   "category": "Series",  
   "info": { 
            "episode": 1,
@@ -35,6 +37,7 @@
   },
   {
    "name": "Twinkling Watermelon EP 2", 
+   "icon":"https://raw.githubusercontent.com/mystery75/logo/main/Astro.jpg",
    "category": "Series",  
    "info": { 
             "episode": 2,
