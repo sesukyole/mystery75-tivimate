@@ -3,9 +3,7 @@
    "icon": "http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",
    "name": "Twinkling Watermelon",
    "category": "Series",  
-   "genre": "drama"
-   "info": { 
-      "episodes": {
+      "info": { 
       "episode": 1,
       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
       "bg": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_7E61A_IVP_LAND_586x330_7E61A_2024122_142246.jpg", 
@@ -13,6 +11,7 @@
       "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_7E61A_IVP_LAND_586x330_7E61A_2024122_142246.jpg", 
       "director": ["Son Jung Hyun"], 
       "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook"], 
+      "genre": ["drama"],
       "year": "2023"}, 
    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e24a4edc-4ece-510d-b5c6-c62c9d28f59d/default_primary.mpd", 
    "drm": "clearkey", 
