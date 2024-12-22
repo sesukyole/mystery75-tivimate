@@ -1,9 +1,12 @@
 [
  {  
+   "icon":
    "name": "Twinkling Watermelon",
-   "episode": "EP01",
    "category": "Series",  
    "info": { 
+      "genre": ["drama"]
+      "episodes": [{
+      "episode": 1,
       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
       "bg": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_7E61A_IVP_LAND_586x330_7E61A_2024122_142246.jpg", 
       "plot": "Eun-gyeol, budak CODA, satu-satunya yang boleh mendengar dalam keluarganya dan sebagai penyelesai masalah. Suatu hari, selepas dia dibuli, muzik sedih dari Viva Music menarik perhatian Eun-gyeol.", 
