@@ -3,8 +3,8 @@
    "icon": "http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",
    "name": "Twinkling Watermelon",
    "category": "Series",  
+   "genre": "drama"
    "info": { 
-      "genre": ["drama"]
       "episodes": {
       "episode": 1,
       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
