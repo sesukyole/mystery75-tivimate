@@ -7,9 +7,9 @@
     },
     "seasons": [
       {
-        "season":,
+        "season": 1,
         "info": { 
-                 "genre": ["drama"]
+                 "genre": ["drama"],
       },
         "episodes": [
                 {
