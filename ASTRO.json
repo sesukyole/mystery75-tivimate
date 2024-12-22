@@ -5,13 +5,13 @@
     "info": {
       "genre": ["drama"]
     },
-    "seasons": [
+    "seasons": 
       {
         "season": 1,
         "info": { 
                  "genre": ["drama"],
        },
-                ]
+                
         "episodes": [
                 {
                  "episode": 1,
