@@ -21,7 +21,8 @@
   "icon":"https://raw.githubusercontent.com/mystery75/logo/main/Astro.jpg",
   "category": "Series",  
   "info": { 
-           "ttl": 1,
+           "easonepisode": EP,
+           "seasonepisodenumber": 1,
            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
            "plot": "Eun-gyeol, budak CODA, satu-satunya yang boleh mendengar dalam keluarganya dan sebagai penyelesai masalah. Suatu hari, selepas dia dibuli, muzik sedih dari Viva Music menarik perhatian Eun-gyeol.", 
@@ -37,7 +38,8 @@
    "name": "Twinkling Watermelon EP 2", 
    "category": "Series",  
    "info": { 
-            "ttl": 2,
+            "easonepisode": EP,
+            "seasonepisodenumber": 2,
             "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
             "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
             "plot": "Spine 9 menawarkan Eun-gyeol peluang untuk uji bakat. Dia mendapat peluang untuk menyertai jelajah dunia Yoon Dong-jin, legenda segala kumpulan muzik, tetapi persembahannya menjadi kacau.", 
@@ -53,7 +55,8 @@
    "name": "Twinkling Watermelon EP 3", 
    "category": "Series",  
    "info": { 
-            "ttl": 3,
+            "easonepisode": EP,
+            "seasonepisodenumber": 3,
             "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
             "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
             "plot": "Untuk menyelesaikan misi mustahil Se-kyung, Yi-chan merekrut kumpulan muzik dari Sekolah Tinggi Baekwang dan membentuk Pencipta Memori Cinta Pertama..", 
