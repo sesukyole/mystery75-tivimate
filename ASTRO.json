@@ -19,9 +19,9 @@
   "category": "Movies",  
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
-           "bg": "", 
+           "bg": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_IVP_LAND_917x516_378AF_20241130_41528.jpg", 
            "plot": "Sebuah kisah komedi tentang enam orang sahabat yang tidak henti-henti menghadapi kesukaran berpuasa sepanjang Ramadan. Apabila takdir mempertemukan mereka, masalah mereka berlipat ganda.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_IVP_LAND_917x516_378AF_20241130_41528.jpg", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
            "year": "2017"}, 
