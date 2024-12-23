@@ -1,28 +1,39 @@
 [
  {        
   "name": "16 Puasa", 
-  "icon":"https://raw.githubusercontent.com/mystery75/logo/main/Astro.jpg",
   "category": "Movies",  
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
-           "bg": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_IVP_LAND_917x516_2024221_204310.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "plot": "Kisah sekumpulan kawan baik di sebuah kampung yang ponteng puasa. Mereka menyembunyikan aktiviti mereka daripada pengetahuan isteri masing-masing. Mereka juga menetapkan jadual siapa yang akan membeli makanan di pekan dan kemudian makan di tempat-tempat terlindung. Berjayakah mereka berterusan sebegitu sepanjang bulan Ramadan?.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_IVP_LAND_917x516_2024221_204310.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
-           "country": ["Malaysia"],
            "year": "2017"}, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cbfc1b59-d17a-57e3-9a55-6b72c59ef9db/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "6a5580676416fb8b215e23638ddcd610:07ff72561ad9723e01be293effdd6b8d"
  }, 
  {        
+  "name": "17 Puasa", 
+  "category": "Movies",  
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "plot": "Sebuah kisah komedi tentang enam orang sahabat yang tidak henti-henti menghadapi kesukaran berpuasa sepanjang Ramadan. Apabila takdir mempertemukan mereka, masalah mereka berlipat ganda.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_IVP_LAND_917x516_2024221_204310.jpg", 
+           "director": ["Mamat Khalid"], 
+           "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
+           "year": "2017"}, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c5dfdbee-1bfb-59dc-bc04-047e7da111ef/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "edb936d4bce718c67da95c5958bc6010:917975e1fac313e63a89dc7680326d02"
+ }, 
+ {        
   "name": "Twinkling Watermelon EP 1", 
   "icon":"https://raw.githubusercontent.com/mystery75/logo/main/Astro.jpg",
   "category": "Series",  
   "info": { 
-           "seasonepisode": 1,
-           "seasonepisodenumber": 1,
            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
            "plot": "Eun-gyeol, budak CODA, satu-satunya yang boleh mendengar dalam keluarganya dan sebagai penyelesai masalah. Suatu hari, selepas dia dibuli, muzik sedih dari Viva Music menarik perhatian Eun-gyeol.", 
@@ -38,8 +49,6 @@
    "name": "Twinkling Watermelon EP 2", 
    "category": "Series",  
    "info": { 
-            "seasonepisode": 1,
-            "seasonepisodenumber": 2,
             "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
             "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
             "plot": "Spine 9 menawarkan Eun-gyeol peluang untuk uji bakat. Dia mendapat peluang untuk menyertai jelajah dunia Yoon Dong-jin, legenda segala kumpulan muzik, tetapi persembahannya menjadi kacau.", 
@@ -55,11 +64,9 @@
    "name": "Twinkling Watermelon EP 3", 
    "category": "Series",  
    "info": { 
-            "seasonepisode": 1,
-            "seasonepisodenumber": 3,
             "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
             "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-            "plot": "Untuk menyelesaikan misi mustahil Se-kyung, Yi-chan merekrut kumpulan muzik dari Sekolah Tinggi Baekwang dan membentuk Pencipta Memori Cinta Pertama..", 
+            "plot": "Untuk menyelesaikan misi mustahil Se-kyung, Yi-chan merekrut kumpulan muzik dari Sekolah Tinggi Baekwang dan membentuk Pencipta Memori Cinta Pertama.", 
             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_7E61A_IVP_LAND_586x330_7E61A_2024122_142246.jpg", 
             "director": ["Son Jung Hyun"], 
             "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
@@ -67,4 +74,19 @@
             "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1a213766-6dff-50c5-af14-8f74eb7750e6/default_primary.mpd", 
             "drm": "clearkey", 
             "drmkey": "2b51d99f8bf29d44d873f11634dfe710:50fa40c563813c7f8f2b803a34744cfb"
+},
+{
+   "name": "Twinkling Watermelon EP 4", 
+   "category": "Series",  
+   "info": { 
+            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+            "plot": "Se-kyung cemas selepas bertemu Eun-gyeol yang seolah-olah mengetahui rahsia keluarganya. Apabila berpeluang melanjutkan pelajaran ke luar negara, dia memutuskan untuk keluar dari negara itu.", 
+            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_7E61A_IVP_LAND_586x330_7E61A_2024122_142246.jpg", 
+            "director": ["Son Jung Hyun"], 
+            "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+            "year": "2023"}, 
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/81162152-3399-569e-9b9d-5b8287e973f8/default_primary.mpd", 
+            "drm": "clearkey", 
+            "drmkey": "109384036d30714bdef8f93cb73b2310:cc3105eee7c148a444bc3655b6b00c69"
 },
