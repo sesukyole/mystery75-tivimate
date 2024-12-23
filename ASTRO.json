@@ -63,5 +63,5 @@
             "year": "2023"}, 
             "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1a213766-6dff-50c5-af14-8f74eb7750e6/default_primary.mpd", 
             "drm": "clearkey", 
-            "drmdata": "{ "keys":[ { "kty":"oct", "k":"UPpAxWOBPH+PK4A6NHRM+w", "kid":"K1HZn4vynUTYc/EWNN/nEA" } ], "type":"temporary" }"
+            "drmkey": "2b51d99f8bf29d44d873f11634dfe710:50fa40c563813c7f8f2b803a34744cfb"
 },
