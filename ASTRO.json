@@ -40,9 +40,8 @@
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
            "director": ["Son Jung Hyun"], 
            "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
-           "ttl": 1,
-           "quality": "FHD",
-           "year": "2023"}, 
+           "year": "2023"
+           }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e24a4edc-4ece-510d-b5c6-c62c9d28f59d/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "93ba35e173628f5f36104d439d0e7a10:19330f2c8623eb758194d0d7d81fa744"
@@ -57,7 +56,8 @@
             "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
             "director": ["Son Jung Hyun"], 
             "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
-            "year": "2023"}, 
+            "year": "2023"
+           }, 
             "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/419945e7-98b6-5e9e-86f3-8e1341ef23f3/default_primary.mpd", 
             "drm": "clearkey", 
             "drmkey": "cf851e306467c7ed05bc711ea0abd310:060c3752216d086a7b06982f7155db90"
@@ -72,7 +72,8 @@
             "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
             "director": ["Son Jung Hyun"], 
             "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
-            "year": "2023"}, 
+            "year": "2023"
+           }, 
             "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1a213766-6dff-50c5-af14-8f74eb7750e6/default_primary.mpd", 
             "drm": "clearkey", 
             "drmkey": "2b51d99f8bf29d44d873f11634dfe710:50fa40c563813c7f8f2b803a34744cfb"
@@ -87,7 +88,8 @@
             "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
             "director": ["Son Jung Hyun"], 
             "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
-            "year": "2023"}, 
+            "year": "2023"
+           }, 
             "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/81162152-3399-569e-9b9d-5b8287e973f8/default_primary.mpd", 
             "drm": "clearkey", 
             "drmkey": "109384036d30714bdef8f93cb73b2310:cc3105eee7c148a444bc3655b6b00c69"
@@ -102,7 +104,8 @@
             "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
             "director": ["Son Jung Hyun"], 
             "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
-            "year": "2023"}, 
+            "year": "2023"
+           }, 
             "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/142ace2d-bdea-53d0-a998-76f309f52cc2/default_primary.mpd", 
             "drm": "clearkey", 
             "drmkey": "c797fb1c4546b7f7d400b1f56617b710:a994dd10d3909b590385f9cfb153ac3b"
