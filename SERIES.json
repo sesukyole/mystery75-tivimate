@@ -2,6 +2,16 @@
  { 
   "name": "Twinkling Watermelon", 
   "category": "Series",
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "info": {
+          "genre": [
+            "drama",
+            "history"
+          ]
+    },
   "episodes": [
     {
       "episode": 1,
