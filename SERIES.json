@@ -3,15 +3,14 @@
   "name": "Twinkling Watermelon", 
   "category": "Series"
  },
-  "seasons": [
+  "seasons": 
     {
         "season": 1,
         "name": "Twinkling Watermelon",
         "info": {
           "genre": ["Series"]
     },
-]
-  "episodes": [
+   "episodes": [
     {
       "episode": 1,
       "name": "Twinkling Watermelon",
