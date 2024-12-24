@@ -2,11 +2,8 @@
      { 
        "name": "Twinkling Watermelon", 
        "category": "Series",
-     },
-     {
-       "name": "Twinkling Watermelon", 
        "episodes": {
-                     "episode": 1
+                     "episode": 1,
                    },
        "info": {
                  "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
