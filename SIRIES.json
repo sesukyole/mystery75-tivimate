@@ -1,8 +1,10 @@
 [
  {
-    "name": "Twinkling Watermelon",
-    "tvshows": [
+    "name": "TWINKLING WATERMELON",
+    "seasons": [
         {
+          "name": "TWINKLING WATERMELON",
+          "info": "KOREA | HD"
           "episodes": [
                 {
                     "episode": 1,
@@ -233,7 +235,7 @@
 },
 {
     "name": "Andai Tiada Dia",
-    "tvshows": [
+    "seasons": [
         {
           "episodes": [
                 {
