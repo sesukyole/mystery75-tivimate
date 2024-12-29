@@ -42,7 +42,7 @@
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                            "plot": "Spine 9 menawarkan Eun-gyeol peluang untuk uji bakat. Dia mendapat peluang untuk menyertai jelajah dunia Yoon Dong-jin, legenda segala kumpulan muzik, tetapi persembahannya menjadi kacau.",
+                            "plot": "Untuk menyelesaikan misi mustahil Se-kyung, Yi-chan merekrut kumpulan muzik dari Sekolah Tinggi Baekwang dan membentuk Pencipta Memori Cinta Pertama.",
                             "director": ["Son Jung Hyun"], 
                             "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
                             "year": "2023"
@@ -231,7 +231,12 @@
     "name": "ANDAI TIADA DIA",
     "seasons": [
         {
+          "name": "ANDAI TIADA DIA",
+          "info": {
+                     "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                   },
           "episodes": [
+           
                 {
                     "episode": 1,
                     "name": "Andai Tiada Dia EP 1",
