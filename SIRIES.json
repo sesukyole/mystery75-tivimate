@@ -244,7 +244,6 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c409824b-dc7f-59d4-9cd8-a67c6275aaee/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "e46c1d57774d1bb34abdcf7205f79210:bd0f69557768555c833c454585e655bd"
-                 },
           "episodes": [       
                 {
                     "episode": 1,
