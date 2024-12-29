@@ -4,7 +4,7 @@
     "category": "Series",
     "seasons": [
          {   
-           "season":,
+           "season": 0,
            "episodes": [
                {     
                     "episode": 1,
@@ -69,6 +69,21 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/81162152-3399-569e-9b9d-5b8287e973f8/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "109384036d30714bdef8f93cb73b2310:cc3105eee7c148a444bc3655b6b00c69"
+               },
+              {
+                   "episode": 5,
+                    "name": "EP 5",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                            "plot": "Eun-gyeol teringat bagaimana ayahnya kehilangan pendengaran dalam satu kemalangan dan memutuskan untuk berada di sisi Yi-chan untuk mencegah kemalangan itu berlaku.",
+                            "director": ["Son Jung Hyun"], 
+                            "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+                            "year": "2023"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/142ace2d-bdea-53d0-a998-76f309f52cc2/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "c797fb1c4546b7f7d400b1f56617b710:a994dd10d3909b590385f9cfb153ac3b"
                },
             ]
         }
