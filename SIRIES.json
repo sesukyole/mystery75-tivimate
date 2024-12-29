@@ -21,6 +21,7 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/419945e7-98b6-5e9e-86f3-8e1341ef23f3/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "cf851e306467c7ed05bc711ea0abd310:060c3752216d086a7b06982f7155db90"
+               }
             ]
         }
     ]
