@@ -1,0 +1,21 @@
+[
+ {
+    "name": "Test serial",
+    "category": "Drama",
+    "info": { ... },
+    "seasons": [
+        {
+            "season": 1,
+            "info": { ... },
+            "episodes": [
+                {
+                    "episode": 1,
+                    "name": "Intro",
+                    "info": { ... },
+                    "video": "http://episodes/file.mp4"
+                }
+            ]
+        }
+    ]
+}
+]
