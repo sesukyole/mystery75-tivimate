@@ -267,7 +267,7 @@
             "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
             "year": "2023"
            }, 
-            "video": "vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/472142a5-83b0-56ce-a994-3e3765566441/default_primary.mpd", 
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/472142a5-83b0-56ce-a994-3e3765566441/default_primary.mpd", 
             "drm": "clearkey", 
             "drmkey": "01f6cc041f8f8fc3164400adb6003c10:5e9966f1d414aa5ded1a2971970f1bee"
 }, 
@@ -283,7 +283,7 @@
             "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
             "year": "2023"
            }, 
-            "video": "vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b7b7e6e4-d825-5fe9-8270-0c4323c2aed5/default_primary.mpd", 
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b7b7e6e4-d825-5fe9-8270-0c4323c2aed5/default_primary.mpd", 
             "drm": "clearkey", 
             "drmkey": "760a62bd8e6fcbccfc582fa46cb21c10:6bfd238238a33b12e99dc8b444ca6ed2"
 }, 
