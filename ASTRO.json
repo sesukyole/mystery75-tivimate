@@ -9,7 +9,8 @@
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_IVP_LAND_917x516_2024221_204310.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
-           "year": "EP 1 | 2017 | HD"}, 
+           "year": "2017"
+            }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cbfc1b59-d17a-57e3-9a55-6b72c59ef9db/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "6a5580676416fb8b215e23638ddcd610:07ff72561ad9723e01be293effdd6b8d"
@@ -24,10 +25,28 @@
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_IVP_LAND_917x516_378AF_20241130_41528.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
-           "year": "2017"}, 
+           "year": "2017"
+           }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c5dfdbee-1bfb-59dc-bc04-047e7da111ef/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "edb936d4bce718c67da95c5958bc6010:917975e1fac313e63a89dc7680326d02"
+ }, 
+ {        
+  "name": "Underworld: Evolution", 
+  "category": "Movies",  
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "bg": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCSVB_IVP_LAND_586x330_2024731_11341.jpg", 
+           "plot": "Ketika perang antara Vampire dan Lycan terus marak, Selene, bekas ahli Death Dealers (unit pasukan khas vampire elit yang memburu werewolf) dan Michael, kacukan werewolf, bekerjasama sebagai usaha untuk merungkai rahsia-rahsia keturunan masing-masing.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCSVB_IVP_LAND_586x330_2024731_11341.jpg", 
+           "director": ["Len Wiseman"], 
+           "cast": ["Kate Beckinsale,Scott Speedman"],
+           "year": "2006",
+           "icon": ""
+           }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/34775378-b3dd-5bfd-bde4-bbce61cffbb4/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "f91bb1d4913117a253cd19ddd5cb8d10:cf636f95a6f14641df7cb92825b4217a"
  }, 
  {        
   "name": "Twinkling Watermelon EP 1", 
