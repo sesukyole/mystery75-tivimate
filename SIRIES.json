@@ -4,8 +4,7 @@
     "category": "Series",
     "seasons": [
          {   
-           "season": 0,
-           "episodes": [
+          "episodes": [
                {     
                     "episode": 1,
                     "name": "EP 1",
@@ -85,8 +84,33 @@
                     "drm": "clearkey", 
                     "drmkey": "c797fb1c4546b7f7d400b1f56617b710:a994dd10d3909b590385f9cfb153ac3b"
                },
+              {
+                   "episode": 6,
+                    "name": "EP 6",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                            "plot": "Selepas Se-kyung kembali, dia bukan sahaja bersikap mesra dengan Yi-chan, malah penuh semangat! Eun-gyeol risau kerana dia tak dapat membaca apa yang ada dalam fikiran Se-kyung.", 
+                            "director": ["Son Jung Hyun"], 
+                            "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+                            "year": "2023"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/3f2b2ed3-1bbc-5d93-86a5-5542a7dcb890/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "58de87519a4986d545f5b6851e220910:d8d3de2b0e02be6b48779ab77e0bcb38"
+               },
             ]
         }
     ]
+  },
+  {
+   "name": "Andai Tiada Dia EP 1", 
+   "category": "Series", 
+   "seasons": [
+         {   
+          "episodes": [
+               {     
+                    "episode": 1,
+                    
 }
 ]
