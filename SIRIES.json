@@ -100,85 +100,133 @@
                     "drmkey": "58de87519a4986d545f5b6851e220910:d8d3de2b0e02be6b48779ab77e0bcb38"
                },
              {
-               "episode": 7,
-                "name": "Twinkling Watermelon EP 7",
-                "info": {
+                 "episode": 7,
+                  "name": "Twinkling Watermelon EP 7",
+                  "info": {
+                          "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                          "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                          "plot": "Chung-a terjaga dan mendapati bahawa Yi-chan telah membawanya ke hospital. Yi-chan mempunyai banyak persoalan untuk Eun-gyeol, namun Eun-gyeol telah hilang tanpa khabar selama beberapa hari.", 
+                          "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
+                          "director": ["Son Jung Hyun"], 
+                          "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+                          "year": "2023"
+                          }, 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e672bb82-984a-53f2-b08d-792f290abe3b/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "3310c58ba5f02bfb39d9494004f1ce10:e68f778f10680390f95686e2522473f5"
+              }, 
+            {
+                "episode": 8,
+                 "name": "Twinkling Watermelon EP 8", 
+                 "info": { 
+                         "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                         "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                         "plot": "Eun-gyeol berasa lega dan berlari pulang, lalu menceritakan kepada ayahnya dan Eunho tentang apa yang berlaku dalam mimpinya.", 
+                         "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
+                         "director": ["Son Jung Hyun"], 
+                         "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+                         "year": "2023"
+                         }, 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f7a21df0-13d2-528f-b9d5-224aee9d5dca/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "ac913693d998a4f11c9f87835a213b10:af72c5dc7b5419d6e397fcbc4432da3a"
+             },
+           {  
+               "episode": 9,  
+                "name": "Twinkling Watermelon EP 9", 
+                "info": { 
                         "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                         "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                        "plot": "Chung-a terjaga dan mendapati bahawa Yi-chan telah membawanya ke hospital. Yi-chan mempunyai banyak persoalan untuk Eun-gyeol, namun Eun-gyeol telah hilang tanpa khabar selama beberapa hari.", 
+                        "plot": "Yi-chan terkejut dengan pengakuan Eun-gyeol di hadapan orang ramai, menumbuk Eun-gyeol. Dalam kekecohan itu, ahli-ahli kumpulan muzik cuba meleraikan mereka.", 
                         "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                         "director": ["Son Jung Hyun"], 
                         "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
                         "year": "2023"
                         }, 
-                  "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e672bb82-984a-53f2-b08d-792f290abe3b/default_primary.mpd", 
+                  "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/4bc15a35-e23e-5664-bd69-ac3787b936d8/default_primary.mpd", 
                   "drm": "clearkey", 
-                  "drmkey": "3310c58ba5f02bfb39d9494004f1ce10:e68f778f10680390f95686e2522473f5"
-            }, 
+                  "drmkey": "1c8148e3d6c889fe2883ca6083e2a010:87d743f10c7bf689a0ed3b41a68cef73"
+            },
           {
-            "episode": 8,
-            "name": "Twinkling Watermelon EP 8", 
-            "info": { 
-                    "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                    "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                    "plot": "Eun-gyeol berasa lega dan berlari pulang, lalu menceritakan kepada ayahnya dan Eunho tentang apa yang berlaku dalam mimpinya.", 
-                    "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
-                    "director": ["Son Jung Hyun"], 
-                    "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
-                    "year": "2023"
-                    }, 
-             "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f7a21df0-13d2-528f-b9d5-224aee9d5dca/default_primary.mpd", 
-             "drm": "clearkey", 
-             "drmkey": "ac913693d998a4f11c9f87835a213b10:af72c5dc7b5419d6e397fcbc4432da3a"
-           },
-         {  
-           "episode": 9,  
-            "name": "Twinkling Watermelon EP 9", 
-            "info": { 
-                    "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                    "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                    "plot": "Yi-chan terkejut dengan pengakuan Eun-gyeol di hadapan orang ramai, menumbuk Eun-gyeol. Dalam kekecohan itu, ahli-ahli kumpulan muzik cuba meleraikan mereka.", 
-                    "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
-                    "director": ["Son Jung Hyun"], 
-                    "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
-                    "year": "2023"
-                    }, 
-             "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/4bc15a35-e23e-5664-bd69-ac3787b936d8/default_primary.mpd", 
-             "drm": "clearkey", 
-             "drmkey": "1c8148e3d6c889fe2883ca6083e2a010:87d743f10c7bf689a0ed3b41a68cef73"
-          },
-         {
-           "episode": 10,  
-            "name": "Twinkling Watermelon EP 10",
-            "info": { 
-                    "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                    "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                    "plot": "Chung-a belajar bahasa isyarat daripada Eun-gyeol, membuatkan Eun-yu cemburu. Sementara itu, kata-kata Chung-a tentang menjadi kawan terus menghantui fikiran Yi-chan!", 
-                    "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
-                    "director": ["Son Jung Hyun"], 
-                    "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
-                    "year": "2023"
-                    }, 
-             "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f6447333-494c-5018-a02a-b01ba9a2453f/default_primary.mpd", 
-             "drm": "clearkey", 
-             "drmkey": "8f20c052c0331428cac6f7e63caa8710:6735a13e1bf7ca9e6e193509516deaee"
-         },
+              "episode": 10,  
+               "name": "Twinkling Watermelon EP 10",
+               "info": { 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "plot": "Chung-a belajar bahasa isyarat daripada Eun-gyeol, membuatkan Eun-yu cemburu. Sementara itu, kata-kata Chung-a tentang menjadi kawan terus menghantui fikiran Yi-chan!", 
+                       "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
+                       "director": ["Son Jung Hyun"], 
+                       "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+                       "year": "2023"
+                       }, 
+                 "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f6447333-494c-5018-a02a-b01ba9a2453f/default_primary.mpd", 
+                 "drm": "clearkey", 
+                 "drmkey": "8f20c052c0331428cac6f7e63caa8710:6735a13e1bf7ca9e6e193509516deaee"
+            },
+          {
+              "episode": 11,  
+               "name": "Twinkling Watermelon EP 11",
+               "info": { 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "plot": "Pesta semakin hampir. Ketika Eun-gyeol sibuk membuat persiapan untuk persembahan, dia teringat petunjuk penting tentang kemalangan yang menyebabkan ayahnya hilang pendengaran.", 
+                       "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
+                       "director": ["Son Jung Hyun"], 
+                       "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+                       "year": "2023"
+                       }, 
+                 "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/095f9686-f9f6-52fd-a0e4-09d3fc36897a/default_primary.mpd", 
+                 "drm": "clearkey", 
+                 "drmkey": "9bf48a57c829800fc84b1a1f06e61d10:99220b4e9e309135f6503d8731922701"
+             },
            {
-            "episode": 11,  
-            "name": "Twinkling Watermelon EP 11",
-            "info": { 
-            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-            "plot": "Pesta semakin hampir. Ketika Eun-gyeol sibuk membuat persiapan untuk persembahan, dia teringat petunjuk penting tentang kemalangan yang menyebabkan ayahnya hilang pendengaran.", 
-            "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
-            "director": ["Son Jung Hyun"], 
-            "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
-            "year": "2023"
-           }, 
-            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/095f9686-f9f6-52fd-a0e4-09d3fc36897a/default_primary.mpd", 
-            "drm": "clearkey", 
-                  "drmkey": "9bf48a57c829800fc84b1a1f06e61d10:99220b4e9e309135f6503d8731922701"
-               },
+              "episode": 12,  
+               "name": "Twinkling Watermelon EP 12",
+               "info": { 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "plot": "Selepas menghalang ayahnya daripada hilang pendengaran, Eun-gyeol teringat janjinya kepada Eun-yu. Dia lewat datang untuk memohon maaf, tetapi Eun-yu menghalaunya keluar.", 
+                       "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
+                       "director": ["Son Jung Hyun"], 
+                       "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+                       "year": "2023"
+                       }, 
+                 "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/651cb142-7b54-53d5-af18-54bbebc138f1/default_primary.mpd", 
+                 "drm": "clearkey", 
+                 "drmkey": "271c81ec9a8175d43db45a20ce637c10:a426c14cd1761a7e0e56caa4ca397936"
+              }, 
+           {
+              "episode": 13,  
+               "name": "Twinkling Watermelon EP 13",
+               "info": { 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "plot": "Kumpulan yang dijangka bubar kini mendapat misi untuk menyertai pertandingan kumpulan remaja kebangsaan dan mereka perlu cipta lagu sendiri. Yi-chan cadangkan agar ahli-ahli kumpulan pergi ke kem lagu.", 
+                       "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
+                       "director": ["Son Jung Hyun"], 
+                       "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+                       "year": "2023"
+                       }, 
+                 "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/472142a5-83b0-56ce-a994-3e3765566441/default_primary.mpd", 
+                 "drm": "clearkey", 
+                 "drmkey": "01f6cc041f8f8fc3164400adb6003c10:5e9966f1d414aa5ded1a2971970f1bee"
+              }, 
+           {
+              "episode": 14,  
+               "name": "Twinkling Watermelon EP 14",
+               "info": { 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "plot": "Eun-gyeol dan Eun-yu melompat keluar dari kereta api menuju ke kem lagu. Yi-chan dan Chung-a saling memandang dengan penuh kasih. Ahli-ahli kumpulab lain cemburu melihat dua pasangan itu.", 
+                       "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
+                       "director": ["Son Jung Hyun"], 
+                       "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+                       "year": "2023"
+                       }, 
+                 "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b7b7e6e4-d825-5fe9-8270-0c4323c2aed5/default_primary.mpd", 
+                 "drm": "clearkey", 
+                 "drmkey": "760a62bd8e6fcbccfc582fa46cb21c10:6bfd238238a33b12e99dc8b444ca6ed2"
+              },           
             ]
         }
     ]
@@ -220,6 +268,54 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/15efa76d-7841-5c02-84e5-ad31b443f8b1/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "8abb7ee15d06b58f0b2274c6a6260510:6652e6f7ac091f4451e44e4dfd3cdda6"
+                 },
+            {
+                    "episode": 3,
+                    "name": "Andai Tiada Dia EP 3",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Suri terpaksa mengikut syarat-syarat yang ditetapkan oleh Haikal demi untuk menjaga Luqman.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1f1b0b5f-0d29-5584-8e8f-955582b90272/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "55e08902c40b3161d957b78868e81d10:8976f9aded8fd373f02f90480aae98f8"
+                 },
+           {
+                    "episode": 4,
+                    "name": "Andai Tiada Dia EP 4",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Haikal berada dalam keadaan dilema, dia cuba memulihkan hubungannya bersama Suri, namun, Intan terus menggoda Haikal.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/aaeedd87-acc4-56b9-a3ca-f81f0361c344/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "45d4e860166d53dd43a3aeed57e23010:22e9e0c23320444af5583e5615fdb53a"
+                 },
+           {
+                    "episode": 5,
+                    "name": "Andai Tiada Dia EP 5",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Suri merancang kejutan hari jadi untuk Haikal, tanpa Suri mengetahui, Haikal dan Intan sedang bercuti bersama ketika 'business trip' Haikal.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9f6a9c28-4216-560d-beaf-e582b7162f3e/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "62ffae1db2b8766887d581b6536bd310:c433002717764ae1864f02c3356d8cfe"
                  },
             ]
         }
