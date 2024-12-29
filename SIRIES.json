@@ -38,30 +38,9 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/419945e7-98b6-5e9e-86f3-8e1341ef23f3/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "cf851e306467c7ed05bc711ea0abd310:060c3752216d086a7b06982f7155db90"
-               }
-             ]
-{         
-   "name": "Andai Tiada Dia EP 1", 
-   "category": "Series", 
-   "seasons": [
-         {   
-          "episodes": [
-               {     
-                    "episode": 1,
-                    "name": "EP 1",
-                    "info": {
-                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "Haikal paksa Suri mengaku dia mandul di hadapan semua ahli keluarga walaupun Suri sebenarnya tidak mandul.",
-                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
-                            "director": ["Riza Baharudin"], 
-                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
-                            "year": "2024"
-                           },    
-                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/419945e7-98b6-5e9e-86f3-8e1341ef23f3/default_primary.mpd", 
-                    "drm": "clearkey", 
-                    "drmkey": "cf851e306467c7ed05bc711ea0abd310:060c3752216d086a7b06982f7155db90"
-               }
-        
- }
+                 }
+            ]
+        }
+    ]
+}
 ]
