@@ -36,21 +36,35 @@
   "category": "Movies",  
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
-           "bg": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCSVB_IVP_LAND_586x330_2024731_11341.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "plot": "Ketika perang antara Vampire dan Lycan terus marak, Selene, bekas ahli Death Dealers (unit pasukan khas vampire elit yang memburu werewolf) dan Michael, kacukan werewolf, bekerjasama sebagai usaha untuk merungkai rahsia-rahsia keturunan masing-masing.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCSVB_IVP_LAND_586x330_2024731_11341.jpg", 
            "director": ["Len Wiseman"], 
            "cast": ["Kate Beckinsale,Scott Speedman"],
-           "year": "2006",
-           "icon": ""
+           "year": "2006"
            }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/34775378-b3dd-5bfd-bde4-bbce61cffbb4/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "f91bb1d4913117a253cd19ddd5cb8d10:cf636f95a6f14641df7cb92825b4217a"
  }, 
  {        
+  "name": "Underworld: Rise of the Lycans", 
+  "category": "Movies",  
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "plot": "Filem ini menjelaskan asal-usul permusuhan antara Vampire dan Lycan. Dibantu oleh kekasih gelapnya, Sonja, Lucian yang berani itu mengetuai Lycan dalam pertempuran menentang raja kejam Vampire, Victor. Berazam untuk menghentikan perhambaan raja itu terhadap puaknya, Lucian berdepan dengan tentera Death Dealer demi untuk mencapai kemerdekaan puak Lycan.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IAYZQ_IVP_LAND_586x330_2024731_103249.jpg", 
+           "director": ["Patrick Tatopoulos"], 
+           "cast": ["Rhona Mitra,Michael Sheen"],
+           "year": "2009",
+           }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/43b9a506-c72d-5f4b-874a-aa42b2ecf1ea/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "b0fef747d263b44b68f4ecd135233010:1e800b06018af545fea8eb3ea3342576"
+ }, 
+ {        
   "name": "Twinkling Watermelon EP 1", 
-  "icon":"https://raw.githubusercontent.com/mystery75/logo/main/Astro.jpg",
   "category": "Series",  
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
