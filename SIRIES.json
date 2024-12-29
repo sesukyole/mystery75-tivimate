@@ -13,7 +13,14 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e24a4edc-4ece-510d-b5c6-c62c9d28f59d/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "93ba35e173628f5f36104d439d0e7a10:19330f2c8623eb758194d0d7d81fa744"
-                }
+                },
+               {
+                   "episode": 2,
+                    "name": "Twinkling Watermelon",
+                    "info": "Spine 9 menawarkan Eun-gyeol peluang untuk uji bakat. Dia mendapat peluang untuk menyertai jelajah dunia Yoon Dong-jin, legenda segala kumpulan muzik, tetapi persembahannya menjadi kacau.",
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/419945e7-98b6-5e9e-86f3-8e1341ef23f3/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "cf851e306467c7ed05bc711ea0abd310:060c3752216d086a7b06982f7155db90"
             ]
         }
     ]
