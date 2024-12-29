@@ -57,7 +57,7 @@
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IAYZQ_IVP_LAND_586x330_2024731_103249.jpg", 
            "director": ["Patrick Tatopoulos"], 
            "cast": ["Rhona Mitra,Michael Sheen"],
-           "year": "2009",
+           "year": "2009"
            }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/43b9a506-c72d-5f4b-874a-aa42b2ecf1ea/default_primary.mpd", 
            "drm": "clearkey", 
