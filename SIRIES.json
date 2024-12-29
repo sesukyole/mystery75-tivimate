@@ -232,11 +232,8 @@
     "seasons": [
         {
           "name": "ANDAI TIADA DIA",
-          "info": {
-                     "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                   },
-          "episodes": [
-           
+          "info": {"poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg"},
+          "episodes": [       
                 {
                     "episode": 1,
                     "name": "Andai Tiada Dia EP 1",
