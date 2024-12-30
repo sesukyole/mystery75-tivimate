@@ -1,12 +1,26 @@
 [
  {
     "name": "TWINKLING WATERMELON",
+    "info": {
+              "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+              "plot":"MUZIK DAN PENGEMBARAAN.",
+              "director": ["Son Jung Hyun"], 
+              "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+              "year": "2023"
+            },
     "seasons": [
         {
-          "name": "TWINKLING WATERMELON",
+         "name": "TWINKLING WATERMELON",
+         "info": {
+                    "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                    "plot":"Kisah ajaib tentang seorang ahli CODA yang berbakat dalam muzik mengembara ke tahun 1995, bertemu bapanya yang baru berusia 18 tahun, dan bersama-sama membentuk kugiran bernama 'Watermelon Sugar'.",
+                    "director": ["Son Jung Hyun"], 
+                    "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+                    "year": "2023"
+                 },
           "episodes": [
                 {
-                    "name": "Twinkling Watermelon EP 1",
+                    "name": "EPISODE 1   |   HD",
                     "info": {
                              "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                              "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -21,7 +35,7 @@
                     "drmkey": "93ba35e173628f5f36104d439d0e7a10:19330f2c8623eb758194d0d7d81fa744"
                 },
               {
-                   "name": "Twinkling Watermelon EP 2",
+                   "name": "EPISODE 2   |   HD",
                    "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                    "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                    "info": {
@@ -231,7 +245,6 @@
     "name": "ANDAI TIADA DIA",
     "info": {
               "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg",
-              "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
               "plot": "ADAPTASI DARI NOVEL",
               "director": ["Riza Baharudin"], 
               "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
@@ -242,9 +255,7 @@
           "name": "ANDAI TIADA DIA",
           "info": {
                     "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg",
-                    "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg",
                     "plot": "Mengisahkan pasangan Suri (Ummi Nazeera) dan Haikal (Hisyam Hamid) yang sudah tujuh tahun mendirikan rumah tangga namun masih belum dikurniakan zuriat. Tertekan dengan situasi tersebut, Suri memohon izin daripada Haikal untuk melakukan rawatan IVF, namun Haikal tidak berminat kerana sudah bahagia dengan kehidupan mereka tanpa anak. Namun, keadaan berubah apabila kematian Hisyam, adik kepada Haikal, meninggalkan seorang bayi yang masih kecil. Kehadiran bayi ini menyentuh hati Suri yang ingin menjadikannya sebagai anak angkat. Namun, kehadiran Intan (Mimi Lana), adik Suri, dalam kehidupan mereka mula merumitkan segalanya apabila Intan dan Haikal mula menjalinkan hubungan sulit, menambahkan lagi konflik dalam rumah tangga mereka.",
-                    "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                     "director": ["Riza Baharudin"], 
                     "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
                     "year": "2024"
