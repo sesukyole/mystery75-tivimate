@@ -232,7 +232,7 @@
     "seasons": [
         {
           "seasons": 0,
-          "name": "SYNOPSIS ANDAI TIADA DIA",
+          "name": "SINOPSIS ANDAI TIADA DIA",
           "info": {
                     "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg",
                     "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg",
@@ -329,15 +329,15 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Haikal dan Intan mencari jalan untuk bercurang di belakang Suri tetapi niat mereka bakal ditentangi seseorang yang mereka tidak sangka.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d55bd4a6-e893-56bc-b6ec-26438fbd6476/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "c1e4c9a3ede8d0585b3ff23c9bd43e10:e8073de0b20ae72254954a2331aa77a0"
                  },
            {
                     "episode": 7,
@@ -345,15 +345,15 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Intan menyuruh Haikal untuk membuat pilihan antara dia ataupun Suri.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f5358cb0-fea1-5d68-8837-1e951ff33871/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "87080ddf679acf17d7fb3911fe74d710:be88e44d90cbc5c1d94e1e08b88c9194"
                  },
            {
                     "episode": 8,
@@ -361,15 +361,15 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Intan menerima lamaran Aidil untuk menyakiti hati Haikal.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d2b435c3-2911-5c7e-b02b-bc44ad3710a8/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "89719472a2a9343c53509fd84c30d210:f5ebbc24eb84d58f8f714184bdd6c04a"
                  },
            {
                     "episode": 9,
@@ -377,15 +377,15 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Suri terpaksa berhadapan dengan ujian terbesar dalam perkahwinannya bila mengetahui adik kandungnya ditangkap khalwat bersama suaminya. Pekung yang cuba disembunyikan Suri akhirnya diketahui keluarga.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e6178ce7-d5f0-5092-899d-8266e1816fcf/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "df1682bfddf41048c44313eae795bb10:32092f176f7ecb3914a05469028622d0"
                  },
            {
                     "episode": 10,
@@ -393,15 +393,15 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Idris masuk ke hospital gara-gara mendapat berita mengenai kes tangkap basah Haikal dan Intan.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/db982e52-b379-5cca-8784-f0779f99d4f8/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "46a7ad0a84474b9435948d8c0c89fd10:47fee62ae0da11b43360524011faced9"
                  },
             ]
         }
