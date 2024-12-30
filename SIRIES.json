@@ -244,7 +244,7 @@
            "episodes": [       
                 {
                     "episode": 1,
-                    "name": "EPISODE 1   HD",
+                    "name": "EPISODE 1   |   HD",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -252,7 +252,6 @@
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
-                            "duration": 4500,
                             "year": "2024"
                            },
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c409824b-dc7f-59d4-9cd8-a67c6275aaee/default_primary.mpd", 
@@ -261,7 +260,7 @@
                  },
              {
                     "episode": 2,
-                    "name": "EPISODE 2   HD",
+                    "name": "EPISODE 2   |   HD",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -277,7 +276,7 @@
                  },
             {
                     "episode": 3,
-                    "name": "EPISODE EP 3   HD",
+                    "name": "EPISODE 3   |   HD",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -293,7 +292,7 @@
                  },
            {
                     "episode": 4,
-                    "name": "EPISODE 4   HD",
+                    "name": "EPISODE 4   |   HD",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -309,7 +308,7 @@
                  },
            {
                     "episode": 5,
-                    "name": "EPISODE 5   HD",
+                    "name": "EPISODE 5   |   HD",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -325,7 +324,7 @@
                  },
            {
                     "episode": 6,
-                    "name": "EPISODE 6   HD",
+                    "name": "EPISODE 6   |   HD",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -341,7 +340,7 @@
                  },
            {
                     "episode": 7,
-                    "name": "EPISODE 7   HD",
+                    "name": "EPISODE 7   |   HD",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -357,7 +356,7 @@
                  },
            {
                     "episode": 8,
-                    "name": "EPISODE 8   HD",
+                    "name": "EPISODE 8   |   HD",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -373,7 +372,7 @@
                  },
            {
                     "episode": 9,
-                    "name": "EPISODE 9   HD",
+                    "name": "EPISODE 9   |   HD",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -389,7 +388,7 @@
                  },
            {
                     "episode": 10,
-                    "name": "EPISODE 10   HD",
+                    "name": "EPISODE 10   |   HD",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
