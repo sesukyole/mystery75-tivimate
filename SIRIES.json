@@ -1,7 +1,6 @@
 [
  {        
   "name": "16 Puasa", 
-  "category": "Movies",  
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -17,7 +16,6 @@
  }, 
  {        
   "name": "17 Puasa", 
-  "category": "Movies",  
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -33,7 +31,6 @@
  }, 
  {        
   "name": "Underworld: Evolution", 
-  "category": "Movies",  
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -49,7 +46,6 @@
  }, 
  {        
   "name": "Underworld: Rise of the Lycans", 
-  "category": "Movies",  
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -62,6 +58,21 @@
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/43b9a506-c72d-5f4b-874a-aa42b2ecf1ea/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "b0fef747d263b44b68f4ecd135233010:1e800b06018af545fea8eb3ea3342576"
+ }, 
+ {        
+  "name": "Underworld: Awakening", 
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "plot": "Apabila kuasa manusia menemui kewujudan puak Vampire dan Lycan, perang untuk menghapuskan kedua-dua spesies bermula. Pahlawan vampire Selene mengetuai pertempuran melawan manusia.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/IAYZP_IVP_LAND_917x516.jpg", 
+           "director": ["Bjorn Stein"], 
+           "cast": ["Kate Beckinsale, Michael Ealy"],
+           "year": "2012"
+           }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d40e684a-15da-5d64-bf92-80f374320641/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "8993798bf2608c605557cf37e259c510:e12e81e172b585fa4eb8934a80c07885"
  }, 
  {
     "name": "TWINKLING WATERMELON",
