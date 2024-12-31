@@ -582,6 +582,86 @@
                     "drm": "clearkey", 
                     "drmkey": "2fbd7823f2bfa3569f8129721f6ff610:92be0938c567465557eae06217376e21"
                  },
+            {
+                    "episode": 16,
+                    "name": "EPISODE  16         ",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Setelah Haikal terlanjur bersama Intan, perasaan ingin menikahi Intan semakin membuak. Suri mula mengalami alahan Ketika mengandung dan merasa sangat sunyi tanpa suami di sisi.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f933365a-d37c-5de1-8b99-112538ee5daa/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "c96145972ad09a508fc734c757e88810:eb6da420f6035d38fc6807eabeb4ff37"
+                 },
+            {
+                    "episode": 17,
+                    "name": "EPISODE  17         ",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Haikal pergi ke kampung untuk memujuk Suri kembali bersama. Di sana, dia dilayan teruk oleh penduduk kampung. Intan pula gagal menghubungi Haikal dan mula mengesyakinya.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/644f2289-29e7-5dd4-a5e4-6a52b81f360f/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "f72cc7cde24a6bbd8470c9d9773f2010:d7947917268fa0d49909be40ac5c58bd"
+                 },
+            {
+                    "episode": 18,
+                    "name": "EPISODE  18         ",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Haikal berusaha untuk memujuk Suri setelah mengetahui Suri mengandungkan anaknya. Intan pula semakin terdesak apabila mendapat tahu, kandungan Suri merupakan punca utama perkahwinannya.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b73c5e44-734c-5df1-b8e0-ce1d0246c430/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "d99537f2d741ae9ef84d574a273f7a10:4f41a126567c68938210f661a00cc6a1"
+                 },
+            {
+                    "episode": 19,
+                    "name": "EPISODE  19         ",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Suri merasa sedikit tertekan setelah diserang Intan, orang kampung bersetuju untuk melindungi Suri. Haikal berada dalam dilemma apabila Intan memberitahunya yang dia mengandungkan anak Haikal.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b96fb129-983e-574e-92b8-dc46eaa827fb/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "dba940adffeb452617376127932afd10:d1c1fe4528298aea1f2a6bfdb77bee86"
+                 },
+            {
+                    "episode": 20,
+                    "name": "EPISODE  20         ",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Haikal semakin terdesak untuk mendapatkan semula Suri sehingga sanggup membahayakan Luqman dan menyebabkan Suri terpaksa membuat keputusan yang sukar demi melindungi anaknya.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d09246dd-aae5-5c6d-a7b5-8e2f55f1ae4a/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "e11edc30bacbb6faa2f9a74ff30caa10:7ddc0d3ecde4c67f82cbf54aaaabc7fc"
+                 },
             ]
         }
     ]
