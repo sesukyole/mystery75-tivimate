@@ -1,6 +1,7 @@
 [
  {        
   "name": "16 Puasa", 
+  "category": "Movies", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -16,6 +17,7 @@
  }, 
  {        
   "name": "17 Puasa", 
+  "category": "Movies", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -31,6 +33,7 @@
  }, 
  {        
   "name": "Underworld: Evolution", 
+  "category": "Movies", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -46,6 +49,7 @@
  }, 
  {        
   "name": "Underworld: Rise of the Lycans", 
+  "category": "Movies", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -61,6 +65,7 @@
  }, 
  {        
   "name": "Underworld: Awakening", 
+  "category": "Movies", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -667,19 +672,19 @@
     ]
 },
 {        
-  "name": "16 Puasa", 
+  "name": "BoBoiBoy Movie 2", 
   "category": "Kids", 
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
-           "plot": "Kisah sekumpulan kawan baik di sebuah kampung yang ponteng puasa. Mereka menyembunyikan aktiviti mereka daripada pengetahuan isteri masing-masing. Mereka juga menetapkan jadual siapa yang akan membeli makanan di pekan dan kemudian makan di tempat-tempat terlindung. Berjayakah mereka berterusan sebegitu sepanjang bulan Ramadan?.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_IVP_LAND_917x516_2024221_204310.jpg", 
-           "director": ["Mamat Khalid"], 
-           "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
-           "year": "2017"
+           "poster": "https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg", 
+           "plot": "BoBoiBoy dan rakan-rakannya menjadi sasaran penjahat kuno, Retak'ka yang inginkan kuasa semulajadinya dikembalikan semula agar dia boleh menjadi orang yang paling berkuasa di galaksi. BoBoiBoy dan gengnya harus mencari jalan untuk menewaskan Retak'ka dan menghalangnya dari merampas kuasa BoBoiBoy.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IWMJC_IVP_LAND_917x516_6A6D9_2024321_17291.jpg", 
+           "director": ["Nizam Abdul Razak"], 
+           "cast": ["Nur Fathiah Diaz,  Fadzli Mohd Rawi,  Dzubir Mohammed Zakaria"],
+           "year": "2019"
             }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cbfc1b59-d17a-57e3-9a55-6b72c59ef9db/default_primary.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e6ee43c8-212a-598d-88d9-f140f61f5a04/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "6a5580676416fb8b215e23638ddcd610:07ff72561ad9723e01be293effdd6b8d"
+           "drmkey": "8f35c8959930b6df896b6b76a54d6b10:bfcdfc1adeb3b8c7d3723d08c9740701"
  },  
 ]
