@@ -22,7 +22,7 @@
           "episodes": [
                 {
                    "episode": 1, 
-                    "name": "EPISODE  1   |   HD",
+                    "name": "EPISODE  1          ",
                     "info": {
                              "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                              "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -38,7 +38,7 @@
                 },
               {
                   "episode": 2, 
-                   "name": "EPISODE  2   |   HD",
+                   "name": "EPISODE  2          ",
                    "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                    "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                    "info": {
@@ -56,7 +56,7 @@
                 },
               {
                    "episode": 3,
-                    "name": "EPISODE  3   |   HD",
+                    "name": "EPISODE  3          ",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -71,7 +71,7 @@
                },
             {
                    "episode": 4, 
-                    "name": "EPISODE  4   |   HD",
+                    "name": "EPISODE  4          ",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -86,7 +86,7 @@
                },
               {
                    "episode": 5, 
-                    "name": "EPISODE  5   |   HD",
+                    "name": "EPISODE  5          ",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -101,7 +101,7 @@
                },
               {
                    "episode": 6,
-                    "name": "EPISODE  6   |   HD",
+                    "name": "EPISODE  6          ",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -116,7 +116,7 @@
                },
              {
                  "episode": 7, 
-                  "name": "EPISODE  7   |   HD",
+                  "name": "EPISODE  7          ",
                   "info": {
                           "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                           "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -132,7 +132,7 @@
               }, 
             {
                "episode": 8,
-                "name": "EPISODE  8   |   HD", 
+                "name": "EPISODE  8          ",
                  "info": { 
                          "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                          "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -148,7 +148,7 @@
              },
            {  
                "episode": 9,
-                "name": "EPISODE  9   |   HD", 
+                "name": "EPISODE  9          ", 
                 "info": { 
                         "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                         "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -164,7 +164,7 @@
             },
           {
               "episode": 10,  
-               "name": "EPISODE  10   |   HD",
+               "name": "EPISODE  10         ",
                "info": { 
                        "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                        "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -180,7 +180,7 @@
             },
           {
               "episode": 11,  
-               "name": "EPISODE  11   |   HD",
+               "name": "EPISODE  11         ",
                "info": { 
                        "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                        "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -196,7 +196,7 @@
              },
            {
               "episode": 12,  
-               "name": "EPISODE  12   |   HD",
+               "name": "EPISODE  12         ",
                "info": { 
                        "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                        "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -212,7 +212,7 @@
               }, 
            {
               "episode": 13,  
-               "name": "EPISODE  13   |   HD",
+               "name": "EPISODE  13         ",
                "info": { 
                        "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                        "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -228,7 +228,7 @@
               }, 
            {
               "episode": 14,  
-               "name": "EPISODE  14   |   HD",
+               "name": "EPISODE  14         ",
                "info": { 
                        "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
                        "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -269,7 +269,7 @@
            "episodes": [       
                 {
                     "episode": 1,
-                    "name": "EPISODE 1   |   HD",
+                    "name": "EPISODE  1          ",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -285,7 +285,7 @@
                  },
              {
                     "episode": 2,
-                    "name": "EPISODE 2   |   HD",
+                    "name": "EPISODE  2          ",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -301,7 +301,7 @@
                  },
             {
                     "episode": 3,
-                    "name": "EPISODE 3   |   HD",
+                    "name": "EPISODE  3          ",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -317,7 +317,7 @@
                  },
            {
                     "episode": 4,
-                    "name": "EPISODE 4   |   HD",
+                    "name": "EPISODE  4          ",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -333,7 +333,7 @@
                  },
            {
                     "episode": 5,
-                    "name": "EPISODE 5   |   HD",
+                    "name": "EPISODE  5          ",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -349,7 +349,7 @@
                  },
            {
                     "episode": 6,
-                    "name": "EPISODE 6   |   HD",
+                    "name": "EPISODE  6          ",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -365,7 +365,7 @@
                  },
            {
                     "episode": 7,
-                    "name": "EPISODE 7   |   HD",
+                    "name": "EPISODE  7          ",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -381,7 +381,7 @@
                  },
            {
                     "episode": 8,
-                    "name": "EPISODE 8   |   HD",
+                    "name": "EPISODE  8          ",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -397,7 +397,7 @@
                  },
            {
                     "episode": 9,
-                    "name": "EPISODE 9   |   HD",
+                    "name": "EPISODE  9          ",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -413,7 +413,7 @@
                  },
            {
                     "episode": 10,
-                    "name": "EPISODE 10   |   HD",
+                    "name": "EPISODE  10         ",
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
@@ -426,6 +426,86 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/db982e52-b379-5cca-8784-f0779f99d4f8/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "46a7ad0a84474b9435948d8c0c89fd10:47fee62ae0da11b43360524011faced9"
+                 },
+            {
+                    "episode": 11,
+                    "name": "EPISODE  11         ",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Intan naik gila apabila Haikal membuat keputusan untuk kekal bersama dengan Suri.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/4cc8a510-be6b-5fb8-b6b9-158872388234/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "92df543febcbd2dff7845559f9a24a10:5d062ddc20cfb14b68b6b4f2ea386461"
+                 },
+            {
+                    "episode": 12,
+                    "name": "EPISODE  12         ",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Suri keliru samaada perlu mempertahankan ataupun tidak ikatan perkahwinannya bersama Haikal. Pada masa yang sama, Intan terus menerus mendesak Suri untuk melepaskan Haikal.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2f95d730-92d3-5ded-99d3-5224f63bb98f/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "ff5a253babce44dffa0ffc6eee481f10:0d1f7bb1cafa6ca65dc5518d6f56cd23"
+                 },
+            {
+                    "episode": 13,
+                    "name": "EPISODE  13         ",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Setelah bercerai dengan Haikal, Suri memulakan hidup baru jauh dari keluarganya. Intan pula telah dikawal ketat oleh Halilah.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/4084b1c0-e3f6-5c79-9f3d-cc0936be100d/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "7b960deab1584b80ca65837f748e6510:1778689960960527737e14b1b6a22a06"
+                 },
+            {
+                    "episode": 14,
+                    "name": "EPISODE  14         ",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Perpindahan Suri ke sekolah baru menemukan dia & Falah, bagaimanapun persabahabatan mereka terbatas. Haikal dan Intan semakin hairan mengapa Halilah dan Idris ingin menangguhkan perkahwinan mereka.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/88de76c6-733c-5574-817e-560a9b437e18/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "73e2c3fa5c9bc5e7bc87239713b03f10:daceda5a87f10c703d6b29c7e09fd75f"
+                 },
+            {
+                    "episode": 15,
+                    "name": "EPISODE  15         ",
+                    "info": {
+                            "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
+                            "plot": "Haikal makin bingung mengapa semua orang ingin dia melengah-lengahkan perkahwinannya dengan Intan.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
+                            "director": ["Riza Baharudin"], 
+                            "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e06eef24-237a-5d90-b674-05f4a54acc7a/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "2fbd7823f2bfa3569f8129721f6ff610:92be0938c567465557eae06217376e21"
                  },
             ]
         }
