@@ -4,7 +4,6 @@
   "category": "Movies", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "plot": "Kisah sekumpulan kawan baik di sebuah kampung yang ponteng puasa. Mereka menyembunyikan aktiviti mereka daripada pengetahuan isteri masing-masing. Mereka juga menetapkan jadual siapa yang akan membeli makanan di pekan dan kemudian makan di tempat-tempat terlindung. Berjayakah mereka berterusan sebegitu sepanjang bulan Ramadan?.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_IVP_LAND_917x516_2024221_204310.jpg", 
            "director": ["Mamat Khalid"], 
@@ -94,6 +93,22 @@
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d40e684a-15da-5d64-bf92-80f374320641/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "8993798bf2608c605557cf37e259c510:e12e81e172b585fa4eb8934a80c07885"
+ }, 
+ {        
+  "name": "Underworld: Blood Wars", 
+  "category": "Movies", 
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "plot": "Selena dan Eve berpisah demi untuk melindungi Eve dari puak Lycan dan Vampire yang sedang memburu Selene. Seorang ketua Lycan baru, Marius, mengumpulkan tenteranya dan menyerang Eastern Coven. Selene telah direkrut dan kemudian dikhianati oleh Semira di Eastern Coven. Dia kemudian mengembara ke Nordic Coven untuk menerima kuasa yang diperlukannya untuk menamatkan perang antara Vampire dan Lycan.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IAYYZ_IVP_LAND_917x516_2024731_113437.jpg", 
+           "director": ["Anna Foerster"], 
+           "cast": ["Kate Beckinsale,Theo James"],
+           "year": "2016"
+           }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bdc4d547-d631-5183-a593-77809d7f5b61/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "537ec5f8aec146f44e388f4161cd9110:37d368dfeba7ac1ae006467c08c4cae5"
  }, 
  {
     "name": "TWINKLING WATERMELON",
@@ -689,15 +704,15 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Haikal dan Suri rujuk semula. Namun, Haikal dapat merasakan perubahan tingkah laku Suri. Intan muncul di kampung untuk mengugut Suri melepaskan Haikal namun Suri telah melakukan sesuatu yang mengejutkan.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2fab7fa3-f0cd-55a0-8d44-0c2935a9dcca/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "019b4ccf99eada8b9ba30c3abbeb0a10:071982c9a05688dda0559f5edebef468"
                  },
             {
                     "episode": 22,
@@ -705,15 +720,15 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Keluarga huru-hara apabila Suri dan Intan bertemu di hospital apabila melawat Haikal yang kemalangan.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2cb23c5c-10aa-5742-bfa3-949a90a2314b/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "fbeebdaa1546e74d078d0abad0e27410:d5c51efda42dfebf3f809bec03eac844"
                  },
             {
                     "episode": 23,
@@ -721,15 +736,15 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Perkahwinan paksa rela Suri dan Haikal, membuatkan Suri melayani Haikal dengan teruk. Sedar akan kesilapannya, Haikal bertahan untuk mengambil hati Suri semula.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/94964ab1-dc12-5b15-9d8e-67d13490b2ab/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "b36c3679acd893e12860f332a28c7910:de71385af8599895b3572bc1b9ba8528"
                  },
             {
                     "episode": 24,
@@ -737,15 +752,15 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": ".",
+                            "plot": "Falah terjumpa tangkal sihir dalam bilik Suri yang dipercayai menjadi punca Suri keguguran.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/792d7b4c-35db-5f01-b462-befbd969e908/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "b94ae34c32e359a2c546bd52724e3b10:e6b88f4207e158f81d0d24eb8e549f4c"
                  },
             {
                     "episode": 25,
@@ -753,15 +768,15 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Intan lumpuh selepas kemalangan. Suri masih berat hati lagi untuk memaafkan Intan ataupun tidak.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/732c24f8-f6f6-5de3-a3d0-8b3ba4f45f7d/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "81e429d3ab91a44b31f4fbbf81331910:d4c604d0a4ccca6e2ca5e9ff2ed54b42"
                  },
             {
                     "episode": 26,
@@ -769,7 +784,7 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Falah & Suri menjadi semakin rapat. Falah cuba untuk meluahkan isi hatinya pada Suri. Halilah meminta semua anak-anaknya berkumpul untuk makan malam. Di sana, Intan menyampai berita tentang kehamilannya.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
@@ -785,7 +800,7 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": ".",
+                            "plot": "Suri sedang menunggu hari bahagianya bersama Falah, mendapat tahu yang Intan sedang menderita dengan fibroid. Cemburu dengan kebahagiaan yang dikecapi Suri, Intan cuba menghalang perkahwinan Suri & Falah.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
@@ -801,7 +816,7 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": ".",
+                            "plot": "Intan ditimpa malapetaka. Adakah hubungan Suri dan Intan akan terus keruh?",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
@@ -817,7 +832,7 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Kebahagian Suri dan Falah tidak bertahan lama apabila penyakit lama Falah datang kembali.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
@@ -833,7 +848,7 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Apabila Falah menjauhkan diri daripada Suri, Suri mula bersangka buruk yang Falah juga curang kepadanya.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
@@ -849,7 +864,7 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": ".",
+                            "plot": "Intan mengambil langkah drastik apabila semua orang membencinya.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
@@ -865,7 +880,7 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Intan bernekad untuk merampas Falah daripada Suri.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
@@ -881,7 +896,7 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Walaupun telah menjalani rawatan, keadaan Falah semakin teruk. Suri dan Falah harus bersedia menghadapi sebarang kemungkinan.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
@@ -897,7 +912,7 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Intan sudah hilang segala-galanya. Dia cuma ada dendamnya kepada Suri sahaja di dalam kepala.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
@@ -913,7 +928,7 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": "",
+                            "plot": "Suri melahirkan anaknya pada masa yang sama Falah dimasukkan ke hospital.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": ["  Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
@@ -929,7 +944,7 @@
                     "info": {
                             "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
                             "bg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg", 
-                            "plot": ".",
+                            "plot": "Suri cuba menyesuaikan hidupnya tanpa Falah.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_Series_IVP_LAND_917x516_7E34A_20241018_174011.jpg", 
                             "director": ["Riza Baharudin"], 
                             "cast": ["  Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
@@ -1022,5 +1037,21 @@
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8a8249b5-1045-5b07-b6a9-1a7da49b5bdb/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "8487d2e3654c546a057de86113466210:eb9feffab2c8d324fbda3b29a2b44ebf"
+ },  
+{        
+  "name": "How to Train Your Dragon 2", 
+  "category": "Kids", 
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "bg": "", 
+           "plot": "Lima tahun berlalu semenjak Hiccup dan Tootless menemukan naga-naga dengan Vikings Berk. Kini, mereka menghabiskan masa melakar kawasan di pulau itu. Ketika salah satu pengembaraan, kedua mereka menemui sebuah gua yang dihuni beratus-ratus naga liar dan 'Dragon Rider' misteri yang merupakan Valka, ibu Hiccup yang telah lama hilang. Hiccup dan Toothless kemudian mendapati diri mereka berdepan dengan pertarungan untuk melindungi Berk daripada perwira yang gilakan kuasa iaitu Drago.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HSJGT_IVP_LAND_917x516_13E91_2024524_104436.jpg", 
+           "director": ["Dean DeBlois"], 
+           "cast": ["Jay Baruchel,Cate Blanchett"],
+           "year": "2014"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e17ea0ea-f888-5824-9a19-41d1c2175fcc/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "020120bb1380f44b4e90b1f65d85ff10:fcabb2da2966c8086aa6b16aad5539ca"
  },  
 ]
