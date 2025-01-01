@@ -47,7 +47,7 @@
            "drmkey": "fa86f27f7b2fccb5d5776551ada95810:4fe75f6fe382c606739ed0e86de7b84e"
  }, 
  {        
-  "name": "Underworld: Evolution", 
+  "name": "Underworld 2: Evolution", 
   "category": "Movies", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -63,7 +63,7 @@
            "drmkey": "f91bb1d4913117a253cd19ddd5cb8d10:cf636f95a6f14641df7cb92825b4217a"
  }, 
  {        
-  "name": "Underworld: Rise of the Lycans", 
+  "name": "Underworld 3: Rise of the Lycans", 
   "category": "Movies", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -79,7 +79,7 @@
            "drmkey": "b0fef747d263b44b68f4ecd135233010:1e800b06018af545fea8eb3ea3342576"
  }, 
  {        
-  "name": "Underworld: Awakening", 
+  "name": "Underworld 4: Awakening", 
   "category": "Movies", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -95,7 +95,7 @@
            "drmkey": "8993798bf2608c605557cf37e259c510:e12e81e172b585fa4eb8934a80c07885"
  }, 
  {        
-  "name": "Underworld: Blood Wars", 
+  "name": "Underworld 5: Blood Wars", 
   "category": "Movies", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -1039,11 +1039,27 @@
            "drmkey": "8487d2e3654c546a057de86113466210:eb9feffab2c8d324fbda3b29a2b44ebf"
  },  
 {        
+  "name": "How to Train Your Dragon", 
+  "category": "Kids", 
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg", 
+           "plot": "Set in the mythical world of burly Vikings and wild dragons, a Viking teenager's world is turned upside down when he is challenged by an unusual dragon.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000151X864471_IVP_LAND_917x516.jpg", 
+           "director": ["CHRIS SANDERS"], 
+           "cast": ["CRAIG FERGUSON,GERARD BUTLER,JAY BARUCHEL"],
+           "year": "2010"
+            }, 
+           "video": "", 
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
+{        
   "name": "How to Train Your Dragon 2", 
   "category": "Kids", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
-           "bg": "", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "plot": "Lima tahun berlalu semenjak Hiccup dan Tootless menemukan naga-naga dengan Vikings Berk. Kini, mereka menghabiskan masa melakar kawasan di pulau itu. Ketika salah satu pengembaraan, kedua mereka menemui sebuah gua yang dihuni beratus-ratus naga liar dan 'Dragon Rider' misteri yang merupakan Valka, ibu Hiccup yang telah lama hilang. Hiccup dan Toothless kemudian mendapati diri mereka berdepan dengan pertarungan untuk melindungi Berk daripada perwira yang gilakan kuasa iaitu Drago.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HSJGT_IVP_LAND_917x516_13E91_2024524_104436.jpg", 
            "director": ["Dean DeBlois"], 
@@ -1053,5 +1069,21 @@
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e17ea0ea-f888-5824-9a19-41d1c2175fcc/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "020120bb1380f44b4e90b1f65d85ff10:fcabb2da2966c8086aa6b16aad5539ca"
+ }, 
+ {        
+  "name": "How to Train Your Dragon 3: The Hidden World", 
+  "category": "Kids", 
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "plot": "Kini ketua dan pemerintah Berk bersama Astrid, Hiccup menghasilkan utopia naga penuh huru-hara. Apabila Light Fury betina tiba-tiba muncul serentak dengan ancaman paling buruk di kampung mereka, Hiccup dan Toothless terpaksa meninggalkan rumah dan mengembara ke dunia tersembunyi yang mereka rasa hanya wujud dalam mitos semata. Ketika takdir sebenar mereka diperlihatkan, naga dan penunggang berjuang bersama-sama hingga ke hujung Bumi untuk melindungi apa jua yang mereka usahakan untuk dihargai.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVJIB_IVP_LAND_917x516_202431_102038.jpg", 
+           "director": ["Dean DeBlois"], 
+           "cast": ["Jay Baruchel,America Ferrera,F. Murray Abraham"],
+           "year": "2019"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/730a46c4-bfe1-5981-b53d-ebd60b24f567/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "6b7145b6c2ffa9585b8cfa2342670c10:c31162735079b18ff704c3281bef2004"
  },  
 ]
