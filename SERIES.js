@@ -1,5 +1,24 @@
 [ 
  {
+  "name": "Kids",
+            },
+        {        
+  "name": "BoBoiBoy Movie", 
+  "category": "kids", 
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "plot": "BoBoiBoy dan rakannya berhadapan dengan pemburu harta makhluk asing yang tamak sewaktu mereka bersaing menemukan objek purba yang berkuasa di sebuah pulau misteri.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBMAG_series_IVP_LAND_917x516_6A6D8_2024321_172815.jpg", 
+           "director": ["Nizam Abdul Razak"], 
+           "cast": [" Nur Sarah Alisya,  Anas Abdul Aziz,  Kevin Adrian Barnaby"],
+           "year": "2018"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f00c164d-d7af-514a-9461-a76514e787c3/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "33f7fe50a6502992272d20748381b710:e1dd9fae5ef5b09323e99449dba08a01"
+ },  
+ {
     "name": "TWINKLING WATERMELON",
     "info": {
               "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
