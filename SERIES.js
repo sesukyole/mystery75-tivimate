@@ -4,6 +4,7 @@
   "category": "Movies",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "plot": "Kisah sekumpulan kawan baik di sebuah kampung yang ponteng puasa. Mereka menyembunyikan aktiviti mereka daripada pengetahuan isteri masing-masing. Mereka juga menetapkan jadual siapa yang akan membeli makanan di pekan dan kemudian makan di tempat-tempat terlindung. Berjayakah mereka berterusan sebegitu sepanjang bulan Ramadan?.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_IVP_LAND_917x516_2024221_204310.jpg", 
            "director": ["Mamat Khalid"], 
@@ -29,6 +30,38 @@
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c5dfdbee-1bfb-59dc-bc04-047e7da111ef/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "edb936d4bce718c67da95c5958bc6010:917975e1fac313e63a89dc7680326d02"
+ }, 
+ {        
+  "name": "300", 
+  "category": "Movies",
+  "info": { 
+           "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/017484X0-portrait.jpg", 
+           "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/017484X0-portrait.jpg", 
+           "plot": "Berdasarkan novel grafik paling laris oleh Frank Miller, 300 menceritakan kisah Raja Leonidas dan 300 pahlawan Sparta. Semasa tahun 400 sebelum Masihi, segerombolan tentera Parsi menuju ke Greece. Mereka menyediakan kata dua kepada penduduk Greece: berkhidmat kepada raja Parsi atau berdepan penghapusan habis-habisan. Sebuah kumpulan kecil 300 pejuang yang diketuai oleh raja Sparta berjaya melakukan sesuatu yang mustahil dan bangkit berdepan penindas dalam penghasilan kesan khas yang menarik ini.", 
+           "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/017484X0-landscape.jpg", 
+           "director": ["Zack Snyder"], 
+           "cast": ["Gerard Butler","Lena Headey","David Wenham","Dominic West","Vincent Regan","Michael Fassbender","Tom Wisdom","Andrew Pleaviin","Andrew Tiernan","Rodrigo Santoro","Peter Mensah","Stephen Mchattie"],
+           "year": "2007"
+            }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61b8038afbbcc21f45d24f31_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "63f11fe081ce503d84f8e09def679739:32a966ad63b93ff6bfafe25bec4a6a52"
+ }, 
+ {        
+  "name": "300: Rise Of An Empire", 
+  "category": "Movies",
+  "info": { 
+           "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/017814X0-portrait.jpg", 
+           "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/017814X0-portrait.jpg", 
+           "plot": "Berdasarkan novel grafik Frank Miller Xerxes, bab baru kisah epik ini memaparkan aksi di medan perang yang baru—di laut—sewaktu jeneral Themistokles cuba menyatukan Greece dengan mengetuai kuasa yang akan mengubah arah peperangan itu.", 
+           "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/017814X0-landscape.jpg", 
+           "director": ["Noam Murro"], 
+           "cast": ["Sullivan Stapleton","Eva Green","Lena Headey"],
+           "year": "2014"
+            }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ef1ead56d048943f757d045_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "ebb739ba74915639ace3afe2f883f566:726d668414cbb1bfd5f25bfc4a80adfa"
  }, 
  {        
   "name": "Lampir", 
@@ -352,6 +385,38 @@
                  "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b7b7e6e4-d825-5fe9-8270-0c4323c2aed5/default_primary.mpd", 
                  "drm": "clearkey", 
                  "drmkey": "760a62bd8e6fcbccfc582fa46cb21c10:6bfd238238a33b12e99dc8b444ca6ed2"
+              },  
+           {
+              "episode": 15,  
+               "name": "EPISODE  15         ",
+               "info": { 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "plot": "Kisah ajaib tentang seorang ahli CODA yang berbakat dalam muzik mengembara ke tahun 1995, bertemu bapanya yang baru berusia 18 tahun, dan bersama-sama membentuk kugiran bernama 'Watermelon Sugar'.", 
+                       "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
+                       "director": ["Son Jung Hyun"], 
+                       "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+                       "year": "2023"
+                       }, 
+                 "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/cca0d595-289a-5cf2-980f-e540bf2a9b83/default_primary.mpd", 
+                 "drm": "clearkey", 
+                 "drmkey": "ab4c0ec79f30a6ee7d216d0187f65010:1b9338d5696a769a08b83ed587036fe9"
+              },  
+           {
+              "episode": 16,  
+               "name": "EPISODE  16         ",
+               "info": { 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "plot": "Kisah ajaib tentang seorang ahli CODA yang berbakat dalam muzik mengembara ke tahun 1995, bertemu bapanya yang baru berusia 18 tahun, dan bersama-sama membentuk kugiran bernama 'Watermelon Sugar'.", 
+                       "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
+                       "director": ["Son Jung Hyun"], 
+                       "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
+                       "year": "2023"
+                       }, 
+                 "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/fa71b5aa-e65b-5106-9077-b63a6c9970b7/default_primary.mpd", 
+                 "drm": "clearkey", 
+                 "drmkey": "717ef58ebc8a9c78ac3b5ad71380cb10:6680cc0e2887095cbdf265b969c73f77"
               },           
             ]
         }
@@ -790,9 +855,9 @@
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/10670eab-e004-5570-973a-2be786e845dd/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "8f3fac5a2157552ec2c82eb4371e8110:7e8d5f43b459caa537d7722cadede0cf"
                  },
             {
                     "episode": 27,
@@ -806,9 +871,9 @@
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a110f478-8a6e-58a6-a622-0790fdcb493e/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "d06288dc3a2c4549dc189dfbe3e69710:fc09ee65a8f47e63747bf5f82eb9bf6f"
                  },
             {
                     "episode": 28,
@@ -822,9 +887,9 @@
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/28b44240-d5b4-52a9-be0c-772cc1eb83a1/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "782f699de4fc12ef376f830b33d8fb10:29b882c33da3aaf29f1279a74e52fed2"
                  },
             {
                     "episode": 29,
@@ -838,9 +903,9 @@
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/c705339d-6491-5804-8846-3943ea4f373c/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "d5f316a9a07033202c8034692383f210:14f6d3b90b1d5302114c9cb8cc095cae"
                  },
             {
                     "episode": 30,
@@ -854,9 +919,9 @@
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/92e3c1b7-7820-5350-bf27-7845ba66226f/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "d0e855e1cda465d60689e101dfedcf10:fab3693b48a60a251336ca6362c49460"
                  },
             {
                     "episode": 31,
@@ -870,9 +935,9 @@
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6d054417-d267-5e43-90fa-57b26ed5ad5d/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "9f7eebdec6d74bc1d41af3dd993d6010:e9ad4d9e12a871151d580af30a63303f"
                  },
             {
                     "episode": 32,
