@@ -150,10 +150,10 @@
   "info": { 
            "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg", 
            "bg": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg", 
-           "plot": "", 
-           "backdrop": "", 
-           "director": [""], 
-           "cast": [""],
+           "plot": "Filem ini mengisahkan kerjasama tidak dijangka antara Deadpool (Ryan Reynolds) dan Wolverine (Hugh Jackman) yang berganding bahu untuk melawan penjahat baru yang mengancam untuk mengubah keseluruhan alam nyata mereka. Plot bermula dengan kekacauan dan kecerdasan Deadpool yang biasa, berlanjut kepada naratif yang kompleks di mana pasangan ini mengharungi dendam peribadi, musuh yang tidak henti-henti, dan makna lebih mendalam tentang kepahlawanan.", 
+           "backdrop": "https://www.xtrafondos.com/wallpapers/deadpool-y-wolverine-pelea-12538.jpg", 
+           "director": ["Shawn Levy"], 
+           "cast": ["Ryan Reynolds,Hugh Jackman,Emma Corrin"],
            "year": "2024"
            }, 
            "video": "https://irwanluffyshare.irwanluffy2022.workers.dev/download.aspx?file=f5gF5h%2BK2soTA5h94dnkGi8kM3w4NI9hRU4y5nuW3lQ0IshPjTcA84X8GwkaTEv%2F&expiry=IjTIgFmlXrUHjgedSvzzNg%3D%3D&mac=46d676c6e109ae4ab6f28f04b00cada4656daac8e26379c5158c27d5c342f29e" 
