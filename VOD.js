@@ -1,8 +1,7 @@
 [ 
  {        
   "name": "16 Puasa", 
-  "name:es": "Malay",
-  "category": "Movies",
+  "category": "Comedy",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -18,7 +17,7 @@
  }, 
  {        
   "name": "17 Puasa", 
-  "category": "Movies",
+  "category": "Comedy",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -34,7 +33,7 @@
  }, 
  {        
   "name": "300", 
-  "category": "Movies",
+  "category": "Action",
   "info": { 
            "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/017484X0-portrait.jpg", 
            "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/017484X0-portrait.jpg", 
