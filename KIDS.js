@@ -1,7 +1,6 @@
 [
  {        
   "name": "BoBoiBoy Movie", 
-  "category": "Kids", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -17,7 +16,6 @@
  },  
 {        
   "name": "BoBoiBoy Movie 2", 
-  "category": "Kids", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg", 
@@ -33,7 +31,6 @@
  }, 
  {        
   "name": "Hotel Transylvania ", 
-  "category": "Kids", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX390_CR0,0,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX390_CR0,0,380,562_.jpg", 
@@ -49,7 +46,6 @@
  }, 
  {        
   "name": "Hotel Transylvania 2 ", 
-  "category": "Kids", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -65,7 +61,6 @@
  },  
  {        
   "name": "Hotel Transylvania 3 ", 
-  "category": "Kids", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -81,7 +76,6 @@
  },  
 {        
   "name": "How to Train Your Dragon", 
-  "category": "Kids", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg", 
@@ -97,7 +91,6 @@
  }, 
 {        
   "name": "How to Train Your Dragon 2", 
-  "category": "Kids", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
@@ -113,7 +106,6 @@
  }, 
  {        
   "name": "How to Train Your Dragon 3: The Hidden World", 
-  "category": "Kids", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
