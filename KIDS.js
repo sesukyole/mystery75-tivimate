@@ -1,7 +1,6 @@
 [
  {        
   "name": "BoBoiBoy Movie", 
-  "category": "kids", 
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
