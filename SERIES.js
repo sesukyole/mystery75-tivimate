@@ -1,6 +1,6 @@
 [ 
  {
-  "name": "Kids",
+  "name": "Kids"
             },
         {        
   "name": "BoBoiBoy Movie", 
