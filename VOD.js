@@ -1,6 +1,7 @@
 [ 
  {        
   "name": "16 Puasa", 
+  "name:es": "Malay",
   "category": "Movies",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
