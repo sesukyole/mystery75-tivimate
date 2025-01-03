@@ -265,24 +265,6 @@
            "drm": "clearkey", 
            "drmkey": "44dd002cd4eb5e42b7fd35e3e72d52ae:01dc61a4e3a5f182cdf80112ae04e863"
  }, 
- {        
-  "name": "", 
-  "category": "",
-  "info": { 
-           "poster": "", 
-           "bg": "", 
-           "plot": "", 
-           "backdrop": "", 
-           "director": [""], 
-           "cast": [""],
-           "country": [""],
-           "audio": [""],
-           "year": ""
-           }, 
-           "video": "", 
-           "drm": "clearkey", 
-           "drmkey": ""
- }, 
  {
     "name": "TWINKLING WATERMELON",
     "info": {
