@@ -1219,7 +1219,7 @@
                             "cast": ["  Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/5112cbad-f8c7-5518-9b5b-89034ec20086/default_dash.mpd", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/5112cbad-f8c7-5518-9b5b-89034ec20086/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "6d6e7ed107d4725ba0d354d2a7c6b810:123708bc2c8f7db06c9fa2eff5defcf5"
                  },
@@ -1235,7 +1235,7 @@
                             "cast": ["  Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/33de1fb5-4f7f-5b47-bb55-395f42dda5d7/default_dash.mpd", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/33de1fb5-4f7f-5b47-bb55-395f42dda5d7/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "6069c1f6d6a39a8dba70313442c5a410:b3e7360101d2c6a7b8a0ebf6c5afda6a"
                  },
