@@ -1251,6 +1251,7 @@
               "director": ["Jamal Khan"], 
               "cast": [" Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
               "year": "2024"
+             },
     "seasons": [
         {
           "name": "Dedaun Hijau Di Angin Lalu",
@@ -1291,9 +1292,25 @@
                             "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
                             "year": "2024"
                            },
-                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/658a52a6-4b33-5ae9-8ada-9fb8a823b2e7/default_dash.mpd", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/658a52a6-4b33-5ae9-8ada-9fb8a823b2e7/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "60fe459d5d8563dde7bdb103800b3210:8aa1a14c498fec7680092fdf26d3c8a3"
+                 },
+               {
+                    "episode": 3,
+                    "name": "EPISODE  3",
+                    "info": {
+                            "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "plot": "Effendi menasihati Assad agar mengawal marahnya dan jangan memainkan perasaan wanita jika tidak ada niat untuk bercinta. Marina tidak putus asa menggoda Assad walaupun Assad itu anak saudaranya.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
+                            "director": ["Jamal Khan"], 
+                            "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f3d25a7f-f9c9-5890-a22c-e26492b05348/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "8acb075e60548729529eb6bc6a451d10:b76b9337b48712c0b40d55f30d6c018e"
                  },
             ]
         }
