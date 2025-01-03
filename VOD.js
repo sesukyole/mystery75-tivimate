@@ -255,8 +255,6 @@
            "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/032930X0-landscape.jpg", 
            "director": ["Michael Chaves"], 
            "cast": ["Vera Farmiga","Patrick Wilson","Julian Hilliard","Ruairi O'connor","Sarah Catherine Hook"],
-           "country": [""],
-           "audio": ["Inggeris"],
            "year": "2021"
            }, 
            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/611a14af2bd0bb5cd89ea595_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
@@ -264,21 +262,106 @@
            "drmkey": "44dd002cd4eb5e42b7fd35e3e72d52ae:01dc61a4e3a5f182cdf80112ae04e863"
  }, 
  {        
+  "name": "Insidious Chapter 2", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://dai3fd1oh325y.cloudfront.net/images/720p/017328X0-portrait.jpg", 
+           "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/017328X0-portrait.jpg", 
+           "plot": "Keluarga Lambert berusaha untuk membongkar rahsia zaman kanak-kanak yang menyebabkan mereka berhubung dengan dunia roh.", 
+           "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/017328X0-landscape.jpg", 
+           "director": ["James Wan"], 
+           "cast": ["Patrick Wilson","Rose Byrne","Barbara Hershey","Lin Shaye","Ty Simpkins","Steve Coulter"],
+           "trailer": "5hvNMXh1GWw",
+           "year": "2013"
+           }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65d59e5bd940521074f51cca_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "5d5fe70dff11500a3171047169766487:1d811ef7c30019a606339eeaced3bbd2"
+ }, 
+ {        
+  "name": "Insidious Chapter 3", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://dai3fd1oh325y.cloudfront.net/images/720p/019472X0-portrait.jpg", 
+           "bg": "https://dai3fd1oh325y.cloudfront.net/images/720p/019472X0-portrait.jpg", 
+           "plot": "Bab paling menyeramkan dalam francais seram ini kembali ke permulaan, sebelum keluarga Lambert dihantui..", 
+           "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/019472X0-landscape.jpg", 
+           "director": ["Leigh Whannell"], 
+           "cast": ["Leigh Whannell","Stefanie Scott","Angus Sampson","Leigh Whannell"],
+           "trailer": "bWd2MrMTYrc",
+           "year": "2015"
+           }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65d6d1c9d940521074f539cb_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "ebc5fab962cc1675e1b59cedddcf9d62:379019501bb944884527b4cbc6fba791"
+ }, 
+ {        
   "name": "Insidious: The Last Key", 
   "category": "Horror",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BMTUxODU0NjQ2Nl5BMl5BanBnXkFtZTgwMTc4NDQ0MzI@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMTUxODU0NjQ2Nl5BMl5BanBnXkFtZTgwMTc4NDQ0MzI@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
+           "poster": "https://dai3fd1oh325y.cloudfront.net/images/720p/023598X0-portrait.jpg", 
+           "bg": "https://dai3fd1oh325y.cloudfront.net/images/720p/023598X0-portrait.jpg", 
            "plot": "Ahli psikologi Elise Rainier dan pasukannya mengembara ke Five Keys untuk menyiasat dakwaan gangguan hantu oleh seorang lelaki. Ketakutan terus melanda apabila Rainier menyedari yang rumah yang didiami lelaki itu adalah rumah lama keluarganya.", 
-           "backdrop": "https://m.media-amazon.com/images/M/MV5BMTk0Mjc4ODY4MF5BMl5BanBnXkFtZTgwMDE5MDk0NDM@._V1_UX1920_CR0,1,1920,1080_.jpg", 
+           "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/023598X0-landscape.jpg", 
            "director": ["Adam Robitel"], 
-           "cast": ["Lin Shaye,Leigh Whannell,Angus Sampson"],
+           "cast": ["Lin Shaye","Augus Sampson","Leigh Whannell","Josh Stewart","Caitlin Gerard","Kirk Acevedo","Marcus Henderson"],
            "trailer": "acQyrwQyCOk",
            "year": "2018"
            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/47f6e417-b851-5c9a-acb0-169c53cf9c57/default_primary.mpd", 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e5f84823a736626cec99acf_hbovodhd/dash0/MYS_index.mpd", 
            "drm": "clearkey", 
-           "drmkey": "fb68af4c3bbacb0d962b36d6c3de3710:e2e1e468c798b1be1c796ea3bfb6ac4b"
+           "drmkey": "0657b57d1cc25d42a06d90daad408ef3:5f93c0eb1ea430bc353e267d666056e1"
+ }, 
+ {        
+  "name": "Sting", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BOWU1NzZiMWQtOWIzNi00OWQ2LThjMjctMGQ4OTMxZTQwOGY3XkEyXkFqcGc@._V1_FMjpg_UX750_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BOWU1NzZiMWQtOWIzNi00OWQ2LThjMjctMGQ4OTMxZTQwOGY3XkEyXkFqcGc@._V1_FMjpg_UX750_CR0,1,600,900_.jpg", 
+           "plot": "Charlotte yang berusia 12 tahun dan suka memberontak menemui seekor labah-labah kecil di bangunan pangsapurinya yang usang. Tanpa disedari oleh ibu bapanya, dia menyimpannya sebagai haiwan peliharaan, namun tidak lama kemudian ia mula membesar dengan cepat dan sentiasa inginkan darah. Apabila jiran-jirannya mulai hilang, Charlotte dan keluarganya mendapati diri mereka terpaksa berjuang melawan makhluk yang ganas dan menyukai daging manusia.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BOWU1NzZiMWQtOWIzNi00OWQ2LThjMjctMGQ4OTMxZTQwOGY3XkEyXkFqcGc@._V1_FMjpg_UX1920_CR0,1050,1920,1080_.jpg", 
+           "director": ["Kiah Roache Turner"], 
+           "cast": ["Alyla Browne,  Ryan Corr,  Noni Hazlehurst"],
+           "trailer": "JMNOaJOWICo",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/528cb906-115e-5fe6-a295-865c4a7b8990/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "30cc8f5f5b116b2f88b2211bd2f30910:1e1aed2cbbabdbb5a6aa890b6fd8319c"
+ }, 
+ {        
+  "name": "Joker", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://dai3fd1oh325y.cloudfront.net/images/720p/023711X0-portrait.jpg", 
+           "bg": "https://dai3fd1oh325y.cloudfront.net/images/720p/023711X0-portrait.jpg", 
+           "plot": "Gagal menjadi pelawak berjaya yang berdiri di hadapan penonton, Arthur Fleck terjumpa sekumpulan penjenayah yang berpakaian seperti badut merayau-rayau di jalan-jalan Bandar Gotham. Dipinggirkan oleh masyarakatnya, Fleck perlahan-lahan menjadi gila dan berubah menjadi dalam penjenayah yang dikenali sebagai Joker.", 
+           "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/023711X0-landscape.jpg", 
+           "director": [" Todd Phillips"], 
+           "cast": ["Joaquin Phoenix","Robert De Niro","Zazie Beetz","Frances Conroy","Brett Cullen","Bill Camp","Shea Whigham","Glenn Fleshler","Marc Maron"],
+           "trailer": "zAGVQLHvwOY",
+           "year": "2019"
+           }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1e65956d048943f75c09e2_hbovodhd/dash0/MYS_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "5566a742312752b2ab605777a3bb27bc:5419f52647b2a8403b17587f1fbe994a"
+ }, 
+  {        
+  "name": "Telekinesis ", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYmY1NmE5NmItMjI0Ny00ZDY4LWE0ZWMtNGE2OGQ0YTVmZWIzXkEyXkFqcGc@._V1_QL100_UX725_CF0,0,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYmY1NmE5NmItMjI0Ny00ZDY4LWE0ZWMtNGE2OGQ0YTVmZWIzXkEyXkFqcGc@._V1_QL100_UX725_CF0,0,600,900_.jpg", 
+           "plot": "Fadli adalah seorang anggota NTSF yang ingin membalas dendam terhadap ELSM (Extra Sensory Liberation Movement) kerana kematian ayahnya 20 tahun lalu. Kewujudan Helang dalam ELSM semakin terancam dengan hasrat untuk memusnahkan NSTF. Fadli mula menyiasat dan mensyakki NTSF mempunyai seorang tikus yang membongkarkan maklumat mereka. Perkara menjadi semakin rumit di antara NTSF dan ELSM sehingga semua motif jahat terbongkar.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKGPN_IVP_LAND_917x516_74B41_20241223_142737.jpg", 
+           "director": ["  Syafiq Yusof"], 
+           "cast": ["Yusof Bahrin,  Nick Davis,  Shabby"],
+           "trailer": "dwUh7TX6QsQ",
+           "year": "2023"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fd635c11-1aef-5cd8-aa52-94a125f6dfa6/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "14a31c1e5f70dd6095a10f428446f110:b957efb6a4d71e0dce896b03c33a4586"
  }, 
  {
     "name": "TWINKLING WATERMELON",
@@ -1088,9 +1171,9 @@
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6f015807-9de5-5c54-834b-961c75352358/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "d9be0fb38c0d93ce843c0d7d851d4110:8b9378b217ab940f55bbb580ac8089e1"
                  },
             {
                     "episode": 33,
@@ -1104,9 +1187,9 @@
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/704fd522-35ce-5f5c-bdab-9e5ac90832dd/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "79b78afd07ba1e1ddd0ef479e6836710:abc7cd7689a9c7dfb14fba237f31bcec"
                  },
             {
                     "episode": 34,
@@ -1120,9 +1203,9 @@
                             "cast": [" Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/7822361e-973b-5804-9e6c-a03387d20104/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "627b3b230bf23d7aa9a22c26879b6810:6f604bbdc64ee58b43656eca959bd489"
                  },
             {
                     "episode": 35,
@@ -1136,9 +1219,9 @@
                             "cast": ["  Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/5112cbad-f8c7-5518-9b5b-89034ec20086/default_dash.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "6d6e7ed107d4725ba0d354d2a7c6b810:123708bc2c8f7db06c9fa2eff5defcf5"
                  },
             {
                     "episode": 36,
@@ -1152,9 +1235,9 @@
                             "cast": ["  Ummi Nazeera,  Hisyam Hamid,  Mimi Lana,  Zahiril Adzim"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/33de1fb5-4f7f-5b47-bb55-395f42dda5d7/default_dash.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "6069c1f6d6a39a8dba70313442c5a410:b3e7360101d2c6a7b8a0ebf6c5afda6a"
                  },
             ]
         }
