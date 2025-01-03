@@ -26,6 +26,7 @@
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_IVP_LAND_917x516_378AF_20241130_41528.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
+           "trailer": "e9dWysgWKNU",
            "year": "2017"
            }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c5dfdbee-1bfb-59dc-bc04-047e7da111ef/default_primary.mpd", 
@@ -42,6 +43,7 @@
            "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/017484X0-landscape.jpg", 
            "director": ["Zack Snyder"], 
            "cast": ["Gerard Butler","Lena Headey","David Wenham","Dominic West","Vincent Regan","Michael Fassbender","Tom Wisdom","Andrew Pleaviin","Andrew Tiernan","Rodrigo Santoro","Peter Mensah","Stephen Mchattie"],
+           "trailer": "UrIbxk7idYA",
            "year": "2007"
             }, 
            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61b8038afbbcc21f45d24f31_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
@@ -58,6 +60,7 @@
            "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/017814X0-landscape.jpg", 
            "director": ["Noam Murro"], 
            "cast": ["Sullivan Stapleton","Eva Green","Lena Headey"],
+           "trailer": "QiTBMODZy0I",
            "year": "2014"
             }, 
            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ef1ead56d048943f757d045_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
@@ -168,8 +171,6 @@
            "backdrop": "https://m.media-amazon.com/images/M/MV5BMGZhZTE0ZDEtZDA5Yi00YjM4LTkwODQtM2RlMTQ5MzZlMzQwXkEyXkFqcGdeQWRpZWdtb25n._V1_UX1920_CR0,1,1920,1080_.jpg", 
            "director": ["Lee Sang-Young"], 
            "cast": ["Ma Dong-Seok,Son Seok-Koo"],
-           "country": ["Korean"],
-           "audio": ["Korean"],
            "year": "2022"
            }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e7eb63b8-2526-5386-b0a2-9c21956b1fdd/default_primary.mpd", 
@@ -186,8 +187,6 @@
            "backdrop": "https://m.media-amazon.com/images/M/MV5BMWNiNGExMjEtZjVjOC00N2FlLWJhODYtYjE3ZDM3MDZlMGQyXkEyXkFqcGc@._V1_UX1920_CR0,1,1920,1080_.jpg", 
            "director": ["Lee Sang-yong"], 
            "cast": ["Ma Dong-seok,Lee Jun-hyuk,Munetaka Aoki"],
-           "country": ["Korean"],
-           "audio": ["Korean"],
            "year": "2023"
            }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/7c5713cb-254a-555e-bbc1-9ad7b91d8ef8/default_primary.mpd", 
@@ -204,8 +203,6 @@
            "backdrop": "https://m.media-amazon.com/images/M/MV5BMjk0NjBiNGMtYTcwMy00ZmI5LTlmYzEtNzdjNzg1MmJjYWZkXkEyXkFqcGc@._V1_UX1920_CR0,1,1920,1080_.jpg", 
            "director": ["Heo Myeong-Haeng"], 
            "cast": ["Ma Don Lee,Kim Mu-Yeol,Lee Dong-Hwi"],
-           "language": ["kr"],
-           "audio": ["kr"],
            "year": "2024"
            }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/c8a17de8-b10d-55a3-bfac-091b41a8293e/default_primary.mpd", 
@@ -265,6 +262,23 @@
            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/611a14af2bd0bb5cd89ea595_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
            "drm": "clearkey", 
            "drmkey": "44dd002cd4eb5e42b7fd35e3e72d52ae:01dc61a4e3a5f182cdf80112ae04e863"
+ }, 
+ {        
+  "name": "Insidious: The Last Key", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTUxODU0NjQ2Nl5BMl5BanBnXkFtZTgwMTc4NDQ0MzI@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTUxODU0NjQ2Nl5BMl5BanBnXkFtZTgwMTc4NDQ0MzI@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
+           "plot": "Ahli psikologi Elise Rainier dan pasukannya mengembara ke Five Keys untuk menyiasat dakwaan gangguan hantu oleh seorang lelaki. Ketakutan terus melanda apabila Rainier menyedari yang rumah yang didiami lelaki itu adalah rumah lama keluarganya.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMTk0Mjc4ODY4MF5BMl5BanBnXkFtZTgwMDE5MDk0NDM@._V1_UX1920_CR0,1,1920,1080_.jpg", 
+           "director": ["Adam Robitel"], 
+           "cast": ["Lin Shaye,Leigh Whannell,Angus Sampson"],
+           "trailer": "acQyrwQyCOk",
+           "year": "2018"
+           }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/47f6e417-b851-5c9a-acb0-169c53cf9c57/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "fb68af4c3bbacb0d962b36d6c3de3710:e2e1e468c798b1be1c796ea3bfb6ac4b"
  }, 
  {
     "name": "TWINKLING WATERMELON",
@@ -1150,8 +1164,8 @@
   "name": "BoBoiBoy Movie", 
   "category": "Kids",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
            "plot": "BoBoiBoy dan rakannya berhadapan dengan pemburu harta makhluk asing yang tamak sewaktu mereka bersaing menemukan objek purba yang berkuasa di sebuah pulau misteri.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBMAG_series_IVP_LAND_917x516_6A6D8_2024321_172815.jpg", 
            "director": ["Nizam Abdul Razak"], 
@@ -1166,8 +1180,8 @@
   "name": "BoBoiBoy Movie 2", 
   "category": "Kids",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_FMjpg_UX700_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_FMjpg_UX700_CR0,1,600,900_.jpg", 
            "plot": "BoBoiBoy dan rakan-rakannya menjadi sasaran penjahat kuno, Retak'ka yang inginkan kuasa semulajadinya dikembalikan semula agar dia boleh menjadi orang yang paling berkuasa di galaksi. BoBoiBoy dan gengnya harus mencari jalan untuk menewaskan Retak'ka dan menghalangnya dari merampas kuasa BoBoiBoy.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IWMJC_IVP_LAND_917x516_6A6D9_2024321_17291.jpg", 
            "director": ["Nizam Abdul Razak"], 
@@ -1182,8 +1196,8 @@
   "name": "Hotel Transylvania ", 
   "category": "Kids",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX390_CR0,0,380,562_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX390_CR0,0,380,562_.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
            "plot": "Selamat datang ke Hotel Transylvania, pusat peranginan mewah Dracula, di mana raksasa-raksasa dan keluarga mereka boleh berseronok dan tiada manusia dibenarkan. Suatu hujung minggu istimewa, Dracula telah mengajak semua teman baiknya untuk meraikan hari jadi ke-118 anak gadis kesayangan Mavis. Bagi Dracula untuk melayan semua raksasa legenda ini bukan satu masalah tetapi parti itu betul-betul bermula apabila seorang lelaki biasa terserempak dengan hotel itu dan merubah segalanya!", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HNNYK_IVP_LAND_917x516_25A24_2024321_17951.jpg", 
            "director": ["Genndy Tartakovsky"], 
@@ -1198,8 +1212,8 @@
   "name": "Hotel Transylvania 2 ", 
   "category": "Kids",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
            "plot": "Hotel Transylvania kini terbuka kepada penginap-penginap manusia. Mavis dan Johnny mempunyai seorang anak lelaki bernama Dennis, yang kekurangan kebolehan pontianaknya membuat datuknya, Dracula, risau. Apabila Mavis dan Johnny pergi melawat ibubapa Johnny, Dracula memanggil kawan-kawannya untuk membantunya membuat Dennis jadi pontianak. Tetapi, satu lawatan yang tidak dijangka dari ayah Dracula yang konservatif dan membenci manusia iaitu Vlad, membuat keadaan menjadi tonggang-terbalik.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HMOHK_IVP_LAND_917x516_7D81D_2024101_11831.jpg", 
            "director": ["Genndy Tartakovsky"], 
@@ -1214,8 +1228,8 @@
   "name": "Hotel Transylvania 3 ", 
   "category": "Kids",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
            "plot": "Pelayaran begitu lancar buat kawanan Dracula apabila kapal mewah raksasa menawarkan keseronokan dari bola tampar ke lawatan eksotik, dan bertemu sambil berjemur di bawah bulan. Namun, percutian impian bertukar menjadi mimpi ngeri apabila Mavis sedar Dracula telah jatuh hati dengan kapten kapal yang misteri, Ericka yang menyembunyikan rahsia berbahaya yang mungkin membinasakan semua raksasa.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IPBJU_100anniversary_IVP_LAND_917x516_2024819_12255.jpg", 
            "director": ["Genndy Tartakovsky"], 
@@ -1230,8 +1244,8 @@
   "name": "How to Train Your Dragon", 
   "category": "Kids",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
            "plot": "Hiccup, seorang remaja Viking yang tidak begitu sesuai berada di dalam puaknya yang secara tradisi, menjadi wira yang membunuh naga. Dunia Hiccup mulai kucar-kacir apabila dia menemui seekor naga yang mencabar dirinya dan Viking yang lain untuk melihat dunia ini melalui perspektif yang berbeza.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000151X864471_IVP_LAND_917x516.jpg", 
            "director": ["Dean DeBlois,Chris Sanders"], 
@@ -1246,8 +1260,8 @@
   "name": "How to Train Your Dragon 2", 
   "category": "Kids",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
            "plot": "Lima tahun berlalu semenjak Hiccup dan Tootless menemukan naga-naga dengan Vikings Berk. Kini, mereka menghabiskan masa melakar kawasan di pulau itu. Ketika salah satu pengembaraan, kedua mereka menemui sebuah gua yang dihuni beratus-ratus naga liar dan 'Dragon Rider' misteri yang merupakan Valka, ibu Hiccup yang telah lama hilang. Hiccup dan Toothless kemudian mendapati diri mereka berdepan dengan pertarungan untuk melindungi Berk daripada perwira yang gilakan kuasa iaitu Drago.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HSJGT_IVP_LAND_917x516_13E91_2024524_104436.jpg", 
            "director": ["Dean DeBlois"], 
@@ -1262,8 +1276,8 @@
   "name": "How to Train Your Dragon 3: The Hidden World", 
   "category": "Kids",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX390_CR0,1,380,562_.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
            "plot": "Kini ketua dan pemerintah Berk bersama Astrid, Hiccup menghasilkan utopia naga penuh huru-hara. Apabila Light Fury betina tiba-tiba muncul serentak dengan ancaman paling buruk di kampung mereka, Hiccup dan Toothless terpaksa meninggalkan rumah dan mengembara ke dunia tersembunyi yang mereka rasa hanya wujud dalam mitos semata. Ketika takdir sebenar mereka diperlihatkan, naga dan penunggang berjuang bersama-sama hingga ke hujung Bumi untuk melindungi apa jua yang mereka usahakan untuk dihargai.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVJIB_IVP_LAND_917x516_202431_102038.jpg", 
            "director": ["Dean DeBlois"], 
@@ -1273,6 +1287,22 @@
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/730a46c4-bfe1-5981-b53d-ebd60b24f567/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "6b7145b6c2ffa9585b8cfa2342670c10:c31162735079b18ff704c3281bef2004"
+ }, 
+ {        
+  "name": "Wheely", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BOTMwNWU3ODAtMGYwYi00MDM5LWJmYTktZTE3ODIxOThlNjI3XkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BOTMwNWU3ODAtMGYwYi00MDM5LWJmYTktZTE3ODIxOThlNjI3XkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "plot": "Di dalam dunia yang penghuninya ialah kereta, Wheely, sebuah teksi yang sering ditindas bercita-cita ingin menjadi juara di Gasket City", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMTVkNDQzMTAtZDk3Ni00N2VmLTlkNzQtZWJmNjc0Y2Q4Nzg4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_UX1920_CR0,1,1920,1080_.jpg", 
+           "director": ["Carl Mendez,Yusry Abd Halim"], 
+           "cast": ["Ogie Banks,Zizan Razak,Gavin Yap,Johan Raja Lawak"],
+           "year": "2019"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ef8797a1-b03b-5e91-b313-2d33d1f0fdc1/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "13fcd1ffc293d6cf47b73d97388f5a10:41f21bad546bc67f6380eb4554b9c4c5"
  },  
 ]
  
