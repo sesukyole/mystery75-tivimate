@@ -147,28 +147,46 @@
   "name": "Deadpool & Wolverine", 
   "category": "Action",
   "info": { 
-           "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg", 
-           "bg": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
            "plot": "Filem ini mengisahkan kerjasama tidak dijangka antara Deadpool (Ryan Reynolds) dan Wolverine (Hugh Jackman) yang berganding bahu untuk melawan penjahat baru yang mengancam untuk mengubah keseluruhan alam nyata mereka. Plot bermula dengan kekacauan dan kecerdasan Deadpool yang biasa, berlanjut kepada naratif yang kompleks di mana pasangan ini mengharungi dendam peribadi, musuh yang tidak henti-henti, dan makna lebih mendalam tentang kepahlawanan.", 
-           "backdrop": "https://www.xtrafondos.com/wallpapers/deadpool-y-wolverine-pelea-12538.jpg", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMGVhYWUyNzMtNDBkOS00NDM1LWIwNGMtZTQ5YjMwNmZhYTE1XkEyXkFqcGdeQWRvb2xpbmhk._V1_UX1920_CR0,1,1920,1080_.jpg", 
            "director": ["Shawn Levy"], 
            "cast": ["Ryan Reynolds,Hugh Jackman,Emma Corrin"],
            "year": "2024"
            }, 
            "video": "https://irwanluffyshare.irwanluffy2022.workers.dev/download.aspx?file=f5gF5h%2BK2soTA5h94dnkGi8kM3w4NI9hRU4y5nuW3lQ0IshPjTcA84X8GwkaTEv%2F&expiry=IjTIgFmlXrUHjgedSvzzNg%3D%3D&mac=46d676c6e109ae4ab6f28f04b00cada4656daac8e26379c5158c27d5c342f29e" 
  }, 
-  {        
+ {        
+  "name": "The Roundup", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNjZmNGI4ODItOTVhNS00MTBlLWEwN2EtZGEyNzdhZTBhNmEyXkEyXkFqcGc@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNjZmNGI4ODItOTVhNS00MTBlLWEwN2EtZGEyNzdhZTBhNmEyXkEyXkFqcGc@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
+           "plot": "Semasa dalam perjalanan mengekstradisi suspek, polis handalan Ma Seok-do terdengar berita pembunuh bersiri kejam di Vietnam dan cuba mengheretnya ke muka pengadilan.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMGZhZTE0ZDEtZDA5Yi00YjM4LTkwODQtM2RlMTQ5MzZlMzQwXkEyXkFqcGdeQWRpZWdtb25n._V1_UX1920_CR0,1,1920,1080_.jpg", 
+           "director": ["Lee Sang-Young"], 
+           "cast": ["Ma Dong-Seok,Son Seok-Koo"],
+           "country": ["Korean"],
+           "audio": ["Korean"],
+           "year": "2022"
+           }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e7eb63b8-2526-5386-b0a2-9c21956b1fdd/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "7a031cfac45e00e712cec59a93d61b10:43cec36e92b06937e4ce36351014488f"
+ }, 
+ {        
   "name": "The Roundup: No Way Out ", 
   "category": "Action",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BODJiMGJlMDEtNjNkZi00N2YzLTlhMzgtODMyZWJhNTIyMDIxXkEyXkFqcGc@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BODJiMGJlMDEtNjNkZi00N2YzLTlhMzgtODMyZWJhNTIyMDIxXkEyXkFqcGc@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
-           "plot": "Tujuh tahun selepas pusingan di Vietnam, Ma Seok-do menyertai skuad baharu untuk menyiasat kes pembunuhan. Dia tidak lama kemudian mula menggali lebih dalam apabila dia mendapat tahu kes itu melibatkan dadah sintetik dan sekumpulan samseng.", 
-           "backdrop": "https://thumbor.prod.vidiocdn.com/W431AehlBa87IwbYtzMTPApCx2A=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8504657/the-roundup-punishment-b9762a.jpg", 
+           "plot": "Setelah tujuh tahun bertugas di Vietnam, Ma Seok-do menyertai skuad baru untuk menyiasat kes pembunuhan. Kemudian, dia mendapati kaitan kes itu dengan sindiket dadah sintetik yang besar. Di sebalik semua yang terjadi, dia mula menyiasat lebih mendalam seorang pemuda Joo Sung-chul yang berulang kali memberi masalah pada Ma. Sementara itu, pengedar dadah, Ricky dan gengnya datang ke Korea untuk turut serta dalam kekacauan itu.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMWNiNGExMjEtZjVjOC00N2FlLWJhODYtYjE3ZDM3MDZlMGQyXkEyXkFqcGc@._V1_UX1920_CR0,1,1920,1080_.jpg", 
            "director": ["Lee Sang-yong"], 
            "cast": ["Ma Dong-seok,Lee Jun-hyuk,Munetaka Aoki"],
            "country": ["Korean"],
-           "language": ["Korean"],
+           "audio": ["Korean"],
            "year": "2023"
            }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/7c5713cb-254a-555e-bbc1-9ad7b91d8ef8/default_primary.mpd", 
@@ -181,17 +199,89 @@
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BYmU3N2UwMmEtNTM1ZS00NWQ2LTgzNDUtZDM0NGIyNzZkZTIzXkEyXkFqcGc@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BYmU3N2UwMmEtNTM1ZS00NWQ2LTgzNDUtZDM0NGIyNzZkZTIzXkEyXkFqcGc@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
-           "plot": "Detektif Ma Seok-do menyertai Pasukan Penyiasatan Siber untuk menangkap Baek Chang-ki, bekas tentera upahan dan ketua organisasi perjudian dalam talian.", 
-           "backdrop": "https://thumbor.prod.vidiocdn.com/W431AehlBa87IwbYtzMTPApCx2A=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8504657/the-roundup-punishment-b9762a.jpg", 
-           "director": ["Heo Myung-haeng"], 
-           "cast": ["Ma Dong-seok,Kim Mu-yeol,Park Ji-hwan,Lee Dong-hwi"],
+           "plot": "Dalam siri keempat Roundup bersiri, 'Monster Cop', Ma Seok-Do menyiasat satu aplikasi pengedaran dadah dan terjumpa satu sambungan ke syarikat perjudian haram atas talian.Apabila Baek Chang-Gi menakut-nakutkan pasaran perjudian Korea,detektif Ma membentuk satu kerjasama yang tidak pernah berlaku untuk menghalang ancaman yang semakin memuncak.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMjk0NjBiNGMtYTcwMy00ZmI5LTlmYzEtNzdjNzg1MmJjYWZkXkEyXkFqcGc@._V1_UX1920_CR0,1,1920,1080_.jpg", 
+           "director": ["Heo Myeong-Haeng"], 
+           "cast": ["Ma Don Lee,Kim Mu-Yeol,Lee Dong-Hwi"],
            "country": ["Korean"],
-           "language": ["Korean"],
+           "audio": ["Korean"],
            "year": "2024"
            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e7eb63b8-2526-5386-b0a2-9c21956b1fdd/default_primary.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/c8a17de8-b10d-55a3-bfac-091b41a8293e/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "7a031cfac45e00e712cec59a93d61b10:43cec36e92b06937e4ce36351014488f"
+           "drmkey": "b805927e21e0c9af86812cd4663a5810:192c6f477ddec989a74b63947deff4be"
+ }, 
+ {        
+  "name": "The Conjuring", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://dai3fd1oh325y.cloudfront.net/images/720p/017260X0-portrait.jpg", 
+           "bg": "https://dai3fd1oh325y.cloudfront.net/images/720p/017260X0-portrait.jpg", 
+           "plot": "Para penyelidik paranormal, Ed dan Lorraine Warren bekerja untuk membantu keluarga yang berada dalam ketakutan disebabkan oleh kehadiran sesuatu yang menggerunkan di ladang mereka. Terpaksa berdepan dengan entiti yang berkuasa, keluarga Warren mendapati mereka terperangkap dalam kes yang paling menakutkan dalam hidup mereka.", 
+           "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/017260X0-landscape.jpg", 
+           "director": ["James Wan"], 
+           "cast": ["Vera Farmiga","Patrick Wilson","Lili Taylor","Ron Livingston","Shanley Caswell"],
+           "country": [""],
+           "audio": ["Inggeris"],
+           "year": "2013"
+           }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f3e46566d048943f75f12d8_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "962b8148ba87557c9ee1c3b7e8ea0fb7:d18bda3517319a9639f2ef9365d133ed"
+ }, 
+ {        
+  "name": "The Conjuring 2", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://dai3fd1oh325y.cloudfront.net/images/720p/020534X0-portrait.jpg", 
+           "bg": "https://dai3fd1oh325y.cloudfront.net/images/720p/020534X0-portrait.jpg", 
+           "plot": "Pada tahun 1977, penyiasat paranormal, Ed dan Lorraine Warren meninggalkan sabatikal untuk pergi ke Enfield, sebuah kawasan di utara London. Di sana, mereka bertemu Peggy Hodgson, ibu tunggal beranak empat yang bersemangat menceritakan tentang adanya roh jahat di rumahnya. Ed dan Lorraine percaya apabila anak perempuan bongsunya mula menunjukkan tanda-tanda disampuk roh jahat. Dalam usaha keluarga Warren membantu gadis yang tidak berupaya itu, mereka menjadi sasaran roh jahat itu seterusnya.", 
+           "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/020534X0-landscape.jpg", 
+           "director": ["James Wan"], 
+           "cast": ["Vera Farmiga","Patrick Wilson","Frances O'connor","Madison Wolfe","Simon Mcburney","Franka Potente","Simon Delaney","Maria Doyle Kennedy","Lauren Esposito","Benjamin Haigh","Patrick Mcauley","Sterling Jerins","Bob Adrian"],
+           "country": [""],
+           "audio": ["Inggeris"],
+           "year": "2016"
+           }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4f8ab06d048943f760b03a_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "323ac908961050658eabae3ba1ed9390:87c42b4f0230a6054c3981fafda0b33f"
+ }, 
+ {        
+  "name": "The Conjuring: The Devil Made Me Do It", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://dai3fd1oh325y.cloudfront.net/images/720p/032930X0-portrait.jpg", 
+           "bg": "https://dai3fd1oh325y.cloudfront.net/images/720p/032930X0-portrait.jpg", 
+           "plot": "Penyiasat paranormal, Ed dan Lorraine Warren mengambil salah satu kes yang paling sensasi dalam karier mereka setelah seorang polis ternampak pemuda yang bingung dan berlumuran darah di tepi jalan. Dituduh kerana membunuh, suspek itu mendakwa rasukan syaitan sebagai membela diri, memaksa pasangan Warren melakukan penyiasatan tentang kuasa ghaib tidak seperti yang pernah mereka lihat sebelum ini.", 
+           "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/032930X0-landscape.jpg", 
+           "director": ["Michael Chaves"], 
+           "cast": ["Vera Farmiga","Patrick Wilson","Julian Hilliard","Ruairi O'connor","Sarah Catherine Hook"],
+           "country": [""],
+           "audio": ["Inggeris"],
+           "year": "2021"
+           }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/611a14af2bd0bb5cd89ea595_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "44dd002cd4eb5e42b7fd35e3e72d52ae:01dc61a4e3a5f182cdf80112ae04e863"
+ }, 
+ {        
+  "name": "", 
+  "category": "",
+  "info": { 
+           "poster": "", 
+           "bg": "", 
+           "plot": "", 
+           "backdrop": "", 
+           "director": [""], 
+           "cast": [""],
+           "country": [""],
+           "audio": [""],
+           "year": ""
+           }, 
+           "video": "", 
+           "drm": "clearkey", 
+           "drmkey": ""
  }, 
  {
     "name": "TWINKLING WATERMELON",
@@ -1159,10 +1249,10 @@
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX380_CR0,1,380,562_.jpg", 
-           "plot": "Set in the mythical world of burly Vikings and wild dragons, a Viking teenager's world is turned upside down when he is challenged by an unusual dragon.", 
+           "plot": "Hiccup, seorang remaja Viking yang tidak begitu sesuai berada di dalam puaknya yang secara tradisi, menjadi wira yang membunuh naga. Dunia Hiccup mulai kucar-kacir apabila dia menemui seekor naga yang mencabar dirinya dan Viking yang lain untuk melihat dunia ini melalui perspektif yang berbeza.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000151X864471_IVP_LAND_917x516.jpg", 
-           "director": ["CHRIS SANDERS"], 
-           "cast": ["CRAIG FERGUSON,GERARD BUTLER,JAY BARUCHEL"],
+           "director": ["Dean DeBlois,Chris Sanders"], 
+           "cast": ["Jay Baruchel,Gerard Butler"],
            "year": "2010"
             }, 
            "video": "", 
