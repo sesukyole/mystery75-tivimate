@@ -276,7 +276,7 @@
            "trailer": "acQyrwQyCOk",
            "year": "2018"
            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/47f6e417-b851-5c9a-acb0-169c53cf9c57/default_dash.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/47f6e417-b851-5c9a-acb0-169c53cf9c57/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "fb68af4c3bbacb0d962b36d6c3de3710:e2e1e468c798b1be1c796ea3bfb6ac4b"
  }, 
@@ -1300,7 +1300,7 @@
            "cast": ["Ogie Banks,Zizan Razak,Gavin Yap,Johan Raja Lawak"],
            "year": "2019"
             }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ef8797a1-b03b-5e91-b313-2d33d1f0fdc1/default_dash.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ef8797a1-b03b-5e91-b313-2d33d1f0fdc1/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "13fcd1ffc293d6cf47b73d97388f5a10:41f21bad546bc67f6380eb4554b9c4c5"
  },  
