@@ -9,6 +9,7 @@
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_IVP_LAND_917x516_2024221_204310.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
+           "trailer": "nw2roBPsbyU",
            "year": "2017"
             }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cbfc1b59-d17a-57e3-9a55-6b72c59ef9db/default_primary.mpd", 
@@ -203,8 +204,8 @@
            "backdrop": "https://m.media-amazon.com/images/M/MV5BMjk0NjBiNGMtYTcwMy00ZmI5LTlmYzEtNzdjNzg1MmJjYWZkXkEyXkFqcGc@._V1_UX1920_CR0,1,1920,1080_.jpg", 
            "director": ["Heo Myeong-Haeng"], 
            "cast": ["Ma Don Lee,Kim Mu-Yeol,Lee Dong-Hwi"],
-           "country": ["Korean"],
-           "audio": ["Korean"],
+           "language": ["kr"],
+           "audio": ["kr"],
            "year": "2024"
            }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/c8a17de8-b10d-55a3-bfac-091b41a8293e/default_primary.mpd", 
