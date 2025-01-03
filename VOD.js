@@ -1243,7 +1243,15 @@
         }
     ]
  },
- "seasons": [
+ {
+    "name": "Dedaun Hijau Di Angin Lalu",
+    "info": {
+              "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg",
+              "plot": "ADAPTASI DARI NOVEL",
+              "director": ["Jamal Khan"], 
+              "cast": [" Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
+              "year": "2024"
+    "seasons": [
         {
           "name": "Dedaun Hijau Di Angin Lalu",
           "info": {
@@ -1271,6 +1279,26 @@
                     "drm": "clearkey", 
                     "drmkey": "18c715ab05540287e1fb1e6e016eaf10:7e411e297c2d55ad8b4513d27bf9c628"
                  },
+               {
+                    "episode": 2,
+                    "name": "EPISODE  2",
+                    "info": {
+                            "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "plot": "Jamaliah terkejut tengok Intan yang lebam-lebam di muka dan badannya. Tok Hassan mengugut Dahlan supaya berhenti mendera Intan kerana dia tidak akan teragak-agak untuk membuat laporan polis.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
+                            "director": ["Jamal Khan"], 
+                            "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/658a52a6-4b33-5ae9-8ada-9fb8a823b2e7/default_dash.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "60fe459d5d8563dde7bdb103800b3210:8aa1a14c498fec7680092fdf26d3c8a3"
+                 },
+            ]
+        }
+    ]
+ },
  {        
   "name": "BoBoiBoy Movie", 
   "category": "Kids",
