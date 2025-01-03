@@ -381,8 +381,11 @@
                     "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg",
                     "director": ["Son Jung Hyun"], 
                     "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
-                    "year": "2023"
+                    "year": "2023"                  
                  },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e24a4edc-4ece-510d-b5c6-c62c9d28f59d/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "93ba35e173628f5f36104d439d0e7a10:19330f2c8623eb758194d0d7d81fa744"
           "episodes": [
                 {
                    "episode": 1, 
