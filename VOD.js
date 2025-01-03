@@ -1243,6 +1243,34 @@
         }
     ]
  },
+ "seasons": [
+        {
+          "name": "Dedaun Hijau Di Angin Lalu",
+          "info": {
+                    "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg",
+                    "plot": "Kesabaran Intan ada hadnya. Dia melarikan diri dari suaminya, tetapi kini nampaknya dia sedang diburu oleh seseorang kerana dia mempunyai rahsia penting yang dia juga tidak sedar tentang itu.",
+                    "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
+                    "director": ["Jamal Khan"], 
+                    "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
+                    "year": "2024"
+                    },
+           "episodes": [       
+                {
+                    "episode": 1,
+                    "name": "EPISODE  1",
+                    "info": {
+                            "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "plot": "Intan membesar dengan mendengar kata-kata hinaan dari orang kampung. Bagi mereka Intan lahirnya dari anak luar nikah. Manakala, Arsyad sedang memandu dalam keadaan sedih dan menyalahkan diri sendiri.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
+                            "director": ["Jamal Khan"], 
+                            "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a271c107-ae98-5ed9-aa81-491b804153b4/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "18c715ab05540287e1fb1e6e016eaf10:7e411e297c2d55ad8b4513d27bf9c628"
+                 },
  {        
   "name": "BoBoiBoy Movie", 
   "category": "Kids",
@@ -1377,15 +1405,79 @@
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BOTMwNWU3ODAtMGYwYi00MDM5LWJmYTktZTE3ODIxOThlNjI3XkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BOTMwNWU3ODAtMGYwYi00MDM5LWJmYTktZTE3ODIxOThlNjI3XkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "plot": "Di dalam dunia yang penghuninya ialah kereta, Wheely, sebuah teksi yang sering ditindas bercita-cita ingin menjadi juara di Gasket City", 
+           "plot": "Di dalam dunia yang penghuninya ialah kereta, Wheely, sebuah teksi yang sering ditindas bercita-cita ingin menjadi juara di Gasket City.", 
            "backdrop": "https://m.media-amazon.com/images/M/MV5BMTVkNDQzMTAtZDk3Ni00N2VmLTlkNzQtZWJmNjc0Y2Q4Nzg4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_UX1920_CR0,1,1920,1080_.jpg", 
            "director": ["Carl Mendez,Yusry Abd Halim"], 
-           "cast": ["Ogie Banks,Zizan Razak,Gavin Yap,Johan Raja Lawak"],
+           "cast": ["Ogie Banks","Zizan Razak","Gavin Yap","Johan Raja Lawak"],
            "year": "2019"
             }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ef8797a1-b03b-5e91-b313-2d33d1f0fdc1/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "13fcd1ffc293d6cf47b73d97388f5a10:41f21bad546bc67f6380eb4554b9c4c5"
+ },  
+ {        
+  "name": "Ultraman Ginga S", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMWU1MWQ0ZGUtOTk2OS00ODhmLWE4NWYtYjIxNDJlNjIxODc3XkEyXkFqcGc@._V1_QL100_UX650_CR18,0,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMWU1MWQ0ZGUtOTk2OS00ODhmLWE4NWYtYjIxNDJlNjIxODc3XkEyXkFqcGc@._V1_QL100_UX650_CR18,0,600,900_.jpg", 
+           "plot": "Etelgar mengutuk fikiran Arina dan menggunakan kuasanya untuk mengelak 7 Ultraman kemudian Haruno Musashi bersama Ultraman Zero mencari ibu pejabat UPG dan membantu Ultraman Ginga dan Victory membebaskan Ultraman lain dan mengalahkan Etelgar.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BZmJkNjA3NGItYzNiZC00ODRiLWIxNTEtODg0YTM5ZTUxOTkxXkEyXkFqcGc@._V1_QL100_UX1920_.jpg", 
+           "director": ["Kôichi Sakamoto","William Winckler"], 
+           "cast": ["Takuya Negishi","Kiyotaka Uji","Yukari Taki"],
+           "year": "2015"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/338c7334-6fb5-5fd1-8aac-b56315e2ef85/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "24f3139016d9bb78585811a2a191bd10:6ee6d40bfa8f1fc43fa717774c60d4e8"
+ },  
+ {        
+  "name": "Ultraman Trigger: Episode Z", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNjg4YWY1ZjYtNDExZC00MmZhLThhZTQtNWUyYjZkZDgyYmU4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNjg4YWY1ZjYtNDExZC00MmZhLThhZTQtNWUyYjZkZDgyYmU4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "plot": "Dua tahun telah berlalu sejak pertempuran terakhir dan keamanan telah dipulihkan di seluruh dunia. Walau bagaimanapun, keadaan tidak senyap lama apabila raksasa sekali lagi mula muncul di Bumi. Pada masa yang sama, satu siri pencerobohan misteri berlaku di runtuhan purba di seluruh dunia. Pasukan pakar GUTS-Select, diketuai oleh kapten baharu, menyediakan skuad untuk melancarkan siasatan.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDONB_IVP_LAND_917x516_64663_2024313_182131.jpg", 
+           "director": ["Masayoshi Takesue"], 
+           "cast": ["Raiga Terasaka","Runa Toyoda","Shunya Kaneko"],
+           "year": "2022"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c5d85333-55d6-5711-a519-d44b885333be/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "86ccb3e9c93ef145167f18ce7dd4db10:62db8d47f5a6ce6b46a9b07175f519b6"
+ },  
+ {        
+  "name": "Ultraman Decker Finale: Journey To Beyond", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYTA1Yjk5M2YtM2VjYi00ZWFmLTg3ZWEtYWQ0MGIwNDY1MWY0XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYTA1Yjk5M2YtM2VjYi00ZWFmLTg3ZWEtYWQ0MGIwNDY1MWY0XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "plot": "Bunyi aneh bergema di langit. Mereka yang mendengarnya pengsan, dan akhirnya lenyap. Pasukan pakar GUTS-Pilih menyiasat tetapi menghadapi serangan daripada tentera asing.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRE_IVP_LAND_917x516_6D616_2024313_18540.jpg", 
+           "director": ["Masayoshi Takesue"], 
+           "cast": ["Hiroki Matsumoto","Yûka Murayama","Nobunaga Daichi"],
+           "year": "2023"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8f42070f-9bca-5c38-aa04-ff7c5809cc8c/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "f8cfe1007321afad7c61fc29420ff210:86576d697e67d1419a83d8c756407680"
+ },  
+  {        
+  "name": "Ultra Galaxy Fight: The Destined Crossroad", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNDE0MDhmYjgtZTVhNS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNDE0MDhmYjgtZTVhNS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "plot": "Pasukan pakar GUTS-Select menyiasat tetapi menghadapi serangan daripada tentera asing dan kubu mudah alih yang gelap gulita, Zorgaus, yang dipandu oleh Profesor Gibellus yang berusaha untuk memerintah langit Bumi..", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRF_IVP_LAND_917x516_6D617_2024313_18544.jpg", 
+           "director": ["Kôichi Sakamoto"], 
+           "cast": ["Jun'ichi Suwabe","Zhen Zhao","Tatsuomi Hamada"],
+           "year": "2022"
+            }, 
+           "video": "vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2a9fbff6-f57f-5e71-9bd5-aaec00498965/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "770db37c02b84aebb11af8b1f6e95d10:0fb67b33e04aa79bc4f862ae26774c08"
  },  
 ]
  
