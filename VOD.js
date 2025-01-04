@@ -414,6 +414,23 @@
            "drm": "clearkey", 
            "drmkey": "3c0d9dce63c9eff6c158faa798bb0110:d1c81980c58b5f6f2b1f1acc2f469da3"
  }, 
+ {        
+  "name": "Harold and Purple Crayon", 
+  "category": "Comedy",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZGE3MmYxOTgtMGY1Ni00ZWQ4LTlhNjAtMzcxYjIzMjcwN2U1XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZGE3MmYxOTgtMGY1Ni00ZWQ4LTlhNjAtMzcxYjIzMjcwN2U1XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "plot": "Harold yang sukakan cabaran mampu melakukan apa saja dengan melukis untuk membawa sesuatu menjadi kenyataan. Tidak lama selepas itu, Harold mengetahui bahawa banyak yang perlu dipelajari tentang kehidupan sebenar dan rakannya, krayon ungu yang dipercayai boleh mencetuskan sesuatu yang lucu daripada apa yang disangkakannya. Tatkala kuasa imaginasi yang tidak terbatas jatuh ke tangan yang salah, Harold dan rakan-rakannya harus menggunakan kreativiti mereka untuk menyelamatkan dunia.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOKIN_IVP_LAND_917x516_7D08D_2024929_3233.jpg", 
+           "director": ["Carlos Saldanha"], 
+           "cast": ["Zachary Levi","Lil Rel Howery","Zooey Deschanel"],
+           "trailer": "1ugqIHI5S4",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ffb25971-a87a-5778-a003-73307331af0d/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "fb5d8d29833c7a5feafe37a418963b10:99c8e4336dea23199e0fa88266315880"
+ }, 
  {
     "name": "TWINKLING WATERMELON",
     "info": {
