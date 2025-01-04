@@ -362,6 +362,57 @@
            "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fd635c11-1aef-5cd8-aa52-94a125f6dfa6/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "14a31c1e5f70dd6095a10f428446f110:b957efb6a4d71e0dce896b03c33a4586"
+ },
+ {        
+  "name": "Kuman Thong", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxMjQ5ZDgtNDUyZS00ZmQ4LWEyN2EtYTIyZGFlMjQyMmE0XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxMjQ5ZDgtNDUyZS00ZmQ4LWEyN2EtYTIyZGFlMjQyMmE0XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "plot": "Clara yang bersedih pergi ke Thailand bersama anaknya Katie untuk mendapatkan persetujuan daripada Namfon, ibu kepada tunangnya Sai Chon, kerana Namfon tidak bersetuju dengan hubungan mereka. Beg Clara yang mengandungi abu mayat anak lelakinya, Isaac dicuri menyebabkan dia berjumpa bomoh yang memberinya Kuman Thong, yang boleh menghidupkan Isaac semula. Namfon cuba memberi racun kepada Clara sehingga membawa kepada peristiwa malang di mana Clara mati dan mayatnya dirasuki roh penuh dendam.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDEWK_IVP_LAND_917x516_7E304_20241029_21305.jpg", 
+           "director": ["Xian Lim"], 
+           "cast": ["Cindy Miranda","Althea Rhuedas","Max Nattapol"],
+           "trailer": "eFcsMl0A-Bk",
+           "year": "2024"
+           }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/574cf119-a44b-576b-a104-8ba4dd88be04/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "8645a0083c7b968cfdaa5013e7f6fe10:3f072bfcd0063f5593eed7c230334669"
+ }, 
+ {        
+  "name": "Jiwa 8 Belas", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BOTlkZDA0M2YtMzliNS00YzY0LWE3Y2EtNjYxOWFjYzcwOGVlXkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BOTlkZDA0M2YtMzliNS00YzY0LWE3Y2EtNjYxOWFjYzcwOGVlXkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "plot": "Tien dan Ishq dalam perjalanan ke Thailand. Namun, mereka terlibat dalam kemalangan jalan raya yang serius membawa mereka ke dalam situasi yang penuh bahaya. Tanpa disedari, rancangan mereka untuk melarikan diri gagal tatkala mereka terjebak dengan Mat Kitam, ketua geng perdagangan manusia yang kejam. Ketika Tien dan Ishq mendapati diri mereka terperangkap dalam rangkaian jenayah yang berbahaya, perjuangan mereka untuk bertahan hidup menjadi perlumbaan melawan masa.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLWSK_IVP_LAND_917x516_7DED9_20241018_181246.jpg", 
+           "director": ["S. Baldev Singh"], 
+           "cast": ["Sophia Albarakbah","A. Galak","Jalaluddin Hassan"],
+           "trailer": "ibZAjbBnEDo",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9b4a322d-7a67-51de-85c5-06b0257f1cd5/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "c7ed8bf9d10c7dce1eac14d0b8de9610:623db46477ed9cc93e4e9919d9c4e599"
+ }, 
+ {        
+  "name": "Hijack 1971", 
+  "category": "Suspen",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "plot": "Berdasarkan peristiwa sebenar, nasib penerbangan domestik Korea ke Gimpo bertukar menjadi malang bila salah seorang penumpang, Yong-dae merampas kapal terbang menggunakan bom. Dia menuntut agar penerbangan itu menukar haluan ke Korea Utara di mana saudaranya menetap. Dengan kapten kehilangan penglihatan dari letupan bom pertama, pembantu juruterbang mengambil alih penerbangan itu dan berjuang untuk menyelamatkan nyawa penumpang bersama peramugari kapal terbang, Ok-soon.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMTJK_IVP_LAND_917x516_7CFD1_20241124_18588.jpg", 
+           "director": ["Kim Sung-han-I"], 
+           "cast": ["Ha Jung-woo","Sung Dong-il","Yeo Jin-goo"],
+           "trailer": "UxyutkXQnvA",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1f1b05a8-801d-5d7d-b0ea-83d90ed89bf4/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "3c0d9dce63c9eff6c158faa798bb0110:d1c81980c58b5f6f2b1f1acc2f469da3"
  }, 
  {
     "name": "TWINKLING WATERMELON",
@@ -1520,7 +1571,7 @@
            "cast": ["Jun'ichi Suwabe","Zhen Zhao","Tatsuomi Hamada"],
            "year": "2022"
             }, 
-           "video": "vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2a9fbff6-f57f-5e71-9bd5-aaec00498965/default_primary.mpd", 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2a9fbff6-f57f-5e71-9bd5-aaec00498965/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "770db37c02b84aebb11af8b1f6e95d10:0fb67b33e04aa79bc4f862ae26774c08"
  },  
