@@ -410,7 +410,7 @@
            "trailer": "UxyutkXQnvA",
            "year": "2024"
            }, 
-           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1f1b05a8-801d-5d7d-b0ea-83d90ed89bf4/default_primary.mpd", 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c186a37c-6d84-5cb1-a081-d382ecf5ddcd/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "3c0d9dce63c9eff6c158faa798bb0110:d1c81980c58b5f6f2b1f1acc2f469da3"
  }, 
