@@ -431,6 +431,23 @@
            "drm": "clearkey", 
            "drmkey": "fb5d8d29833c7a5feafe37a418963b10:99c8e4336dea23199e0fa88266315880"
  }, 
+  {        
+  "name": "The Watchers", 
+  "category": "Horror","Suspen",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BN2I3MjIzYzMtNDkxNS00ZDIzLWEzZjktNDJlZDZlOGZlMTMxXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BN2I3MjIzYzMtNDkxNS00ZDIzLWEzZjktNDJlZDZlOGZlMTMxXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+           "plot": "Seorang artis berusia 28 tahun bernama Mina terkandas dalam hutan belantara dara dan luas di Ireland barat. Setelah menemui tempat perlindungan, Mina tanpa pengetahuannya terperangkap bersama tiga orang yang tidak dikenali dan mereka sedang diperhatikan dan dihendap setiap malam oleh makhluk misteri.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLSYZ_IVP_LAND_917x516_2024820_103818.jpg", 
+           "director": ["Ishana Shyamalan"], 
+           "cast": ["Dakota Fanning","Georgina Campbel"],
+           "trailer": "uXQZl4YoSVU",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ec79fcd9-446a-5694-9958-e47a75adf37a/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "044f3b0e2540b722dbf66ec8ee7aa410:6db819a84bb8b48bc38180c75a7c54b2"
+ }, 
  {
     "name": "TWINKLING WATERMELON",
     "info": {
