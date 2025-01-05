@@ -433,7 +433,7 @@
  }, 
   {        
   "name": "The Watchers", 
-  "category": "Horror",
+  "category": ["Horror","Suspen"],
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BN2I3MjIzYzMtNDkxNS00ZDIzLWEzZjktNDJlZDZlOGZlMTMxXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BN2I3MjIzYzMtNDkxNS00ZDIzLWEzZjktNDJlZDZlOGZlMTMxXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
@@ -441,13 +441,29 @@
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLSYZ_IVP_LAND_917x516_2024820_103818.jpg", 
            "director": ["Ishana Shyamalan"], 
            "cast": ["Dakota Fanning","Georgina Campbel"],
-           "genre": ["Horror","Suspen"], 
            "trailer": "uXQZl4YoSVU",
            "year": "2024"
            }, 
            "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ec79fcd9-446a-5694-9958-e47a75adf37a/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "044f3b0e2540b722dbf66ec8ee7aa410:6db819a84bb8b48bc38180c75a7c54b2"
+ }, 
+ {        
+  "name": "Twister", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://dai3fd1oh325y.cloudfront.net/images/720p/020498X0-portrait.jpg", 
+           "bg": "https://dai3fd1oh325y.cloudfront.net/images/720p/020498X0-portrait.jpg", 
+           "plot": "Ikuti sekumpulan saintis yang berdedikasi dan gila yang diketuai oleh Dr. Joanne dan Dr. William Harding. Mereka menangguhkan perceraian ketika mereka meneliti puting beliung. Modus operandi mereka adalah mudah, masuk ke dalam puting beliung itu.", 
+           "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/020498X0-landscape.jpg", 
+           "director": ["Jan De Bont"], 
+           "cast": ["Helen Hunt","Bill Paxton","Cary Elwes","Jami Gertz","Lois Smith","Alan Ruck"],
+           "trailer": "1ugqIHI5S4",
+           "year": "2024"
+           }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/66594b50d94052107401617f_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "26a4aa065a5e8b9e89f30462d2c73c10:beba31cd95acc146722d6241d3a2d33a"
  }, 
  {
     "name": "TWINKLING WATERMELON",
