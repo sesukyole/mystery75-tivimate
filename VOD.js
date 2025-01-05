@@ -433,7 +433,7 @@
  }, 
   {        
   "name": "The Watchers", 
-  "category": ["Horror","Suspen"],
+  "category": "Suspen",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BN2I3MjIzYzMtNDkxNS00ZDIzLWEzZjktNDJlZDZlOGZlMTMxXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BN2I3MjIzYzMtNDkxNS00ZDIzLWEzZjktNDJlZDZlOGZlMTMxXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
@@ -464,6 +464,23 @@
            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/66594b50d94052107401617f_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
            "drm": "clearkey", 
            "drmkey": "26a4aa065a5e8b9e89f30462d2c73c10:beba31cd95acc146722d6241d3a2d33a"
+ }, 
+ {        
+  "name": "The Cursed", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BY2Q5ODY3MGItOWM3Mi00YWYxLTkxNzItZjg2ZTMxNGE2NjFlXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BY2Q5ODY3MGItOWM3Mi00YWYxLTkxNzItZjg2ZTMxNGE2NjFlXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+           "plot": "Alice, after divorce, takes on motherhood and cares for her son August. His father's unfulfilled promises trigger August's death, causing his mysticism to spiral into retribution. Alice, believing in reason and right, must protect her son.", 
+           "backdrop": "https://s1.dmcdn.net/v/WnDIW1cgtTVgsDZYY/x1080", 
+           "director": ["Ekkachai Srivichai"], 
+           "cast": ["Siwat Chotchaicharin","Cee Siwat","Ekkachai Srivichai"],
+           "trailer": "mf6Ne2jBo",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0170f1d3-4f46-56e2-8b89-84030abf6018/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "cf625b09eaeb98dad939df9581262a10:40cc9997a8cc658ac6b262b2aab18cc4"
  }, 
  {
     "name": "TWINKLING WATERMELON",
