@@ -433,7 +433,7 @@
  }, 
   {        
   "name": "The Watchers", 
-  "category": "Horror","Suspen",
+  "category": "Horror",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BN2I3MjIzYzMtNDkxNS00ZDIzLWEzZjktNDJlZDZlOGZlMTMxXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BN2I3MjIzYzMtNDkxNS00ZDIzLWEzZjktNDJlZDZlOGZlMTMxXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
@@ -441,6 +441,7 @@
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLSYZ_IVP_LAND_917x516_2024820_103818.jpg", 
            "director": ["Ishana Shyamalan"], 
            "cast": ["Dakota Fanning","Georgina Campbel"],
+           "genre": ["Horror","Suspen"], 
            "trailer": "uXQZl4YoSVU",
            "year": "2024"
            }, 
