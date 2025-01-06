@@ -482,6 +482,40 @@
            "drm": "clearkey", 
            "drmkey": "cf625b09eaeb98dad939df9581262a10:40cc9997a8cc658ac6b262b2aab18cc4"
  }, 
+ {        
+  "name": "Split", 
+  "category": "Suspen",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNTZjNmVjMzAtZjg2Mi00MWNmLTk5NTItOTExZDYwNTE2YmExXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNTZjNmVjMzAtZjg2Mi00MWNmLTk5NTItOTExZDYwNTE2YmExXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Walaupun Kevin telah membuktikan 23 personaliti kepada pakar psikiatri yang dipercayainya, Doktor Fletcher, masih ada satu lagi yang masih terendam yang bersedia untuk wujud dan menguasai personaliti lain. Terpaksa menculik tiga gadis remaja yang diketuai Casey yang degil tetapi tajam daya pemerhatian, Kevin menjangkau ke perang untuk terus hidup diantara kesemua yang terkandung dalam dirinya dan juga semua orang di sekelilingnya apabila dinding-dinding antara ruang-ruangnya berkecai.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IBWAI_IVP_LAND_917x516_202427_121027.jpg", 
+           "director": ["M. Night Shyamalan"], 
+           "cast": ["James McAvoy","Anya Taylor-Joy"],
+           "trailer": "KIpGKumxiGg",
+           "year": "2016"
+           }, 
+           "video": "vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e90e97ea-bb3f-5d53-8d40-3d74d5204190/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "71a0a63cbc9432687794047e890ebd10:a568b63a44b4f939a8ce905f8a3b7420"
+ }, 
+ {        
+  "name": "Vacancy 2: The First Cut", 
+  "category": "Suspen",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNzE4ZmU2NzYtZWJlMy00ZDZjLWJlZTUtZDdmNDg2OGNiZGJiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNzE4ZmU2NzYtZWJlMy00ZDZjLWJlZTUtZDdmNDg2OGNiZGJiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Tiga orang muda mendaftar masuk ke Meadow View Inn untuk berehat semalaman, sama sekali tidak menyedari pekerja penginapan yang sakit fikiran dan niat jahat mereka.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNWKG_IVP_LAND_917x516_2024823_14029.jpg", 
+           "director": ["Eric Bross"], 
+           "cast": ["Agnes Bruckner","David Moscow"],
+           "trailer": "9DCyrUheIpM",
+           "year": "2008"
+           }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cf4a32cb-c7ce-50c4-84f2-b8a2e5f455ea/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "543f69922ba801227a2e56cc9ddbc310:b4805c676bf7bcde46bff8f9ee11c576"
+ }, 
  {
     "name": "TWINKLING WATERMELON",
     "info": {
