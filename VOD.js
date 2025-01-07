@@ -601,8 +601,26 @@
            "drm": "clearkey", 
            "drmkey": "51291793e54b7c9efb4cf1baf8b3c110:f358e2bc2d32e893740c7889c5cc67a9"
  }, 
+ {        
+  "name": "Carrie", 
+  "category": "Suspen",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BODg2MDU2MjYxNl5BMl5BanBnXkFtZTcwMDQ5MzU0OQ@@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BODg2MDU2MjYxNl5BMl5BanBnXkFtZTcwMDQ5MzU0OQ@@._V1_QL100_UX500_.jpg", 
+           "plot": "Seorang gadis pemalu, dibuang oleh rakan sebayanya dan dilindungi oleh ibunya yang beragama, melepaskan keganasan telekinetik di bandar kecilnya selepas ditolak terlalu jauh pada prom seniornya.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIXZR_IVP_LAND_917x516_7188C_2024101_24253.jpg", 
+           "director": ["Kimberly Peirce"], 
+           "cast": ["Chloë Grace Moretz","Julianne Moore"],
+           "trailer": "OLLsrZwJrBk",
+           "year": "2013"
+           }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c3a16fa9-d661-586b-ae91-99dda098bb0c/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "543923a5e469b0ae2d13fcd1afb39010:a771acc70a260f44e509d35da93a1cac"
+ }, 
  {
     "name": "TWINKLING WATERMELON",
+    "category": "Drama",
     "info": {
               "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
               "plot":"MUZIK DAN PENGEMBARAAN",
@@ -882,6 +900,7 @@
 },
 {
     "name": "ANDAI TIADA DIA",
+    "category": "Drama",
     "info": {
               "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg",
               "plot": "ADAPTASI DARI NOVEL",
@@ -1483,6 +1502,7 @@
  },
  {
     "name": "Dedaun Hijau Di Angin Lalu",
+    "category": "Drama",
     "info": {
               "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg",
               "plot": "ADAPTASI DARI NOVEL",
@@ -1556,19 +1576,115 @@
                     "info": {
                             "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
                             "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
-                            "plot": "",
+                            "plot": "Dahlan cuba untuk menendang pintu bilik air Intan tetapi dia terkejut apabila terdengar suara Kamariah. Roslan bengang Intan menolak lamarannya dan nekad akan dapatkan Intan walau apa cara sekali pun.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
                             "director": ["Jamal Khan"], 
                             "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d363c0be-3a6d-52c0-b380-8a9fcd85e811/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "ff022e1decdc397384b771a1b1798710:0d53fab525210f7ca56c2f5a0bf10258"
                  },
                {
                     "episode": 5,
                     "name": "EPISODE  5",
+                    "info": {
+                            "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "plot": "Intan memberitahu dia mendengar suara lelaki di luar bilik air. Dahlan cuba mencari siapa lelaki itu dan melihat bayang seorang lelaki melarikan diri dari situ. Mazlan pelik dengan kelakuan Marina.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
+                            "director": ["Jamal Khan"], 
+                            "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/badc5b2d-8b5d-5c98-b8cf-edfe2347ac7e/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "21e0420451cd56afc4379052d73d3010:d70dedfc00e4732030259da249f5e35f"
+                 }, 
+               {
+                    "episode": 6,
+                    "name": "EPISODE  6",
+                    "info": {
+                            "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "plot": "Assad dilanggar oleh Intan yang menangis ketakutan hingga kedua-dua mereka terjatuh. Intan panik dan sangkakan Assad adalah penjahat itu. Assad yakinkan Intan dia tidak akan cederakan Intan.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
+                            "director": ["Jamal Khan"], 
+                            "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2f63eee3-d59b-52c6-b07c-5d20cb9b6dcd/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "811ece0f71dc9e61d012bc432d8d8710:1bbbc3adc74dff0d6817fa25a364d021"
+                 }, 
+               {
+                    "episode": 7,
+                    "name": "EPISODE  7",
+                    "info": {
+                            "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "plot": "Intan bangun tidur dalam keadaan sakit badan. Melihatkan Assad di sebelahnya, Intan risauk masa depannya. Assad pula bangun dengan hati yang masih sakit terhadap Intan yang dianggap murahan.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
+                            "director": ["Jamal Khan"], 
+                            "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3cdc5625-df1e-5d75-a000-c069ae44feac/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "ce473affd3d734b67d51584ee068d310:4b8c3b850918652e697b255dbfd2cadf"
+                 }, 
+               {
+                    "episode": 8,
+                    "name": "EPISODE  8",
+                    "info": {
+                            "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "plot": "Mazlan menasihati Assad supaya tidak kasar dengan Intan tetapi Assad memberi amaran kepada Mazlan untuk tidak berpihak kepada Intan. Assad mempertahankan Intan didepan Kamariah dan Rubiah.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
+                            "director": ["Jamal Khan"], 
+                            "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c14b18fb-f8bd-547e-a9dc-ddcac977bd4a/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "b57a39c9b44a6a3939956e222e583f10:e4d39757e97c13420280f27d0d95688f"
+                 }, 
+               {
+                    "episode": 9,
+                    "name": "EPISODE  9",
+                    "info": {
+                            "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "plot": "Assad bagai terpukau dengan Intan yang wajahnya berseri tetapi egonya melebihi segalanya. Effendi senang hati melihat Ismadi sepertinya menyukai Intan walaupun Intan baru sahaja 3 hari di rumah itu.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
+                            "director": ["Jamal Khan"], 
+                            "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a705e941-8b1b-5e06-9b94-aa49661e01a5/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "034bdc9cc129e46dbf932e6190f61410:aa84862139377a3c98f412a7103e7edd"
+                 }, 
+               {
+                    "episode": 10,
+                    "name": "EPISODE  10",
+                    "info": {
+                            "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
+                            "plot": "Marina cuba menggoda Assad tetapi dia bertukar jadi bengang apabila Assad memberi perhatian lebih kepada Intan. Marina juga memarahi Ismadi kerana memuji Intan lebih darinya.",
+                            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
+                            "director": ["Jamal Khan"], 
+                            "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
+                            "year": "2024"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/4c39f94a-155f-5846-b4c9-d58ae1400301/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "550bf3e04197324e1d64e48630e91210:9895dbccd3e2cc6ea5d96385df94e20f"
+                 }, 
+               {
+                    "episode": 11,
+                    "name": "EPISODE  11",
                     "info": {
                             "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
                             "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
@@ -1581,7 +1697,75 @@
                     "video": "", 
                     "drm": "clearkey", 
                     "drmkey": ""
-                 },    
+                 }, 
+            ]
+        }
+    ]
+ },
+ {
+    "name": "BoBoiBoy Galaxy",
+    "category": "Kids",
+    "info": {
+              "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+              "director": ["Nizam Razak"], 
+              "cast": ["Nurfathiah Diaz",'Nur Sarah Alisya Zainal Rashid","Yap Ee Jean"],
+              "year": "2016"
+             },
+    "seasons": [
+        {
+          "season": 1,
+          "name": "BoBoiBoy Galaxy",
+          "info": {
+                    "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                    "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                    "director": ["Nizam Razak"], 
+                    "cast": ["Nurfathiah Diaz",'Nur Sarah Alisya Zainal Rashid","Yap Ee Jean"],
+                    "year": "2016"
+                    },
+           "episodes": [       
+                {
+                    "episode": 1,
+                    "name": "BoBoiBoy Kembali!",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "BoBoiBoy and Gopal help Cici Ko fight off Space Pirates who are trying to capture a Power Sphera named Motobot.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz",'Nur Sarah Alisya Zainal Rashid","Yap Ee Jean"],
+                            "year": "2016"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 }, 
+         {
+          "season": 2,
+          "name": "BoBoiBoy Galaxy SORI",
+          "info": {
+                    "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                    "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                    "director": ["Nizam Razak"], 
+                    "cast": ["Nurfathiah Diaz",'Nur Sarah Alisya Zainal Rashid","Yap Ee Jean"],
+                    "year": "2023"
+                    },
+           "episodes": [       
+                {
+                    "episode": 1,
+                    "name": "Kembali Beraksi!",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "Selepas kehancuran Stesen TAPOPS, BoBoiBoy dan rakan-rakan pulang ke Bumi tetapi seorang musuh lama muncul kembali.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz",'Nur Sarah Alisya Zainal Rashid","Yap Ee Jean"],
+                            "year": "2023"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },                             
             ]
         }
     ]
