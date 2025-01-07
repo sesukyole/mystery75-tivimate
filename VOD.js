@@ -1738,7 +1738,11 @@
                     "video": "", 
                     "drm": "clearkey", 
                     "drmkey": ""
-                 }, 
+                  },                             
+            ]
+        }
+    ]
+ }, 
          {
           "season": 2,
           "name": "BoBoiBoy Galaxy SORI",
