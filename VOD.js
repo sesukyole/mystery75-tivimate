@@ -516,6 +516,74 @@
            "drm": "clearkey", 
            "drmkey": "543f69922ba801227a2e56cc9ddbc310:b4805c676bf7bcde46bff8f9ee11c576"
  }, 
+ {        
+  "name": "Paku Tanah Jawa", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZDY5OTAxYzYtNDI1Yi00Nzc2LWIzM2ItMGEyMTdlYjU2ZjVhXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZDY5OTAxYzYtNDI1Yi00Nzc2LWIzM2ItMGEyMTdlYjU2ZjVhXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Ningrum, seorang gadis yang harus menghadapi pandangan negatif dari warga sekitar karena ibunya, Handini, melakukan pesugihan. Handini adalah seorang sinden dan primadona desa yang melakukan perjanjian gaib dengan Kanjeng Semanu, pemimpin sekte sesat, untuk kesuksesan sanggarnya. Handini menumbalkan banyak pria yang terpikat padanya, termasuk Pak Kusno, yang kemudian ditemukan tewas tidak wajar.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMzY3MDkyYWMtM2VkZC00MGU0LTg4ZjgtMTAzNjk2NjgzYWRhXkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+           "director": ["Dato Kk Chua","Bambang Drias""], 
+           "cast": ["Masayu Anastasia","Wafda Saifan Lubis","Gisellma Firmansyah"],
+           "trailer": "VOt7xvjPv0Q",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8e9b15c9-6e5d-531a-8602-3e6088df7cdb/default_primary.mpd ", 
+           "drm": "clearkey", 
+           "drmkey": "a2e36e866278297dc4fd6b44c9136810:1c9141ee3d020633af07bd8c2ec03f2a"
+ }, 
+  {        
+  "name": "Tarot", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNjY3NTkxMjQtZWNjNy00NGU2LTlhOTMtMmRhZGEwNzRmMDcyXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNjY3NTkxMjQtZWNjNy00NGU2LTlhOTMtMmRhZGEwNzRmMDcyXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Sekumpulan budak nakal melanggar peraturan keramat tilikan kad Tarot iaitu jangan sekali-kali menggunakan set kad Tarot orang lain. Akibatnya, tanpa pengetahuan mereka, syaitan yang amat jahat telah dibebaskan daripada kad yang disumpah. Seorang demi seorang berdepan dengan takdir dan akhirnya lari daripada berdepan kematian dan melepaskan diri dari masa depan yang telah diramalkan oleh tilikan Tarot untuk mereka.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNCYX_IVP_LAND_917x516_2024722_62222.jpg", 
+           "director": ["Spenser Cohen","Anna Halberg""], 
+           "cast": ["Harriet Slater","Adain Bradley","Jacob Batalon"],
+           "trailer": "bvDArsKoTOE",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9a5679e9-ace8-590a-8843-ba12019799e7/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "f3f78db63d6294b5f1bf198080f3a710:784e95f7d2db0386bc6faafbaf294dff"
+ }, 
+ {        
+  "name": "Abigail", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNmUxMDRiNjQtYjE0NS00OWZkLTlhZjktYjQ1MmNjNDlhNDdkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNmUxMDRiNjQtYjE0NS00OWZkLTlhZjktYjQ1MmNjNDlhNDdkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Sekumpulan budak nakal melanggar peraturan keramat tilikan kad Tarot iaitu jangan sekali-kali menggunakan set kad Tarot orang lain. Akibatnya, tanpa pengetahuan mereka, syaitan yang amat jahat telah dibebaskan daripada kad yang disumpah. Seorang demi seorang berdepan dengan takdir dan akhirnya lari daripada berdepan kematian dan melepaskan diri dari masa depan yang telah diramalkan oleh tilikan Tarot untuk mereka.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMTHW_IVP_LAND_917x516_202473_201956.jpg", 
+           "director": ["Matt Bettinelli-Olpin","Tyler Gillett"], 
+           "cast": ["Melissa Barrera","Dan Stevens","Alisha Weir"],
+           "trailer": "3PsP8MFH8p0",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e71ae9d0-1e34-5d2f-b734-73f31e0f58b5/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "65a10660ac4b6e1cfc85112af6358b10:041fa0c7cf85cbad9cc3a3284680346f"
+ }, 
+ {        
+  "name": "Teasing Master Takagi San", 
+  "category": "Comedy",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNTdjZWE0ODItMDA4NC00ZDhhLWEyMTAtNDg0NWE5ZDM4MTJkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNTdjZWE0ODItMDA4NC00ZDhhLWEyMTAtNDg0NWE5ZDM4MTJkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Sekumpulan budak nakal melanggar peraturan keramat tilikan kad Tarot iaitu jangan sekali-kali menggunakan set kad Tarot orang lain. Akibatnya, tanpa pengetahuan mereka, syaitan yang amat jahat telah dibebaskan daripada kad yang disumpah. Seorang demi seorang berdepan dengan takdir dan akhirnya lari daripada berdepan kematian dan melepaskan diri dari masa depan yang telah diramalkan oleh tilikan Tarot untuk mereka.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPVAI_IVP_LAND_917x516_7F5BF_20241120_191456.jpg", 
+           "director": ["Hiroaki Akagi"], 
+           "cast": ["Rie Takahashi","Yuki Kaji","Konomi Kohara"],
+           "trailer": "WCEnkmQyh9k",
+           "year": "2022"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9cd02f16-f4f0-5c55-8bb2-1b9eb9789305/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "5565c3084a4370d4f6d4bb25c0d3eb10:bf8717a617d32735a99e1d94ec853f68"
+ }, 
  {
     "name": "TWINKLING WATERMELON",
     "info": {
