@@ -524,7 +524,7 @@
            "bg": "https://m.media-amazon.com/images/M/MV5BZDY5OTAxYzYtNDI1Yi00Nzc2LWIzM2ItMGEyMTdlYjU2ZjVhXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Ningrum, seorang gadis yang harus menghadapi pandangan negatif dari warga sekitar karena ibunya, Handini, melakukan pesugihan. Handini adalah seorang sinden dan primadona desa yang melakukan perjanjian gaib dengan Kanjeng Semanu, pemimpin sekte sesat, untuk kesuksesan sanggarnya. Handini menumbalkan banyak pria yang terpikat padanya, termasuk Pak Kusno, yang kemudian ditemukan tewas tidak wajar.", 
            "backdrop": "https://m.media-amazon.com/images/M/MV5BMzY3MDkyYWMtM2VkZC00MGU0LTg4ZjgtMTAzNjk2NjgzYWRhXkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
-           "director": ["Dato Kk Chua","Bambang Drias""], 
+           "director": ["Dato Kk Chua","Bambang Drias"], 
            "cast": ["Masayu Anastasia","Wafda Saifan Lubis","Gisellma Firmansyah"],
            "trailer": "VOt7xvjPv0Q",
            "year": "2024"
@@ -541,7 +541,7 @@
            "bg": "https://m.media-amazon.com/images/M/MV5BNjY3NTkxMjQtZWNjNy00NGU2LTlhOTMtMmRhZGEwNzRmMDcyXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Sekumpulan budak nakal melanggar peraturan keramat tilikan kad Tarot iaitu jangan sekali-kali menggunakan set kad Tarot orang lain. Akibatnya, tanpa pengetahuan mereka, syaitan yang amat jahat telah dibebaskan daripada kad yang disumpah. Seorang demi seorang berdepan dengan takdir dan akhirnya lari daripada berdepan kematian dan melepaskan diri dari masa depan yang telah diramalkan oleh tilikan Tarot untuk mereka.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNCYX_IVP_LAND_917x516_2024722_62222.jpg", 
-           "director": ["Spenser Cohen","Anna Halberg""], 
+           "director": ["Spenser Cohen","Anna Halberg"], 
            "cast": ["Harriet Slater","Adain Bradley","Jacob Batalon"],
            "trailer": "bvDArsKoTOE",
            "year": "2024"
@@ -583,6 +583,23 @@
            "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9cd02f16-f4f0-5c55-8bb2-1b9eb9789305/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "5565c3084a4370d4f6d4bb25c0d3eb10:bf8717a617d32735a99e1d94ec853f68"
+ }, 
+ {        
+  "name": "Thanksgiving", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYzhiZTkyM2UtNjU2MC00MjcxLWJhZGYtODQ0MDViN2UxMzAwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYzhiZTkyM2UtNjU2MC00MjcxLWJhZGYtODQ0MDViN2UxMzAwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Selepas kekacauan 'Black Friday' berakhir dengan tragedi, pembunuh misteri Upacara Kesyukuran menimbulkan rasa gentar kepada Plymouth, Massachusetts, tempat lahirnya percutian terkenal. Menculik satu demi satu penduduknya, bermulalah pembunuhan dendam yang kemudiannya menjadi rancangan yang lebih besar iaitu percutian yang menakutkan.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKTYG_IVP_LAND_917x516_202427_12023.jpg", 
+           "director": ["Eli Roth"], 
+           "cast": ["Patrick Dempsey","Gina Gershon"],
+           "trailer": "OHWiTwH53lU",
+           "year": "2023"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e3ea91fd-e682-55e1-b01a-68f74dadab20/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "51291793e54b7c9efb4cf1baf8b3c110:f358e2bc2d32e893740c7889c5cc67a9"
  }, 
  {
     "name": "TWINKLING WATERMELON",
