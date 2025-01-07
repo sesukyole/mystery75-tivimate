@@ -2121,8 +2121,8 @@
                    "drmkey": "6297d51f8ccd34f08ac1b7f3a5d6e610:bc89470f30559bb5b59ee36ff266492e"
                  },                        
             ]
-        }
-     {
+        },
+       {
          "season": 3,
          "name": "BoBoiBoy Galaxy Windara",
          "info": {
