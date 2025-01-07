@@ -1740,35 +1740,34 @@
                     "drmkey": ""
                   },                             
             ]
-        }
-    ]
- }, 
-         {
-          "season": 2,
-          "name": "BoBoiBoy Galaxy SORI",
-          "info": {
-                    "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
-                    "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
-                    "director": ["Nizam Razak"], 
-                    "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean"],
-                    "year": "2023"
+        },
+   "seasons": [
+       {
+         "season": 2,
+         "name": "BoBoiBoy Galaxy SORI",
+         "info": {
+                   "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                   "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                   "director": ["Nizam Razak"], 
+                   "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean"],
+                   "year": "2023"
                     },
-           "episodes": [       
-                {
-                    "episode": 1,
-                    "name": "Kembali Beraksi!",
-                    "info": {
-                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "Selepas kehancuran Stesen TAPOPS, BoBoiBoy dan rakan-rakan pulang ke Bumi tetapi seorang musuh lama muncul kembali.",
-                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
-                            "director": ["Nizam Razak"], 
-                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean"],
-                            "year": "2023"
-                           },
-                    "video": "", 
-                    "drm": "clearkey", 
-                    "drmkey": ""
+          "episodes": [       
+               {
+                   "episode": 1,
+                   "name": "Kembali Beraksi!",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Selepas kehancuran Stesen TAPOPS, BoBoiBoy dan rakan-rakan pulang ke Bumi tetapi seorang musuh lama muncul kembali.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL75_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean"],
+                           "year": "2023"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
                  },                             
             ]
         }
