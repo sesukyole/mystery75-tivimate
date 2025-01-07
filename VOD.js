@@ -1703,7 +1703,7 @@
     ]
  },
  {
-    "name": "BoBoiBoy Galaxy",
+    
     "category": "Kids",
     "info": {
               "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
