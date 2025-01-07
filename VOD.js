@@ -618,7 +618,215 @@
            "drm": "clearkey", 
            "drmkey": "543923a5e469b0ae2d13fcd1afb39010:a771acc70a260f44e509d35da93a1cac"
  }, 
- {
+{        
+  "name": "BoBoiBoy Movie", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "plot": "BoBoiBoy dan rakannya berhadapan dengan pemburu harta makhluk asing yang tamak sewaktu mereka bersaing menemukan objek purba yang berkuasa di sebuah pulau misteri.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBMAG_series_IVP_LAND_917x516_6A6D8_2024321_172815.jpg", 
+           "director": ["Nizam Abdul Razak"], 
+           "cast": [" Nur Sarah Alisya,  Anas Abdul Aziz,  Kevin Adrian Barnaby"],
+           "year": "2018"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f00c164d-d7af-514a-9461-a76514e787c3/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "33f7fe50a6502992272d20748381b710:e1dd9fae5ef5b09323e99449dba08a01"
+ },  
+ {        
+  "name": "BoBoiBoy Movie 2", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_FMjpg_UX700_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_FMjpg_UX700_CR0,1,600,900_.jpg", 
+           "plot": "BoBoiBoy dan rakan-rakannya menjadi sasaran penjahat kuno, Retak'ka yang inginkan kuasa semulajadinya dikembalikan semula agar dia boleh menjadi orang yang paling berkuasa di galaksi. BoBoiBoy dan gengnya harus mencari jalan untuk menewaskan Retak'ka dan menghalangnya dari merampas kuasa BoBoiBoy.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IWMJC_IVP_LAND_917x516_6A6D9_2024321_17291.jpg", 
+           "director": ["Nizam Abdul Razak"], 
+           "cast": ["Nur Fathiah Diaz,  Fadzli Mohd Rawi,  Dzubir Mohammed Zakaria"],
+           "year": "2019"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e6ee43c8-212a-598d-88d9-f140f61f5a04/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "8f35c8959930b6df896b6b76a54d6b10:bfcdfc1adeb3b8c7d3723d08c9740701"
+ }, 
+ {        
+  "name": "Hotel Transylvania ", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "plot": "Selamat datang ke Hotel Transylvania, pusat peranginan mewah Dracula, di mana raksasa-raksasa dan keluarga mereka boleh berseronok dan tiada manusia dibenarkan. Suatu hujung minggu istimewa, Dracula telah mengajak semua teman baiknya untuk meraikan hari jadi ke-118 anak gadis kesayangan Mavis. Bagi Dracula untuk melayan semua raksasa legenda ini bukan satu masalah tetapi parti itu betul-betul bermula apabila seorang lelaki biasa terserempak dengan hotel itu dan merubah segalanya!", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HNNYK_IVP_LAND_917x516_25A24_2024321_17951.jpg", 
+           "director": ["Genndy Tartakovsky"], 
+           "cast": ["Adam Sandler,Andy Samberg,Kevin James"],
+           "year": "2012"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c1ca15f5-c39c-5d37-b029-c88a4e84e6ae/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "c74bc7c0b67e483d4021950d54977510:fb68f0e6e592b07b474ad8e77949d38d"
+ }, 
+ {        
+  "name": "Hotel Transylvania 2 ", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "plot": "Hotel Transylvania kini terbuka kepada penginap-penginap manusia. Mavis dan Johnny mempunyai seorang anak lelaki bernama Dennis, yang kekurangan kebolehan pontianaknya membuat datuknya, Dracula, risau. Apabila Mavis dan Johnny pergi melawat ibubapa Johnny, Dracula memanggil kawan-kawannya untuk membantunya membuat Dennis jadi pontianak. Tetapi, satu lawatan yang tidak dijangka dari ayah Dracula yang konservatif dan membenci manusia iaitu Vlad, membuat keadaan menjadi tonggang-terbalik.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HMOHK_IVP_LAND_917x516_7D81D_2024101_11831.jpg", 
+           "director": ["Genndy Tartakovsky"], 
+           "cast": ["Adam Sandler,Andy Samberg"],
+           "year": "2015"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6d4adbf1-599f-564e-8f25-8fa79ad27939/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "20b0d86cf82587e42d1b11f1c5c15a10:bc1be7e9457b86cf2015cae747b3ba64"
+ },  
+ {        
+  "name": "Hotel Transylvania 3 ", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "plot": "Pelayaran begitu lancar buat kawanan Dracula apabila kapal mewah raksasa menawarkan keseronokan dari bola tampar ke lawatan eksotik, dan bertemu sambil berjemur di bawah bulan. Namun, percutian impian bertukar menjadi mimpi ngeri apabila Mavis sedar Dracula telah jatuh hati dengan kapten kapal yang misteri, Ericka yang menyembunyikan rahsia berbahaya yang mungkin membinasakan semua raksasa.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IPBJU_100anniversary_IVP_LAND_917x516_2024819_12255.jpg", 
+           "director": ["Genndy Tartakovsky"], 
+           "cast": ["Adam Sandler,Andy Samberg,Selena Gomez"],
+           "year": "2018"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8a8249b5-1045-5b07-b6a9-1a7da49b5bdb/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "8487d2e3654c546a057de86113466210:eb9feffab2c8d324fbda3b29a2b44ebf"
+ },  
+ {        
+  "name": "How to Train Your Dragon", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "plot": "Hiccup, seorang remaja Viking yang tidak begitu sesuai berada di dalam puaknya yang secara tradisi, menjadi wira yang membunuh naga. Dunia Hiccup mulai kucar-kacir apabila dia menemui seekor naga yang mencabar dirinya dan Viking yang lain untuk melihat dunia ini melalui perspektif yang berbeza.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000151X864471_IVP_LAND_917x516.jpg", 
+           "director": ["Dean DeBlois,Chris Sanders"], 
+           "cast": ["Jay Baruchel,Gerard Butler"],
+           "year": "2010"
+            }, 
+           "video": "", 
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
+ {        
+  "name": "How to Train Your Dragon 2", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "plot": "Lima tahun berlalu semenjak Hiccup dan Tootless menemukan naga-naga dengan Vikings Berk. Kini, mereka menghabiskan masa melakar kawasan di pulau itu. Ketika salah satu pengembaraan, kedua mereka menemui sebuah gua yang dihuni beratus-ratus naga liar dan 'Dragon Rider' misteri yang merupakan Valka, ibu Hiccup yang telah lama hilang. Hiccup dan Toothless kemudian mendapati diri mereka berdepan dengan pertarungan untuk melindungi Berk daripada perwira yang gilakan kuasa iaitu Drago.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HSJGT_IVP_LAND_917x516_13E91_2024524_104436.jpg", 
+           "director": ["Dean DeBlois"], 
+           "cast": ["Jay Baruchel,Cate Blanchett"],
+           "year": "2014"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e17ea0ea-f888-5824-9a19-41d1c2175fcc/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "020120bb1380f44b4e90b1f65d85ff10:fcabb2da2966c8086aa6b16aad5539ca"
+ }, 
+ {        
+  "name": "How to Train Your Dragon 3: The Hidden World", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "plot": "Kini ketua dan pemerintah Berk bersama Astrid, Hiccup menghasilkan utopia naga penuh huru-hara. Apabila Light Fury betina tiba-tiba muncul serentak dengan ancaman paling buruk di kampung mereka, Hiccup dan Toothless terpaksa meninggalkan rumah dan mengembara ke dunia tersembunyi yang mereka rasa hanya wujud dalam mitos semata. Ketika takdir sebenar mereka diperlihatkan, naga dan penunggang berjuang bersama-sama hingga ke hujung Bumi untuk melindungi apa jua yang mereka usahakan untuk dihargai.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVJIB_IVP_LAND_917x516_202431_102038.jpg", 
+           "director": ["Dean DeBlois"], 
+           "cast": ["Jay Baruchel,America Ferrera,F. Murray Abraham"],
+           "year": "2019"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/730a46c4-bfe1-5981-b53d-ebd60b24f567/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "6b7145b6c2ffa9585b8cfa2342670c10:c31162735079b18ff704c3281bef2004"
+ }, 
+ {        
+  "name": "Wheely", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BOTMwNWU3ODAtMGYwYi00MDM5LWJmYTktZTE3ODIxOThlNjI3XkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BOTMwNWU3ODAtMGYwYi00MDM5LWJmYTktZTE3ODIxOThlNjI3XkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
+           "plot": "Di dalam dunia yang penghuninya ialah kereta, Wheely, sebuah teksi yang sering ditindas bercita-cita ingin menjadi juara di Gasket City.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMTVkNDQzMTAtZDk3Ni00N2VmLTlkNzQtZWJmNjc0Y2Q4Nzg4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_UX1920_CR0,1,1920,1080_.jpg", 
+           "director": ["Carl Mendez,Yusry Abd Halim"], 
+           "cast": ["Ogie Banks","Zizan Razak","Gavin Yap","Johan Raja Lawak"],
+           "year": "2019"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ef8797a1-b03b-5e91-b313-2d33d1f0fdc1/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "13fcd1ffc293d6cf47b73d97388f5a10:41f21bad546bc67f6380eb4554b9c4c5"
+ },  
+ {        
+  "name": "Ultraman Ginga S", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMWU1MWQ0ZGUtOTk2OS00ODhmLWE4NWYtYjIxNDJlNjIxODc3XkEyXkFqcGc@._V1_QL100_UX650_CR18,0,600,900_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMWU1MWQ0ZGUtOTk2OS00ODhmLWE4NWYtYjIxNDJlNjIxODc3XkEyXkFqcGc@._V1_QL100_UX650_CR18,0,600,900_.jpg", 
+           "plot": "Etelgar mengutuk fikiran Arina dan menggunakan kuasanya untuk mengelak 7 Ultraman kemudian Haruno Musashi bersama Ultraman Zero mencari ibu pejabat UPG dan membantu Ultraman Ginga dan Victory membebaskan Ultraman lain dan mengalahkan Etelgar.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BZmJkNjA3NGItYzNiZC00ODRiLWIxNTEtODg0YTM5ZTUxOTkxXkEyXkFqcGc@._V1_QL100_UX1920_.jpg", 
+           "director": ["Kôichi Sakamoto","William Winckler"], 
+           "cast": ["Takuya Negishi","Kiyotaka Uji","Yukari Taki"],
+           "year": "2015"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/338c7334-6fb5-5fd1-8aac-b56315e2ef85/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "24f3139016d9bb78585811a2a191bd10:6ee6d40bfa8f1fc43fa717774c60d4e8"
+ },  
+ {        
+  "name": "Ultraman Trigger: Episode Z", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNjg4YWY1ZjYtNDExZC00MmZhLThhZTQtNWUyYjZkZDgyYmU4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNjg4YWY1ZjYtNDExZC00MmZhLThhZTQtNWUyYjZkZDgyYmU4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "plot": "Dua tahun telah berlalu sejak pertempuran terakhir dan keamanan telah dipulihkan di seluruh dunia. Walau bagaimanapun, keadaan tidak senyap lama apabila raksasa sekali lagi mula muncul di Bumi. Pada masa yang sama, satu siri pencerobohan misteri berlaku di runtuhan purba di seluruh dunia. Pasukan pakar GUTS-Select, diketuai oleh kapten baharu, menyediakan skuad untuk melancarkan siasatan.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDONB_IVP_LAND_917x516_64663_2024313_182131.jpg", 
+           "director": ["Masayoshi Takesue"], 
+           "cast": ["Raiga Terasaka","Runa Toyoda","Shunya Kaneko"],
+           "year": "2022"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c5d85333-55d6-5711-a519-d44b885333be/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "86ccb3e9c93ef145167f18ce7dd4db10:62db8d47f5a6ce6b46a9b07175f519b6"
+ },  
+ {        
+  "name": "Ultraman Decker Finale: Journey To Beyond", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYTA1Yjk5M2YtM2VjYi00ZWFmLTg3ZWEtYWQ0MGIwNDY1MWY0XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYTA1Yjk5M2YtM2VjYi00ZWFmLTg3ZWEtYWQ0MGIwNDY1MWY0XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "plot": "Bunyi aneh bergema di langit. Mereka yang mendengarnya pengsan, dan akhirnya lenyap. Pasukan pakar GUTS-Pilih menyiasat tetapi menghadapi serangan daripada tentera asing.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRE_IVP_LAND_917x516_6D616_2024313_18540.jpg", 
+           "director": ["Masayoshi Takesue"], 
+           "cast": ["Hiroki Matsumoto","Yûka Murayama","Nobunaga Daichi"],
+           "year": "2023"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8f42070f-9bca-5c38-aa04-ff7c5809cc8c/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "f8cfe1007321afad7c61fc29420ff210:86576d697e67d1419a83d8c756407680"
+ },  
+  {        
+  "name": "Ultra Galaxy Fight: The Destined Crossroad", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNDE0MDhmYjgtZTVhNS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNDE0MDhmYjgtZTVhNS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "plot": "Pasukan pakar GUTS-Select menyiasat tetapi menghadapi serangan daripada tentera asing dan kubu mudah alih yang gelap gulita, Zorgaus, yang dipandu oleh Profesor Gibellus yang berusaha untuk memerintah langit Bumi..", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRF_IVP_LAND_917x516_6D617_2024313_18544.jpg", 
+           "director": ["Kôichi Sakamoto"], 
+           "cast": ["Jun'ichi Suwabe","Zhen Zhao","Tatsuomi Hamada"],
+           "year": "2022"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2a9fbff6-f57f-5e71-9bd5-aaec00498965/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "770db37c02b84aebb11af8b1f6e95d10:0fb67b33e04aa79bc4f862ae26774c08"
+ },
+  {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
     "info": {
@@ -1732,24 +1940,87 @@
                             "plot": "BoBoiBoy and Gopal help Cici Ko fight off Space Pirates who are trying to capture a Power Sphera named Motobot.",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
-                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean"],
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
                             "year": "2016"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f7f94c80-b265-50c0-929c-a10a25ba09fe/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
-                  },                             
+                    "drmkey": "8d1bdd3f1ba1953a94517f92619d2e10:7a44c36b1a9232f66b0ae0648416cf15"
+                  }, 
+               {
+                    "episode": 2,
+                    "name": "MotoBot!",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "BoBoiBoy must chase and defeat his arch nemeses, Adu Du and Probe, who have kidnapped MotoBot and brought him to a Space R&R.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7701d24c-72ee-5351-8998-1fca790bd71f/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "b5b065169a9eea68cee6a4ccddb2c210:c79ceb644844b16b2b708b43d30bd74e"
+                  },    
+              {
+                    "episode": 3,
+                    "name": "Raksasa Gurunda",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "Stuck on a Desert Planet, BoBoiBoy and Gopal are chased by a creature after mistaking its egg for a Power Sphera.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1babd8e1-0138-5847-b730-d942a542b056/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "7b8b5da7e5feb548e75670bf1bf6c910:8a3b311f1daaeef4ade25065f14474f7"
+                  },      
+               {
+                    "episode": 4,
+                    "name": "Gergasi Cattus",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "The group is fighting against Adu Du and Probe who are also searching for Power Spheras when they encounter Cattus, a cat-like alien creature with an unexpected ability.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/12abe41d-ab01-5de6-b5d5-76393513b489/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "9bfd1ff70559bcd1eced26b55c211010:6110fbc2532b59cde4a191622607d247"
+                  },  
+               {
+                    "episode": 5,
+                    "name": "",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "While the kids are on break, the Space Pirates manage to track down Ochobot and MotoBot to earth and unleash a full-scale attack.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a1a2e76a-271e-51b6-a6ec-02032831d2cd/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "1d8f7d93db0421d093def2d5b3dcd210:c059a1303b4222fcb24d8ab2cd202e9a"
+                  },                          
             ]
         },
-   
        {
          "season": 2,
-         "name": "BoBoiBoy Galaxy",
+         "name": "BoBoiBoy Galaxy Sori",
          "info": {
                    "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg",
                    "backdrop": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
                    "director": ["Nizam Razak"], 
-                   "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean"],
+                   "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
                    "year": "2023"
                     },
           "episodes": [       
@@ -1760,226 +2031,142 @@
                            "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
                            "plot": "Selepas kehancuran Stesen TAPOPS, BoBoiBoy dan rakan-rakan pulang ke Bumi tetapi seorang musuh lama muncul kembali.",
-                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BMDE5MGI2MTYtNGFkOS00ODBiLWE1M2QtZGJmYjg5Mzc3MmRlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
-                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean"],
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
                            "year": "2023"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/db51d0b1-5917-587f-9635-e4aa38754dee/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
-                 },                             
+                   "drmkey": "e1b214ca2fc691d852cb4fe8f9a09210:d6b1d715831e982aa632f13756025e41"
+                 },  
+              {
+                   "episode": 2,
+                   "name": "Rahsia King Balakung",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+                           "plot": "BoBoiBoy dan rakan-rakan ke planet Rimbara untuk membongkar rahsia King Balakung dan mendapatkan kuasa Elemental Balak.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BMDE5MGI2MTYtNGFkOS00ODBiLWE1M2QtZGJmYjg5Mzc3MmRlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2023"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/05a31b39-02d5-5522-8ae4-d4af9589630c/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "74d7172acbb198efa958f5c74aefe110:92be97c5c20e1a8ca39c9f4773e777f7"
+                 },  
+              {
+                   "episode": 3,
+                   "name": "Resipi Warisan Terulung!",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+                           "plot": "BoBoiBoy kembali pada Tuan Guru Gaharum dengan tangan kosong tetapi diberi satu lagi peluang untuk membuktikan dirinya.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BMDE5MGI2MTYtNGFkOS00ODBiLWE1M2QtZGJmYjg5Mzc3MmRlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2023"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/54df9bbb-f212-5f3b-b933-6b707e889292/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "f80555db25a39d0bd5368b4124f81210:31e3846a007251f7cd6f0d9b2786c619"
+                 },      
+              {
+                   "episode": 4,
+                   "name": "Belantara Penuh Bahaya!",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+                           "plot": "Rancangan BoBoiBoy untuk mempelajari Kuasa Elemental Tahap Ketiga berjaya dihidu oleh musuh yang licik, yang mengikutinya ke Planet Kadruax.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BMDE5MGI2MTYtNGFkOS00ODBiLWE1M2QtZGJmYjg5Mzc3MmRlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2023"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0630b0fa-acec-5bf8-a5bf-dd4aa3a4f781/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "e6fedef4570ed88e76b9e29306e08010:27628f0e0f69cee51124b15bbb8b2e7c"
+                 },  
+              {
+                   "episode": 5,
+                   "name": "Puak Purba Kadruax!",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+                           "plot": "BoBoiBoy dan rakan-rakan terselamat daripada gerombolan Tumbosaur di Planet Kadruax, tetapi ada kejutan lain yang menanti.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BMDE5MGI2MTYtNGFkOS00ODBiLWE1M2QtZGJmYjg5Mzc3MmRlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2023"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/50a85a6f-ca14-5c5e-9947-3ba2599df411/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "09b259123a6693fa05140a754c900c10:b7fa144293d8018e8b7a6fddf56bdfd1"
+                 },        
+              {
+                   "episode": 6,
+                   "name": "Paduan Dua Kuasa",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+                           "plot": "BoBoiBoy dan rakan-rakan telah tiba di Piramid Baja dan perlu mendapatkan PasuBot sebelum ia jatuh ke tangan Adu Du dan Probe.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BMDE5MGI2MTYtNGFkOS00ODBiLWE1M2QtZGJmYjg5Mzc3MmRlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2023"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/81571064-b827-5936-9c6a-f32f1dc7b0d8/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "6297d51f8ccd34f08ac1b7f3a5d6e610:bc89470f30559bb5b59ee36ff266492e"
+                 },                        
+            ]
+        }
+     {
+         "season": 3,
+         "name": "BoBoiBoy Galaxy Windara",
+         "info": {
+                   "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                   "backdrop": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                   "director": ["Nizam Razak"], 
+                   "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                   "year": "2024"
+                    },
+          "episodes": [       
+               {
+                   "episode": 1,
+                   "name": "Pelawat Misteri",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Gopal diculik oleh seorang musuh misteri. Apa matlamat sebenar si penculik misteri itu? Mampukah BoBoiBoy menewaskannya, dan menyelamatkan Gopal?",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNmUxZWI3YzUtMGZhZC00NDllLTljYWUtNDkwNDE5ZDlmYTI5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2024"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bda993ab-6b13-5285-8168-523e7d8a41f7/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "31f9eca98c367a170124f39106bd5110:3e7487538aa124f308202e8a5e94b4a2"
+                 }, 
+              {
+                   "episode": 2,
+                   "name": "Pergolakan Di Windara",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "BoBoiBoy dan rakan-rakan menerima jemputan daripada Kuputeri dan Maripos untuk melihat sendiri keadaan di Planet Windara yang kini diperintah oleh seorang penjahat bernama Reramos.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNmUxZWI3YzUtMGZhZC00NDllLTljYWUtNDkwNDE5ZDlmYTI5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2024"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bafcb74e-56c9-5780-b7c5-b5baf61ace45/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "0c25d143566e7cfa32eeeca62fec9810:6692692475fc1d1e5880e42204d2b566"
+                 },
             ]
         }
     ]
- },
- {        
-  "name": "BoBoiBoy Movie", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BNmVlMDY3ZWItNmM3Ny00MjdhLWExNTQtZTQwZjM2NjA0NjgzXkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "plot": "BoBoiBoy dan rakannya berhadapan dengan pemburu harta makhluk asing yang tamak sewaktu mereka bersaing menemukan objek purba yang berkuasa di sebuah pulau misteri.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBMAG_series_IVP_LAND_917x516_6A6D8_2024321_172815.jpg", 
-           "director": ["Nizam Abdul Razak"], 
-           "cast": [" Nur Sarah Alisya,  Anas Abdul Aziz,  Kevin Adrian Barnaby"],
-           "year": "2018"
-            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f00c164d-d7af-514a-9461-a76514e787c3/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "33f7fe50a6502992272d20748381b710:e1dd9fae5ef5b09323e99449dba08a01"
- },  
- {        
-  "name": "BoBoiBoy Movie 2", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_FMjpg_UX700_CR0,1,600,900_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BYWNjMjY0ZjgtNjg0Zi00ZGNjLWJmM2MtZmYzZTU2NTU4OWM2XkEyXkFqcGc@._V1_FMjpg_UX700_CR0,1,600,900_.jpg", 
-           "plot": "BoBoiBoy dan rakan-rakannya menjadi sasaran penjahat kuno, Retak'ka yang inginkan kuasa semulajadinya dikembalikan semula agar dia boleh menjadi orang yang paling berkuasa di galaksi. BoBoiBoy dan gengnya harus mencari jalan untuk menewaskan Retak'ka dan menghalangnya dari merampas kuasa BoBoiBoy.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IWMJC_IVP_LAND_917x516_6A6D9_2024321_17291.jpg", 
-           "director": ["Nizam Abdul Razak"], 
-           "cast": ["Nur Fathiah Diaz,  Fadzli Mohd Rawi,  Dzubir Mohammed Zakaria"],
-           "year": "2019"
-            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e6ee43c8-212a-598d-88d9-f140f61f5a04/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "8f35c8959930b6df896b6b76a54d6b10:bfcdfc1adeb3b8c7d3723d08c9740701"
- }, 
- {        
-  "name": "Hotel Transylvania ", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "plot": "Selamat datang ke Hotel Transylvania, pusat peranginan mewah Dracula, di mana raksasa-raksasa dan keluarga mereka boleh berseronok dan tiada manusia dibenarkan. Suatu hujung minggu istimewa, Dracula telah mengajak semua teman baiknya untuk meraikan hari jadi ke-118 anak gadis kesayangan Mavis. Bagi Dracula untuk melayan semua raksasa legenda ini bukan satu masalah tetapi parti itu betul-betul bermula apabila seorang lelaki biasa terserempak dengan hotel itu dan merubah segalanya!", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HNNYK_IVP_LAND_917x516_25A24_2024321_17951.jpg", 
-           "director": ["Genndy Tartakovsky"], 
-           "cast": ["Adam Sandler,Andy Samberg,Kevin James"],
-           "year": "2012"
-            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c1ca15f5-c39c-5d37-b029-c88a4e84e6ae/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "c74bc7c0b67e483d4021950d54977510:fb68f0e6e592b07b474ad8e77949d38d"
- }, 
- {        
-  "name": "Hotel Transylvania 2 ", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BY2ExYWJhMDYtYjcwMy00YjA2LTk2YzQtY2FhMWYxZThiNDQzXkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "plot": "Hotel Transylvania kini terbuka kepada penginap-penginap manusia. Mavis dan Johnny mempunyai seorang anak lelaki bernama Dennis, yang kekurangan kebolehan pontianaknya membuat datuknya, Dracula, risau. Apabila Mavis dan Johnny pergi melawat ibubapa Johnny, Dracula memanggil kawan-kawannya untuk membantunya membuat Dennis jadi pontianak. Tetapi, satu lawatan yang tidak dijangka dari ayah Dracula yang konservatif dan membenci manusia iaitu Vlad, membuat keadaan menjadi tonggang-terbalik.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HMOHK_IVP_LAND_917x516_7D81D_2024101_11831.jpg", 
-           "director": ["Genndy Tartakovsky"], 
-           "cast": ["Adam Sandler,Andy Samberg"],
-           "year": "2015"
-            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6d4adbf1-599f-564e-8f25-8fa79ad27939/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "20b0d86cf82587e42d1b11f1c5c15a10:bc1be7e9457b86cf2015cae747b3ba64"
- },  
- {        
-  "name": "Hotel Transylvania 3 ", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "plot": "Pelayaran begitu lancar buat kawanan Dracula apabila kapal mewah raksasa menawarkan keseronokan dari bola tampar ke lawatan eksotik, dan bertemu sambil berjemur di bawah bulan. Namun, percutian impian bertukar menjadi mimpi ngeri apabila Mavis sedar Dracula telah jatuh hati dengan kapten kapal yang misteri, Ericka yang menyembunyikan rahsia berbahaya yang mungkin membinasakan semua raksasa.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IPBJU_100anniversary_IVP_LAND_917x516_2024819_12255.jpg", 
-           "director": ["Genndy Tartakovsky"], 
-           "cast": ["Adam Sandler,Andy Samberg,Selena Gomez"],
-           "year": "2018"
-            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8a8249b5-1045-5b07-b6a9-1a7da49b5bdb/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "8487d2e3654c546a057de86113466210:eb9feffab2c8d324fbda3b29a2b44ebf"
- },  
- {        
-  "name": "How to Train Your Dragon", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "plot": "Hiccup, seorang remaja Viking yang tidak begitu sesuai berada di dalam puaknya yang secara tradisi, menjadi wira yang membunuh naga. Dunia Hiccup mulai kucar-kacir apabila dia menemui seekor naga yang mencabar dirinya dan Viking yang lain untuk melihat dunia ini melalui perspektif yang berbeza.", 
-           "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000151X864471_IVP_LAND_917x516.jpg", 
-           "director": ["Dean DeBlois,Chris Sanders"], 
-           "cast": ["Jay Baruchel,Gerard Butler"],
-           "year": "2010"
-            }, 
-           "video": "", 
-           "drm": "clearkey", 
-           "drmkey": ""
- }, 
- {        
-  "name": "How to Train Your Dragon 2", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "plot": "Lima tahun berlalu semenjak Hiccup dan Tootless menemukan naga-naga dengan Vikings Berk. Kini, mereka menghabiskan masa melakar kawasan di pulau itu. Ketika salah satu pengembaraan, kedua mereka menemui sebuah gua yang dihuni beratus-ratus naga liar dan 'Dragon Rider' misteri yang merupakan Valka, ibu Hiccup yang telah lama hilang. Hiccup dan Toothless kemudian mendapati diri mereka berdepan dengan pertarungan untuk melindungi Berk daripada perwira yang gilakan kuasa iaitu Drago.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HSJGT_IVP_LAND_917x516_13E91_2024524_104436.jpg", 
-           "director": ["Dean DeBlois"], 
-           "cast": ["Jay Baruchel,Cate Blanchett"],
-           "year": "2014"
-            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e17ea0ea-f888-5824-9a19-41d1c2175fcc/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "020120bb1380f44b4e90b1f65d85ff10:fcabb2da2966c8086aa6b16aad5539ca"
- }, 
- {        
-  "name": "How to Train Your Dragon 3: The Hidden World", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "plot": "Kini ketua dan pemerintah Berk bersama Astrid, Hiccup menghasilkan utopia naga penuh huru-hara. Apabila Light Fury betina tiba-tiba muncul serentak dengan ancaman paling buruk di kampung mereka, Hiccup dan Toothless terpaksa meninggalkan rumah dan mengembara ke dunia tersembunyi yang mereka rasa hanya wujud dalam mitos semata. Ketika takdir sebenar mereka diperlihatkan, naga dan penunggang berjuang bersama-sama hingga ke hujung Bumi untuk melindungi apa jua yang mereka usahakan untuk dihargai.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVJIB_IVP_LAND_917x516_202431_102038.jpg", 
-           "director": ["Dean DeBlois"], 
-           "cast": ["Jay Baruchel,America Ferrera,F. Murray Abraham"],
-           "year": "2019"
-            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/730a46c4-bfe1-5981-b53d-ebd60b24f567/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "6b7145b6c2ffa9585b8cfa2342670c10:c31162735079b18ff704c3281bef2004"
- }, 
- {        
-  "name": "Wheely", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BOTMwNWU3ODAtMGYwYi00MDM5LWJmYTktZTE3ODIxOThlNjI3XkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BOTMwNWU3ODAtMGYwYi00MDM5LWJmYTktZTE3ODIxOThlNjI3XkEyXkFqcGc@._V1_FMjpg_UX650_CR0,1,600,900_.jpg", 
-           "plot": "Di dalam dunia yang penghuninya ialah kereta, Wheely, sebuah teksi yang sering ditindas bercita-cita ingin menjadi juara di Gasket City.", 
-           "backdrop": "https://m.media-amazon.com/images/M/MV5BMTVkNDQzMTAtZDk3Ni00N2VmLTlkNzQtZWJmNjc0Y2Q4Nzg4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_UX1920_CR0,1,1920,1080_.jpg", 
-           "director": ["Carl Mendez,Yusry Abd Halim"], 
-           "cast": ["Ogie Banks","Zizan Razak","Gavin Yap","Johan Raja Lawak"],
-           "year": "2019"
-            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ef8797a1-b03b-5e91-b313-2d33d1f0fdc1/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "13fcd1ffc293d6cf47b73d97388f5a10:41f21bad546bc67f6380eb4554b9c4c5"
- },  
- {        
-  "name": "Ultraman Ginga S", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BMWU1MWQ0ZGUtOTk2OS00ODhmLWE4NWYtYjIxNDJlNjIxODc3XkEyXkFqcGc@._V1_QL100_UX650_CR18,0,600,900_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMWU1MWQ0ZGUtOTk2OS00ODhmLWE4NWYtYjIxNDJlNjIxODc3XkEyXkFqcGc@._V1_QL100_UX650_CR18,0,600,900_.jpg", 
-           "plot": "Etelgar mengutuk fikiran Arina dan menggunakan kuasanya untuk mengelak 7 Ultraman kemudian Haruno Musashi bersama Ultraman Zero mencari ibu pejabat UPG dan membantu Ultraman Ginga dan Victory membebaskan Ultraman lain dan mengalahkan Etelgar.", 
-           "backdrop": "https://m.media-amazon.com/images/M/MV5BZmJkNjA3NGItYzNiZC00ODRiLWIxNTEtODg0YTM5ZTUxOTkxXkEyXkFqcGc@._V1_QL100_UX1920_.jpg", 
-           "director": ["Kôichi Sakamoto","William Winckler"], 
-           "cast": ["Takuya Negishi","Kiyotaka Uji","Yukari Taki"],
-           "year": "2015"
-            }, 
-           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/338c7334-6fb5-5fd1-8aac-b56315e2ef85/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "24f3139016d9bb78585811a2a191bd10:6ee6d40bfa8f1fc43fa717774c60d4e8"
- },  
- {        
-  "name": "Ultraman Trigger: Episode Z", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BNjg4YWY1ZjYtNDExZC00MmZhLThhZTQtNWUyYjZkZDgyYmU4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BNjg4YWY1ZjYtNDExZC00MmZhLThhZTQtNWUyYjZkZDgyYmU4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
-           "plot": "Dua tahun telah berlalu sejak pertempuran terakhir dan keamanan telah dipulihkan di seluruh dunia. Walau bagaimanapun, keadaan tidak senyap lama apabila raksasa sekali lagi mula muncul di Bumi. Pada masa yang sama, satu siri pencerobohan misteri berlaku di runtuhan purba di seluruh dunia. Pasukan pakar GUTS-Select, diketuai oleh kapten baharu, menyediakan skuad untuk melancarkan siasatan.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDONB_IVP_LAND_917x516_64663_2024313_182131.jpg", 
-           "director": ["Masayoshi Takesue"], 
-           "cast": ["Raiga Terasaka","Runa Toyoda","Shunya Kaneko"],
-           "year": "2022"
-            }, 
-           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c5d85333-55d6-5711-a519-d44b885333be/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "86ccb3e9c93ef145167f18ce7dd4db10:62db8d47f5a6ce6b46a9b07175f519b6"
- },  
- {        
-  "name": "Ultraman Decker Finale: Journey To Beyond", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BYTA1Yjk5M2YtM2VjYi00ZWFmLTg3ZWEtYWQ0MGIwNDY1MWY0XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BYTA1Yjk5M2YtM2VjYi00ZWFmLTg3ZWEtYWQ0MGIwNDY1MWY0XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
-           "plot": "Bunyi aneh bergema di langit. Mereka yang mendengarnya pengsan, dan akhirnya lenyap. Pasukan pakar GUTS-Pilih menyiasat tetapi menghadapi serangan daripada tentera asing.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRE_IVP_LAND_917x516_6D616_2024313_18540.jpg", 
-           "director": ["Masayoshi Takesue"], 
-           "cast": ["Hiroki Matsumoto","Yûka Murayama","Nobunaga Daichi"],
-           "year": "2023"
-            }, 
-           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8f42070f-9bca-5c38-aa04-ff7c5809cc8c/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "f8cfe1007321afad7c61fc29420ff210:86576d697e67d1419a83d8c756407680"
- },  
-  {        
-  "name": "Ultra Galaxy Fight: The Destined Crossroad", 
-  "category": "Kids",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BNDE0MDhmYjgtZTVhNS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BNDE0MDhmYjgtZTVhNS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
-           "plot": "Pasukan pakar GUTS-Select menyiasat tetapi menghadapi serangan daripada tentera asing dan kubu mudah alih yang gelap gulita, Zorgaus, yang dipandu oleh Profesor Gibellus yang berusaha untuk memerintah langit Bumi..", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRF_IVP_LAND_917x516_6D617_2024313_18544.jpg", 
-           "director": ["Kôichi Sakamoto"], 
-           "cast": ["Jun'ichi Suwabe","Zhen Zhao","Tatsuomi Hamada"],
-           "year": "2022"
-            }, 
-           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2a9fbff6-f57f-5e71-9bd5-aaec00498965/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "770db37c02b84aebb11af8b1f6e95d10:0fb67b33e04aa79bc4f862ae26774c08"
- },  
+}
 ]
- 
