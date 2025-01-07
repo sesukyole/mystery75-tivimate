@@ -1741,7 +1741,7 @@
                   },                             
             ]
         },
-   "seasons": [
+   
        {
          "season": 2,
          "name": "BoBoiBoy Galaxy SORI",
