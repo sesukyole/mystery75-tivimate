@@ -9,6 +9,7 @@
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_IVP_LAND_917x516_2024221_204310.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
+           "country": [ "Malaysia" ],
            "trailer": "nw2roBPsbyU",
            "year": "2017"
             }, 
