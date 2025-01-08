@@ -2165,6 +2165,70 @@
                    "drm": "clearkey", 
                    "drmkey": "0c25d143566e7cfa32eeeca62fec9810:6692692475fc1d1e5880e42204d2b566"
                  },
+              {
+                   "episode": 3,
+                   "name": "Terkandas!",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "BoBoiBoy dan Fang terkandas di sebuah lembah terpencil setelah pod kecemasan mereka terhempas. Hilang arah dan buntu, mereka harus mencari jalan untuk menghubungi kawan-kawan mereka.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNmUxZWI3YzUtMGZhZC00NDllLTljYWUtNDkwNDE5ZDlmYTI5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2024"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0f7b7181-5230-5028-b616-177467730a53/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "c715cbf1f6af8b1836007f55fc515510:e48864dab84aeb0dd3f58319222442dd"
+                 },
+              {
+                   "episode": 4,
+                   "name": "Terkandas!",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Reramos merancang untuk menggunakan kuasa Kuputeri bagi mengawal minda penduduk Windara. Mampukah BoBoiBoy dan rakan-rakan menyelamatkan Kuputeri sekaligus menghentikan rancangan jahat Reramos?",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNmUxZWI3YzUtMGZhZC00NDllLTljYWUtNDkwNDE5ZDlmYTI5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2024"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9bb4395d-adf5-5706-9111-e2b6d6003025/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "15b486749b1744aa1b55c52e1dac3e10:2f1fc3aa35c162517f70957ca7c6f7ac"
+                 },
+              {
+                   "episode": 5,
+                   "name": "Kesatria Windara",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Fang dan Gopal berjaya mendapatkan harta karun dari gudang senjata istana yang mungkin dapat membantu mereka untuk mengalahkan Reramos dan bala tenteranya.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNmUxZWI3YzUtMGZhZC00NDllLTljYWUtNDkwNDE5ZDlmYTI5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2024"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/4808b9d6-a95c-552d-b2db-cf01192035b8/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "ccf6338e853a46502e838f21a7c89710:4029af7b9d2d2eb1129ae62d31f1491f"
+                 },
+              {
+                   "episode": 6,
+                   "name": "Demi Windara",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Reramos bertukar menjadi makhluk yang menyerupai labah-labah gergasi. Untuk mengalahkannya, BoBoiBoy perlu mengeluarkan kuasa yang lebih hebat daripada apa yang pernah digunakannya sebelum ini.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNmUxZWI3YzUtMGZhZC00NDllLTljYWUtNDkwNDE5ZDlmYTI5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2024"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/82c19ef2-cf6d-591c-a9c3-eea42158b897/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "9d74488c2623b3ebd365dc161167d510:f224cd151a0a3c523810b639a4546495"
+                 },
             ]
         }
     ]
