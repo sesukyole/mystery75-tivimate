@@ -1911,7 +1911,7 @@
     ]
  },
  {
-    "name": "BoBoiBoy Galaxy | Sori | Windara",
+    "name": "BoBoiBoy Galaxy",
     "category": "Kids",
     "info": {
               "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
@@ -2010,19 +2010,31 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a1a2e76a-271e-51b6-a6ec-02032831d2cd/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "1d8f7d93db0421d093def2d5b3dcd210:c059a1303b4222fcb24d8ab2cd202e9a"
-                  },                          
+                   }, 
             ]
-        },
-       {
-         "season": 2,
-         "name": "BoBoiBoy Galaxy Sori",
-         "info": {
-                   "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg",
-                   "backdrop": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
-                   "director": ["Nizam Razak"], 
-                   "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
-                   "year": "2023"
-                    },
+        }
+    ]
+ },
+ {
+    "name": "BoBoiBoy Galaxy Sori",
+    "category": "Kids",
+    "info": {
+              "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg",
+              "director": ["Nizam Razak"], 
+              "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+              "year": "2023"
+             },
+    "seasons": [
+        {
+          "season": 1,
+          "name": "BoBoiBoy Galaxy Sori",
+          "info": {
+                    "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg",
+                    "backdrop": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+                    "director": ["Nizam Razak"], 
+                    "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                    "year": "2023"
+                   },
           "episodes": [       
                {
                    "episode": 1,
@@ -2119,18 +2131,30 @@
                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/81571064-b827-5936-9c6a-f32f1dc7b0d8/default_primary.mpd", 
                    "drm": "clearkey", 
                    "drmkey": "6297d51f8ccd34f08ac1b7f3a5d6e610:bc89470f30559bb5b59ee36ff266492e"
-                 },                        
+                 }, 
             ]
-        },
-       {
-         "season": 3,
-         "name": "BoBoiBoy Galaxy Windara",
-         "info": {
-                   "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
-                   "backdrop": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                   "director": ["Nizam Razak"], 
-                   "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
-                   "year": "2024"
+        }
+    ]
+ },
+ {
+    "name": "BoBoiBoy Galaxy Windara",
+    "category": "Kids",
+    "info": {
+              "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+              "director": ["Nizam Razak"], 
+              "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+              "year": "2024"
+             },
+    "seasons": [
+        {
+          "season": 1,
+          "name": "BoBoiBoy Galaxy Windara",
+          "info": {
+                    "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                    "backdrop": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                    "director": ["Nizam Razak"], 
+                    "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                    "year": "2024"
                     },
           "episodes": [       
                {
