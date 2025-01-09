@@ -2,7 +2,7 @@
   {
     "name": "BoBoiBoy Galaxy Sori",
     "category": "Kids",
-    "season"  [       
+    "tv_shows"  [       
                   {
                     "episode": 1,
                     "name": "Kembali Beraksi!",
