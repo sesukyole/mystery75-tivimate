@@ -1,7 +1,6 @@
 [ 
  {        
   "name": "16 Puasa", 
-  "category": "Malay",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
@@ -20,7 +19,6 @@
  }, 
  {        
   "name": "17 Puasa", 
-  "category": "Malay",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
@@ -72,7 +70,6 @@
  }, 
  {        
   "name": "Lampir", 
-  "category": "Horror",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BY2IyNmQ0ZmEtNDFlNy00NmQ1LTlmZjQtZWJhOTdmZDQzYzFiXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BY2IyNmQ0ZmEtNDFlNy00NmQ1LTlmZjQtZWJhOTdmZDQzYzFiXkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -80,6 +77,7 @@
            "backdrop": "https://cdns.klimg.com/resized/1200x600/p/headline/film-horor-lampir-segera-rilis-di-biosk-9a84a3.jpg", 
            "director": ["Kenny Gulardi"], 
            "cast": ["Jolene Marie,Rory Asyari,Gandhi Fernando"],
+           "genre": ["Horror"],
            "year": "2024"
            }, 
            "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7b8e0a72-d310-56de-abd6-2597a53daa1c/default_primary.mpd", 
