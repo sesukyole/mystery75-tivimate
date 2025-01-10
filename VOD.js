@@ -314,11 +314,28 @@
            "drmkey": "fb68af4c3bbacb0d962b36d6c3de3710:e2e1e468c798b1be1c796ea3bfb6ac4b"
  }, 
  {        
-  "name": "Joker Folie A Deux", 
-  "category": "Suspen",
+  "name": "Sting ", 
+  "category": "Horror",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BOWU1NzZiMWQtOWIzNi00OWQ2LThjMjctMGQ4OTMxZTQwOGY3XkEyXkFqcGc@._V1_FMjpg_UX750_CR0,1,600,900_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BOWU1NzZiMWQtOWIzNi00OWQ2LThjMjctMGQ4OTMxZTQwOGY3XkEyXkFqcGc@._V1_FMjpg_UX750_CR0,1,600,900_.jpg", 
+           "plot": "Charlotte yang berusia 12 tahun dan suka memberontak menemui seekor labah-labah kecil di bangunan pangsapurinya yang usang. Tanpa disedari oleh ibu bapanya, dia menyimpannya sebagai haiwan peliharaan, namun tidak lama kemudian ia mula membesar dengan cepat dan sentiasa inginkan darah. Apabila jiran-jirannya mulai hilang, Charlotte dan keluarganya mendapati diri mereka terpaksa berjuang melawan makhluk yang ganas dan menyukai daging manusia.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPAKZ_IVP_LAND_917x516_7E6EB_20241120_17288.jpg", 
+           "director": ["Kiah Roache Turner"], 
+           "cast": ["Alyla Browne,Ryan Corr,Noni Hazlehurst"],
+           "trailer": "cv9DGzDt7_k",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/528cb906-115e-5fe6-a295-865c4a7b8990/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "30cc8f5f5b116b2f88b2211bd2f30910:1e1aed2cbbabdbb5a6aa890b6fd8319c"
+ }, 
+ {        
+  "name": "Joker Folie A Deux", 
+  "category": "Suspen",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_QL100_UX500.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_QL100_UX500.jpg", 
            "plot": "Arthur Fleck dimasukkan ke Hospital Arkham dan sedang menunggu perbicaraan atas jenayahnya sebagai Joker. Semasa bergelut dengan dwi identitinya, Arthur bukan sahaja menemui cinta sejati, Harley Quinn, malah mendapati muzik sentiasa ada dalam dirinya.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQFFE_IVP_LAND_917x516_80672_20241216_111110.jpg", 
            "director": ["Todd Phillips"], 
@@ -332,7 +349,7 @@
  }, 
  {        
   "name": "Joker", 
-  "category": "Action",
+  "category": "Suspen",
   "info": { 
            "poster": "https://dai3fd1oh325y.cloudfront.net/images/720p/023711X0-portrait.jpg", 
            "bg": "https://dai3fd1oh325y.cloudfront.net/images/720p/023711X0-portrait.jpg", 
@@ -343,9 +360,9 @@
            "trailer": "zAGVQLHvwOY",
            "year": "2019"
            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/de7a81ba-72bd-5be8-91f2-ffe1e17d96dd/default_primary.mpd", 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/65266952-8476-5f90-a5f3-95f7f9f33436/default_dash.mpd", 
            "drm": "clearkey", 
-           "drmkey": "ed30263b6c4713975dc94131467f5b10:7a49449febb3a181e0a114e546e5c972"
+           "drmkey": "ebb6e28c8db6df4325ac9bd545b7e810:f6b73bfbc9c7604f74b5d8a5e83c17e4"
  }, 
   {        
   "name": "Telekinesis ", 
@@ -462,9 +479,9 @@
            "trailer": "beHzfQPaTaw",
            "year": "1996"
            }, 
-           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/66594b50d94052107401617f_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2469b070-c300-56e2-9da3-9a0ef31c1816/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "26a4aa065a5e8b9e89f30462d2c73c10:beba31cd95acc146722d6241d3a2d33a"
+           "drmkey": "9c5654904348e9e1213efc47fa65f410:5b0c58fc8e4bdc5199764a4555845ee1"
  }, 
  {        
   "name": "The Cursed", 
@@ -826,6 +843,22 @@
            "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2a9fbff6-f57f-5e71-9bd5-aaec00498965/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "770db37c02b84aebb11af8b1f6e95d10:0fb67b33e04aa79bc4f862ae26774c08"
+ },
+ {        
+  "name": "10", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNDE0MDhmYjgtZTVhNS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNDE0MDhmYjgtZTVhNS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "plot": "Pasukan pakar GUTS-Select menyiasat tetapi menghadapi serangan daripada tentera asing dan kubu mudah alih yang gelap gulita, Zorgaus, yang dipandu oleh Profesor Gibellus yang berusaha untuk memerintah langit Bumi..", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRF_IVP_LAND_917x516_6D617_2024313_18544.jpg", 
+           "director": ["Kôichi Sakamoto"], 
+           "cast": ["Jun'ichi Suwabe","Zhen Zhao","Tatsuomi Hamada"],
+           "year": "2022"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8dab1e77-adcd-51d9-845a-71cd12a46aa6/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "f668fbdc6c72d3c4f24a23ae28fc0510:5f33b1c1b1b9dcacc2360803be4ba6e7"
  },
   {
     "name": "TWINKLING WATERMELON",
