@@ -1,7 +1,7 @@
 [ 
  {        
   "name": "16 Puasa", 
-  "category": "Comedy",
+  "category": "Malay",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
@@ -10,6 +10,7 @@
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
            "country": [ "Malaysia" ],
+           "genre": ["Comedy"],
            "trailer": "nw2roBPsbyU",
            "year": "2017"
             }, 
@@ -19,7 +20,7 @@
  }, 
  {        
   "name": "17 Puasa", 
-  "category": "Comedy",
+  "category": "Malay",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
@@ -27,6 +28,7 @@
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_IVP_LAND_917x516_378AF_20241130_41528.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
+           "genre": ["Comedy"],
            "trailer": "e9dWysgWKNU",
            "year": "2017"
            }, 
