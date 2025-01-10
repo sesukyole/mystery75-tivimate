@@ -834,7 +834,7 @@
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BNDE0MDhmYjgtZTVhNS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BNDE0MDhmYjgtZTVhNS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
-           "plot": "Pasukan pakar GUTS-Select menyiasat tetapi menghadapi serangan daripada tentera asing dan kubu mudah alih yang gelap gulita, Zorgaus, yang dipandu oleh Profesor Gibellus yang berusaha untuk memerintah langit Bumi..", 
+           "plot": "Pasukan pakar GUTS-Select menyiasat tetapi menghadapi serangan daripada tentera asing dan kubu mudah alih yang gelap gulita, Zorgaus, yang dipandu oleh Profesor Gibellus yang berusaha untuk memerintah langit Bumi.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRF_IVP_LAND_917x516_6D617_2024313_18544.jpg", 
            "director": ["Kôichi Sakamoto"], 
            "cast": ["Jun'ichi Suwabe","Zhen Zhao","Tatsuomi Hamada"],
@@ -845,20 +845,38 @@
            "drmkey": "770db37c02b84aebb11af8b1f6e95d10:0fb67b33e04aa79bc4f862ae26774c08"
  },
  {        
-  "name": "10", 
-  "category": "Kids",
+  "name": "10,000 BC", 
+  "category": "Action",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BNDE0MDhmYjgtZTVhNS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BNDE0MDhmYjgtZTVhNS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
-           "plot": "Pasukan pakar GUTS-Select menyiasat tetapi menghadapi serangan daripada tentera asing dan kubu mudah alih yang gelap gulita, Zorgaus, yang dipandu oleh Profesor Gibellus yang berusaha untuk memerintah langit Bumi..", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRF_IVP_LAND_917x516_6D617_2024313_18544.jpg", 
-           "director": ["Kôichi Sakamoto"], 
-           "cast": ["Jun'ichi Suwabe","Zhen Zhao","Tatsuomi Hamada"],
-           "year": "2022"
+           "poster": "https://m.media-amazon.com/images/M/MV5BZWZmYzI5OWMtZDg4Ny00ZThiLWFjYjQtNjQ1NzA1MWY1OTJiXkEyXkFqcGc@._V1_QL100_UX500.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZWZmYzI5OWMtZDg4Ny00ZThiLWFjYjQtNjQ1NzA1MWY1OTJiXkEyXkFqcGc@._V1_QL100_UX500.jpg", 
+           "plot": "Pemburu Mammoth D'Leh telah lama jatuh cinta dengan seorang wanita puak cantik bermata biru bernama Evolet. Selepas penceroboh menunggang kuda menculik kebanyakan anggota suku D'Lehnya serta Evolet, dia memulakan perjalanan berbahaya untuk menyelamatkannya daripada penculiknya.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSCJC_IVP_LAND_917x516_49F53_20241119_8858.jpg", 
+           "director": ["Roland Emmerich"], 
+           "cast": ["Steven Strait","Camilla Belle","Cliff Curtis"],
+           "trailer": "WrEoasUN8V4",
+           "year": "2008"
             }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8dab1e77-adcd-51d9-845a-71cd12a46aa6/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "f668fbdc6c72d3c4f24a23ae28fc0510:5f33b1c1b1b9dcacc2360803be4ba6e7"
+ },
+ {        
+  "name": "12.12: The Day", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTZmMTMyMDMtNDA2Mi00ZjU5LTljMjYtYjg3NmVmMDQ5NmQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZWZmYzI5OWMtZDg4Ny00ZThiLWFjYjQtNjQ1NzA1MWY1OTJiXkEyXkFqcGc@._V1_QL100_UX500.jpg", 
+           "plot": "Selepas pembunuhan Presiden Park, undang-undang ketenteraan diisytiharkan. Rampasan kuasa dilakukan oleh Komander Keselamatan Pertahanan, Chun Doo-Gwang. Ketua Komander Pertahanan, Lee Tae-shin, seorang yang ketegar percaya bahawa pihak tentera tidak sepatutnya mengambil tindakan politik, bangkit menentang Chun Doo-Gwang. Konflik antara kedua pihak semakin meruncing menyebabkan Seoul dalam keadaan yang tidak menentu.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMOUX_IVP_LAND_917x516_7C55F_20241024_14181.jpg", 
+           "director": ["Kim Sung-Soo"], 
+           "cast": ["Hwang Jung-Min","Jung Woo-Sung","Lee Sung-Min"],
+           "trailer": "H_zrVAVlZw0",
+           "year": "2023"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/3b7eb427-ebf0-5a8c-8664-f78ce444a153/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "b46d0b0304be241d632bbf944b816410:44c28e4c462fab253cd5a46b9781ecfb"
  },
   {
     "name": "TWINKLING WATERMELON",
