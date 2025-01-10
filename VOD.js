@@ -878,6 +878,74 @@
            "drm": "clearkey", 
            "drmkey": "b46d0b0304be241d632bbf944b816410:44c28e4c462fab253cd5a46b9781ecfb"
  },
+ {        
+  "name": "12 Golden Ducks", 
+  "category": "Comedy",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMWFmMjE3NDUtYjc5MC00OTA4LWE2ZTAtOWE4ODgyMmI0ZDUzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMWFmMjE3NDUtYjc5MC00OTA4LWE2ZTAtOWE4ODgyMmI0ZDUzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "In the footsteps of "Golden Chicken", this hilarious sequel starring Sandra Ng, Louis Koo & Anthony Wong depicts the misadventures of a bunch of gigolos lead by the flamboyant Future.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFLQS_IVP_LAND_917x516_665AB_20241119_8202.jpg", 
+           "director": ["Matt Chow"], 
+           "cast": ["Sandra Ng","Louis Koo","Anthony Wong"],
+           "trailer": "2djoAcqfNaQ",
+           "year": "2015"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/39125290-84ea-5e08-b768-f71a203245ae/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "00abf3065d6bf6eecfd111ff69944210:2d8523b94e2002e1284fba0d561707f1"
+ },
+ {        
+  "name": "1000% Me: Growing Up Mixed", 
+  "category": "Documentary",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYzJhZTU2NzEtYzQ0OS00MjY1LWJkNTctMGYwYzU3NDljMmJiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYzJhZTU2NzEtYzQ0OS00MjY1LWJkNTctMGYwYzU3NDljMmJiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "W. Kamau Bell mengarahkan dokumentari HBO asli yang lucu ini yang mempersembahkan perspektif dan suara kanak-kanak serta keluarga mereka yang tinggal di San Francisco Bay Area mengenai topik kaum, tempat dan identiti.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLLW_IVP_LAND_917x516_7999B_20241119_83835.jpg", 
+           "director": ["W. Kamau Bell"], 
+           "cast": [" W. Kamau Bell"],
+           "trailer": "UOYF2HatbFI",
+           "year": "2023"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a1384510-6458-5cd6-914a-4256dfbfa32f/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "37ba12bc9fd4644412127fc7ff889910:51483456160d12ea2e17784163b319cb"
+ },
+ {        
+  "name": "10 Tips Tipu Bini", 
+  "category": "Comedy",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYWQ3YjAzOGUtYTgyOC00ZDExLTkxNDAtNGI1MWMxNzA4YWZmXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYWQ3YjAzOGUtYTgyOC00ZDExLTkxNDAtNGI1MWMxNzA4YWZmXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+           "plot": "Raffi, Kay dan Jepp adalah rakan baik yang bekerja sebagai Pengarah Kreatif di syarikat pengiklanan terkenal dimiliki Dato Dean. Bila 3 gadis intern yang cantik bekerja di syarikat itu, mereka mula memasang niat nakal untuk memikat 3 gadis itu untuk dijadikan kekasih. Masalahnya, mereka perlu berdepan dengan kerangan para isteri di rumah. Pelbagai penipuan dilakukan demi melaksanakan niat mereka.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JPJXT_IVP_LAND_917x516_5044C_2024313_17237.jpg", 
+           "director": ["Azizi Adnan"], 
+           "cast": ["Ropie","Khir Rahman","Dato' Awie"],
+           "trailer": "oirUBNuPeK0",
+           "year": "2021"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d30f6691-13a0-53f4-b911-76bb8a0c8eb8/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "bda739927fb39c94c7020475e3ae6110:81001b9e5c7e03e3b945adce2bca8e0e"
+ },
+ {        
+  "name": "12 Lotus", 
+  "category": "Drama",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BODJkYTg5OTAtZmVjMi00OWQzLThjZjItNzNlNDE5M2VmZjk4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BODJkYTg5OTAtZmVjMi00OWQzLThjZjItNzNlNDE5M2VmZjk4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Royston Tan directs this poignant musical drama featuring Qi Yi Wu, Liu Ling Ling and Mindee Ong. Spanning from 1980s to present day, this tragic tale of love and betrayal follows singer Lian Hua through her career and sheds light on the painful encounters she makes with love and misfortune.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFLDF_IVP_LAND_917x516_665AC_20241119_8202.jpg", 
+           "director": ["Royston Tan"], 
+           "cast": ["Ling Ling Liu","Mindee Ong","Yuwu Qi"],
+           "trailer": "oirUBNuPeK0",
+           "year": "2008"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/96468f22-2001-55e8-8399-fa6e90ad6e82/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "99214479ae2308318a89d29774e70810:a8fc8f764ce66f008dae51f939565bbd"
+ },
   {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
