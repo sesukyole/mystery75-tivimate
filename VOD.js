@@ -884,7 +884,7 @@
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMWFmMjE3NDUtYjc5MC00OTA4LWE2ZTAtOWE4ODgyMmI0ZDUzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMWFmMjE3NDUtYjc5MC00OTA4LWE2ZTAtOWE4ODgyMmI0ZDUzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "plot": "In the footsteps of "Golden Chicken", this hilarious sequel starring Sandra Ng, Louis Koo & Anthony Wong depicts the misadventures of a bunch of gigolos lead by the flamboyant Future.", 
+           "plot": "In the footsteps of 'Golden Chicken', this hilarious sequel starring Sandra Ng, Louis Koo & Anthony Wong depicts the misadventures of a bunch of gigolos lead by the flamboyant Future.", 
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFLQS_IVP_LAND_917x516_665AB_20241119_8202.jpg", 
            "director": ["Matt Chow"], 
            "cast": ["Sandra Ng","Louis Koo","Anthony Wong"],
