@@ -1,6 +1,7 @@
 [ 
  {        
   "name": "16 Puasa", 
+  "category": "Comedy",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
@@ -9,7 +10,6 @@
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
            "country": [ "Malaysia" ],
-           "genre": ["Comedy"],
            "trailer": "nw2roBPsbyU",
            "year": "2017"
             }, 
@@ -19,6 +19,7 @@
  }, 
  {        
   "name": "17 Puasa", 
+  "category": "Comedy",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
@@ -26,7 +27,6 @@
            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_IVP_LAND_917x516_378AF_20241130_41528.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
-           "genre": ["Comedy"],
            "trailer": "e9dWysgWKNU",
            "year": "2017"
            }, 
@@ -70,6 +70,7 @@
  }, 
  {        
   "name": "Lampir", 
+  "category": "Horror",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BY2IyNmQ0ZmEtNDFlNy00NmQ1LTlmZjQtZWJhOTdmZDQzYzFiXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BY2IyNmQ0ZmEtNDFlNy00NmQ1LTlmZjQtZWJhOTdmZDQzYzFiXkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
@@ -77,7 +78,6 @@
            "backdrop": "https://cdns.klimg.com/resized/1200x600/p/headline/film-horor-lampir-segera-rilis-di-biosk-9a84a3.jpg", 
            "director": ["Kenny Gulardi"], 
            "cast": ["Jolene Marie,Rory Asyari,Gandhi Fernando"],
-           "genre": ["Horror"],
            "year": "2024"
            }, 
            "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7b8e0a72-d310-56de-abd6-2597a53daa1c/default_primary.mpd", 
@@ -2057,15 +2057,15 @@
                     "info": {
                             "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
                             "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
-                            "plot": "",
+                            "plot": "Intan sudah tidak tahan dengan perangai Assad. Dia mahu Assad ceraikannya. Ini membuatkan Assad mengamuk dan marah dengan permintaan Intan. Cik Jorah yakinkan Intan yang Assad sudah jatuh cinta.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
                             "director": ["Jamal Khan"], 
                             "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bd55b4d5-ec1a-5744-8772-44ef6dd059fe/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "3b973cc9b9f7e2f45a0523cd838f3e10:5c16683b2c370ae140d760597c1f1def"
                  }, 
                {
                     "episode": 22,
@@ -2073,15 +2073,15 @@
                     "info": {
                             "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
                             "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
-                            "plot": "",
+                            "plot": "Intan sudah hilang sabar dengan sikap panas baran Assad dan cuba untuk melarikan diri dari rumah itu. Pak Leman minta maaf kerana paksa Assad berkahwin dengan Intan kerana percayakan fitnah Roslan.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
                             "director": ["Jamal Khan"], 
                             "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/27b0bada-e13c-54ff-9876-3308624bbf40/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "48cf24e68f83d56188a48ff32a3ba110:fbf25ffe77b42c9108d0bd5e25286df4"
                  }, 
                {
                     "episode": 23,
@@ -2089,15 +2089,15 @@
                     "info": {
                             "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
                             "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
-                            "plot": "",
+                            "plot": "Assad berjanji akan mencintai Intan sepenuh jiwanya. Dia tidak sanggup berpisah dengan Intan lagi. Intan dan Assad terkejut tiba-tiba seorang lelaki memperkenalkan dirinya sebagai ayah Intan.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
                             "director": ["Jamal Khan"], 
                             "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a23928d8-91c0-57ac-ab4d-4dcec19872b1/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "c299c023f309e08e4b26e68bdcc5fa10:4cee380b837c9c97268bf7a271499bdb"
                  }, 
                {
                     "episode": 24,
@@ -2105,15 +2105,15 @@
                     "info": {
                             "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
                             "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
-                            "plot": "",
+                            "plot": "Intan tersedar dari pengsan, terkejut apabila dia berada dalam sebuah bilik kosong rumah kampung dengan tangan dan kakinya berikat, Assad terkejut dengan kehilangan Intan dan mencarinya sepenuh hati.",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
                             "director": ["Jamal Khan"], 
                             "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1cd2b5ec-d07f-5ae9-a0e5-53d4099bf8b2/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "2b708d14cffe0a56606d1c3f2aaa7310:475eae0bc2d539aa26b9c478e1fd653d"
                  }, 
                {
                     "episode": 25,
@@ -2121,15 +2121,15 @@
                     "info": {
                             "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
                             "bg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg", 
-                            "plot": "",
+                            "plot": "Assad berjanji akan memberikan kebahagian yang Intan impikan. Tetapi adakah segala persoalan Intan tentang ayahnya akan terjawab?",
                             "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg", 
                             "director": ["Jamal Khan"], 
                             "cast": ["Harissa Adlynn Halim","Redza Rosli","Kael Noah"],
                             "year": "2024"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bfa91b98-6f38-5766-8228-65bf121c2a7e/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "3b43c5149337931927ce6a8380ebc710:91b0fab5a89fff5b94a890925edb06cf"
                  }, 
             ]
         }
