@@ -47,9 +47,9 @@
            "trailer": "UrIbxk7idYA",
            "year": "2007"
             }, 
-           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61b8038afbbcc21f45d24f31_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/919b0d62-8ed5-5b14-ae6d-21cf445c4099/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "63f11fe081ce503d84f8e09def679739:32a966ad63b93ff6bfafe25bec4a6a52"
+           "drmkey": "72c178b163affecbbafbdc77fae0ad10:048552f270958a9f359181a26a652ea9"
  }, 
  {        
   "name": "300: Rise Of An Empire", 
@@ -64,9 +64,9 @@
            "trailer": "QiTBMODZy0I",
            "year": "2014"
             }, 
-           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ef1ead56d048943f757d045_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/890fee30-20b3-5ab5-a1bc-4a931f3c9ae0/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "ebb739ba74915639ace3afe2f883f566:726d668414cbb1bfd5f25bfc4a80adfa"
+           "drmkey": "3fa79e54072f1ea41e7ba6c672c91c10:6023455dcaf04d16f5a713f1f1f1096a"
  }, 
  {        
   "name": "Lampir", 
@@ -224,9 +224,9 @@
            "audio": ["Inggeris"],
            "year": "2013"
            }, 
-           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f3e46566d048943f75f12d8_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b7a9407f-3ec4-5b89-b972-2caa9170de0b/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "962b8148ba87557c9ee1c3b7e8ea0fb7:d18bda3517319a9639f2ef9365d133ed"
+           "drmkey": "eeb312bfc11de68ccb221b41c102ee10:e4c4b767850daa07fd414c6928ddf4e6"
  }, 
  {        
   "name": "The Conjuring 2", 
@@ -242,9 +242,9 @@
            "audio": ["Inggeris"],
            "year": "2016"
            }, 
-           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4f8ab06d048943f760b03a_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f333c6ab-7aa2-5878-b4f8-d54032f7b9f0/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "323ac908961050658eabae3ba1ed9390:87c42b4f0230a6054c3981fafda0b33f"
+           "drmkey": "019e069229311295add90fc282f01e10:6ddd25b04279ce696939523cb2260750"
  }, 
  {        
   "name": "The Conjuring: The Devil Made Me Do It", 
@@ -258,9 +258,9 @@
            "cast": ["Vera Farmiga","Patrick Wilson","Julian Hilliard","Ruairi O'connor","Sarah Catherine Hook"],
            "year": "2021"
            }, 
-           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/611a14af2bd0bb5cd89ea595_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8fed9cdc-3c76-52d8-8ff1-f4aaaa181e18/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "44dd002cd4eb5e42b7fd35e3e72d52ae:01dc61a4e3a5f182cdf80112ae04e863"
+           "drmkey": "0aac107d87f7b8e4240cd235dfa28b10:b3673b1d884d1c16e885648bfb3da366"
  }, 
  {        
   "name": "Insidious Chapter 2", 
@@ -275,9 +275,9 @@
            "trailer": "5hvNMXh1GWw",
            "year": "2013"
            }, 
-           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65d59e5bd940521074f51cca_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/14660f25-70f4-52e0-91c0-ab3b5c4d20c4/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "5d5fe70dff11500a3171047169766487:1d811ef7c30019a606339eeaced3bbd2"
+           "drmkey": "7e9f49935d1163c5d4b0f89666d34510:ae98b75e9e803ef0dd5a8b86e859c4b9"
  }, 
  {        
   "name": "Insidious Chapter 3", 
@@ -292,9 +292,9 @@
            "trailer": "bWd2MrMTYrc",
            "year": "2015"
            }, 
-           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65d6d1c9d940521074f539cb_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a9252e51-dc12-5491-a1a5-e7e574c45a5f/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "ebc5fab962cc1675e1b59cedddcf9d62:379019501bb944884527b4cbc6fba791"
+           "drmkey": "1228af5ac62a7ef2c37d7332e3a41310:e119895062f6fdd08b30d9c85cc48777"
  }, 
  {        
   "name": "Insidious: The Last Key", 
@@ -309,26 +309,26 @@
            "trailer": "acQyrwQyCOk",
            "year": "2018"
            }, 
-           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e5f84823a736626cec99acf_hbovodhd/dash0/MYS_index.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/47f6e417-b851-5c9a-acb0-169c53cf9c57/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "0657b57d1cc25d42a06d90daad408ef3:5f93c0eb1ea430bc353e267d666056e1"
+           "drmkey": "fb68af4c3bbacb0d962b36d6c3de3710:e2e1e468c798b1be1c796ea3bfb6ac4b"
  }, 
  {        
-  "name": "Sting", 
-  "category": "Horror",
+  "name": "Joker Folie A Deux", 
+  "category": "Suspen",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BOWU1NzZiMWQtOWIzNi00OWQ2LThjMjctMGQ4OTMxZTQwOGY3XkEyXkFqcGc@._V1_FMjpg_UX750_CR0,1,600,900_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BOWU1NzZiMWQtOWIzNi00OWQ2LThjMjctMGQ4OTMxZTQwOGY3XkEyXkFqcGc@._V1_FMjpg_UX750_CR0,1,600,900_.jpg", 
-           "plot": "Charlotte yang berusia 12 tahun dan suka memberontak menemui seekor labah-labah kecil di bangunan pangsapurinya yang usang. Tanpa disedari oleh ibu bapanya, dia menyimpannya sebagai haiwan peliharaan, namun tidak lama kemudian ia mula membesar dengan cepat dan sentiasa inginkan darah. Apabila jiran-jirannya mulai hilang, Charlotte dan keluarganya mendapati diri mereka terpaksa berjuang melawan makhluk yang ganas dan menyukai daging manusia.", 
-           "backdrop": "https://m.media-amazon.com/images/M/MV5BOWU1NzZiMWQtOWIzNi00OWQ2LThjMjctMGQ4OTMxZTQwOGY3XkEyXkFqcGc@._V1_FMjpg_UX1920_CR0,1050,1920,1080_.jpg", 
-           "director": ["Kiah Roache Turner"], 
-           "cast": ["Alyla Browne,  Ryan Corr,  Noni Hazlehurst"],
-           "trailer": "JMNOaJOWICo",
+           "plot": "Arthur Fleck dimasukkan ke Hospital Arkham dan sedang menunggu perbicaraan atas jenayahnya sebagai Joker. Semasa bergelut dengan dwi identitinya, Arthur bukan sahaja menemui cinta sejati, Harley Quinn, malah mendapati muzik sentiasa ada dalam dirinya.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQFFE_IVP_LAND_917x516_80672_20241216_111110.jpg", 
+           "director": ["Todd Phillips"], 
+           "cast": ["Joaquin Phoenix,Lady Gaga,Zazie Beetz"],
+           "trailer": "fiqqAI0e4Nc",
            "year": "2024"
            }, 
-           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/528cb906-115e-5fe6-a295-865c4a7b8990/default_primary.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/0b294f3f-ea9f-5472-b2f3-c1c7c937c935/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "30cc8f5f5b116b2f88b2211bd2f30910:1e1aed2cbbabdbb5a6aa890b6fd8319c"
+           "drmkey": "2f083dfaa04eb56d3a7829d5bea9c610:6c7329d2b098786b94937b9a4da3f586"
  }, 
  {        
   "name": "Joker", 
@@ -343,9 +343,9 @@
            "trailer": "zAGVQLHvwOY",
            "year": "2019"
            }, 
-           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1e65956d048943f75c09e2_hbovodhd/dash0/MYS_index.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/de7a81ba-72bd-5be8-91f2-ffe1e17d96dd/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": "5566a742312752b2ab605777a3bb27bc:5419f52647b2a8403b17587f1fbe994a"
+           "drmkey": "ed30263b6c4713975dc94131467f5b10:7a49449febb3a181e0a114e546e5c972"
  }, 
   {        
   "name": "Telekinesis ", 
