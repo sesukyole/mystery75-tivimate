@@ -1,7 +1,7 @@
 [ 
  {
   "background-image": {
-                        "background-image": "https://t3.ftcdn.net/jpg/05/12/29/58/360_F_512295863_zz0dU3KROC8Ygbo9elHKySX6tXbiOYVl.jpg"
+                        "backdrop": "https://t3.ftcdn.net/jpg/05/12/29/58/360_F_512295863_zz0dU3KROC8Ygbo9elHKySX6tXbiOYVl.jpg"
                       }
  },                       
  {        
