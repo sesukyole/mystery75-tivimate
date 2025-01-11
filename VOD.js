@@ -3,10 +3,10 @@
   "name": "16 Puasa", 
   "category": "Comedy",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
            "plot": "Kisah sekumpulan kawan baik di sebuah kampung yang ponteng puasa. Mereka menyembunyikan aktiviti mereka daripada pengetahuan isteri masing-masing. Mereka juga menetapkan jadual siapa yang akan membeli makanan di pekan dan kemudian makan di tempat-tempat terlindung. Berjayakah mereka berterusan sebegitu sepanjang bulan Ramadan?.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_IVP_LAND_917x516_2024221_204310.jpg", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/IDMVZ_IVP_LAND_917x516.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
            "country": [ "Malaysia" ],
@@ -21,10 +21,10 @@
   "name": "17 Puasa", 
   "category": "Comedy",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
            "plot": "Sebuah kisah komedi tentang enam orang sahabat yang tidak henti-henti menghadapi kesukaran berpuasa sepanjang Ramadan. Apabila takdir mempertemukan mereka, masalah mereka berlipat ganda.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_IVP_LAND_917x516_378AF_20241130_41528.jpg", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/IVIHW_IVP_LAND_917x516.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
            "trailer": "e9dWysgWKNU",
@@ -72,8 +72,8 @@
   "name": "Lampir", 
   "category": "Horror",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BY2IyNmQ0ZmEtNDFlNy00NmQ1LTlmZjQtZWJhOTdmZDQzYzFiXkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BY2IyNmQ0ZmEtNDFlNy00NmQ1LTlmZjQtZWJhOTdmZDQzYzFiXkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BY2IyNmQ0ZmEtNDFlNy00NmQ1LTlmZjQtZWJhOTdmZDQzYzFiXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BY2IyNmQ0ZmEtNDFlNy00NmQ1LTlmZjQtZWJhOTdmZDQzYzFiXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
            "plot": "Wendy dan Angga tengah sibuk mempersiapkan pernikahan mereka yang akan datang. Memutuskan untuk membuat kenangan indah sebelum hari besar mereka, mereka memilih sebuah vila megah bergaya vintage sebagai lokasi pemotretan mereka. Namun, kebahagiaan mereka seketika hilang ketika mereka mengetahui bahwa vila yang mereka tempati merupakan tempat keramat yang dikenal sebagai tempat persemayaman Mak Lampir, seorang makhluk gaib yang konon berniat untuk mendapatkan keabadian dan bernafsu menjadi manusia tercantik dengan cara yang mengerikan. Dalam upaya mereka untuk keluar dari vila angker tersebut, mereka dihadapkan dengan berbagai rintangan dan bahaya yang tidak terduga.", 
            "backdrop": "https://cdns.klimg.com/resized/1200x600/p/headline/film-horor-lampir-segera-rilis-di-biosk-9a84a3.jpg", 
            "director": ["Kenny Gulardi"], 
@@ -89,9 +89,9 @@
   "category": "Action",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_QL100_UX600_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_QL100_UX500_.jpg", 
            "plot": "Ketika perang antara Vampire dan Lycan terus marak, Selene, bekas ahli Death Dealers (unit pasukan khas vampire elit yang memburu werewolf) dan Michael, kacukan werewolf, bekerjasama sebagai usaha untuk merungkai rahsia-rahsia keturunan masing-masing.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCSVB_IVP_LAND_586x330_2024731_11341.jpg", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/JCSVB_IVP_LAND_917x516.jpg", 
            "director": ["Len Wiseman"], 
            "cast": ["Kate Beckinsale,Scott Speedman"],
            "year": "2006"
@@ -107,7 +107,7 @@
            "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_QL100_UX500_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_QL100_UX500_.jpg", 
            "plot": "Filem ini menjelaskan asal-usul permusuhan antara Vampire dan Lycan. Dibantu oleh kekasih gelapnya, Sonja, Lucian yang berani itu mengetuai Lycan dalam pertempuran menentang raja kejam Vampire, Victor. Berazam untuk menghentikan perhambaan raja itu terhadap puaknya, Lucian berdepan dengan tentera Death Dealer demi untuk mencapai kemerdekaan puak Lycan.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IAYZQ_IVP_LAND_586x330_2024731_103249.jpg", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/IAYZQ_IVP_LAND_917x516.jpg", 
            "director": ["Patrick Tatopoulos"], 
            "cast": ["Rhona Mitra,Michael Sheen"],
            "year": "2009"
@@ -139,7 +139,7 @@
            "poster": "https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_QL100_UX500_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_QL100_UX500_.jpg", 
            "plot": "Selena dan Eve berpisah demi untuk melindungi Eve dari puak Lycan dan Vampire yang sedang memburu Selene. Seorang ketua Lycan baru, Marius, mengumpulkan tenteranya dan menyerang Eastern Coven. Selene telah direkrut dan kemudian dikhianati oleh Semira di Eastern Coven. Dia kemudian mengembara ke Nordic Coven untuk menerima kuasa yang diperlukannya untuk menamatkan perang antara Vampire dan Lycan.", 
-           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IAYYZ_IVP_LAND_917x516_2024731_113437.jpg", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/IAYYZ_IVP_LAND_917x516.jpg", 
            "director": ["Anna Foerster"], 
            "cast": ["Kate Beckinsale,Theo James"],
            "year": "2016"
