@@ -1014,6 +1014,40 @@
            "drm": "clearkey", 
            "drmkey": "1f9138b3c7db01e8cc21c6e3c53ce310:bd31cff6eadf38e33a8e91468d5d75cb"
  },
+ {        
+  "name": "Shrek the Third", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_QL100_UX500_.jpg", 
+           "plot": "Apabila Shrek berkahwin dengan Fiona, tidak terlintas di fikirannya untuk menjadi pewaris Raja. Namun apabila bapa mertuanya, Raja Harold jatuh sakit, perkara tersebut yang terpaksa dihadapinya. Kecuali Shrek (dengan bantuan para sahabat yang dipercayainya iaitu Donkey dan Puss in Boots) dapat mencari Raja yang sesuai untuk Far Far Away, dia mungkin terpaksa memikul tanggungjawab tersebut. Calon yang paling sesuai, sepupu Fiona iaitu Artie, yang kurang berjaya dari sekolah tinggi Medieval, menjadi tentangan yang lebih hebat daripada yang dijangkakan.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/JKHCH_IVP_LAND_917x516.jpg", 
+           "director": ["Chris Miller"], 
+           "cast": ["Mike Myers","Cameron Diaz"],
+           "trailer": "_MoIr7811Bs",
+           "year": "2007"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/244151e6-b929-5cc9-9b84-af1678c1c510/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "5f705ace410abeff6feb6aa8e41aeb10:3be9535f7a552076348f52b16d4ff192"
+ },
+ {        
+  "name": "Shrek Forever After", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_QL100_UX500_.jpg", 
+           "plot": "Setelah sekian lama menyesuaikan diri dengan perkahwinan dan selalu di rumah, Shrek mulai merindui zaman ketika dirinya umpama raksasa sebenar. Akibat tertipu dengan Rumpelstiltskin untuk menandatangani kontrak, dia mendapati dirinya berada di dalam versi berbeza Far Far Away, di mana raksasa diburu, Rumpelstiltskin memerintah, dan dirinya serta Fiona tidak pernah bertemu. Shrek perlu mencari jalan keluar daripada perjanjian kontrak tersebut untuk mengembalikan dunianya yang sebenar dan mendapatkan semula cinta sejatinya.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/JKHCF_IVP_LAND_917x516.jpg", 
+           "director": ["Mike Mitchell"], 
+           "cast": ["Mike Myers","Cameron Diaz"],
+           "trailer": "F7YoIHwVSmE",
+           "year": "2010"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8b88719f-462f-5107-8cf9-e3cd3fd9937c/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "b365db3097ed0f5ef60a5e4b60822810:d99ec3eb2c85e0862ce7a89a83717777"
+ },
   {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
