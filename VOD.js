@@ -980,6 +980,40 @@
            "drm": "clearkey", 
            "drmkey": "9fba9a6661cff8fb5207230e493a3c10:fdf91e0152a2366bf576c03d72f8f3f8"
  },
+ {        
+  "name": "Hantu Kak Limah Balik Rumah", 
+  "category": "Comedy",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZjFkZGM5NTYtYTJlMS00ZjBkLTk0MmYtZjU3NzZjNWMxMzg2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZjFkZGM5NTYtYTJlMS00ZjBkLTk0MmYtZjU3NzZjNWMxMzg2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Husin telah lama bekerja di Singapura dan mengambil keputusan untuk balik ke kampungnya, Kampung Pisang. Sebaik saja dia tiba di sana, Husin mendapati jirannya, Kak Limah berkelakuan aneh, tidak bercakap mahupun tidur. Dia kemudiannya memberitahu pelanggan kedai kopi Pak Munawer kemungkinan Kak Limah adalah hantu. Pak Abu memutuskan yang mereka harus menyiasat lebih lanjut lagi. Apabila mereka pergi ke rumah Kak Limah, mereka mendapati mayatnya telah menjadi reput.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/GFGQP_IVP_LAND_917x516.jpg", 
+           "director": ["Mamat Khalid","Zainir Aminullah"], 
+           "cast": ["Awie","Zami Ismail","Johan Raja Lawak"],
+           "trailer": "J5N_dUvpEa8",
+           "year": "2010"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a4fb3318-f5ab-5d30-98be-d8853ad0bad0/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "2548528e14e574cbf9803261f2b08210:4d0454377536c3cb6736c0cbc136fa13"
+ },
+ {        
+  "name": "The Three Musketeers", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTM3OTc2OTM2OF5BMl5BanBnXkFtZTcwMDM1MjU1NQ@@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTM3OTc2OTM2OF5BMl5BanBnXkFtZTcwMDM1MjU1NQ@@._V1_QL100_UX500_.jpg", 
+           "plot": "The young D'Artagnan, along with three former legendary but now down-on-their-luck Musketeers; unite and defeat a beautiful double agent and her villainous employer from seizing the French throne", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KOTRL_IVP_LAND_917x516.jpg", 
+           "director": ["Paul W.S. Anderson"], 
+           "cast": ["Logan Lerman","Ray Stevenson"],
+           "trailer": "TYic5JxgTMc",
+           "year": "2011"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/02e39efd-9c39-5628-a601-8dbf622df84c/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "1f9138b3c7db01e8cc21c6e3c53ce310:bd31cff6eadf38e33a8e91468d5d75cb"
+ },
   {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
