@@ -1101,7 +1101,7 @@
  },
  {        
   "name": "IF", 
-  "category": "KIds",
+  "category": "Kids",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BYjFiY2U2NjUtMWIxMy00NjJkLWI3OTItYzM3MzBlZDkyMDNkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BYjFiY2U2NjUtMWIxMy00NjJkLWI3OTItYzM3MzBlZDkyMDNkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
