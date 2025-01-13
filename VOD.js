@@ -1048,6 +1048,176 @@
            "drm": "clearkey", 
            "drmkey": "b365db3097ed0f5ef60a5e4b60822810:d99ec3eb2c85e0862ce7a89a83717777"
  },
+ {        
+  "name": "Afraid", 
+  "category": "Sci-Fi",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYjk2YjRhMGUtOGVjOC00ZTA0LTlhYzUtY2Y5OWZhYzQ0NmJkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYjk2YjRhMGUtOGVjOC00ZTA0LTlhYzUtY2Y5OWZhYzQ0NmJkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Kehidupan Curtis dan keluarganya berubah sama sekali apabila mereka dipilih untuk menguji alat kediaman baru yang canggih iaitu pembantu keluarga digital dipanggil AIA. Menggunakan rumah bijak ke tahap seterusnya, sebaik saja unit dan semua penderia serta kamera dipasang dalam rumah mereka, ternyata AIA melakukan semuanya. Dia melihat perangai keluarga berubah dan mula menjangka keperluan mereka. Dan dia tidak boleh memastikan apa-apa dan tiada siapa boleh menghalang keluarga nya.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPBXJ_IVP_LAND_917x516.jpg", 
+           "director": ["Chris Weitz"], 
+           "cast": ["John Cho","Katherine Waterston","Greg Hill"],
+           "trailer": "LE5QzD_qtxs",
+           "year": "2024"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1f1b05a8-801d-5d7d-b0ea-83d90ed89bf4/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "c5743aab788cb3936c7df1936b0bb210:02ca79aa4750f40de15e3a3301e14fd7"
+ },
+ {        
+  "name": "Haenseomgaijeu | Handsome Guys", 
+  "category": "Comedy",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYWU1YWMxN2UtMTY2OS00ZTc5LTg4ZjYtZjE3ZTIyZGM1YTk5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMDU2MWYxZDgtNGIwMi00N2YwLTg0ZTEtZjliMzA1ZmE2YjZiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Jae-pil (LEE Sung-min) dan Sang-koo (LEE Hee-joon) bermimpi tinggal di pedesaan dan akhirnya impian mereka menjadi kenyataan. Pada hari pertama pindah ke rumah baru mereka di pedesaan, sebuah rahasia yang tersegel di ruang bawah tanah mereka menyeruak.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KOYXV_IVP_LAND_917x516.jpg", 
+           "director": ["Nam Dong-hyup"], 
+           "cast": ["Kim Dong-hoon","Jang Dong-joo","Lee Hee-joon"],
+           "trailer": "QmEwuffc5tA",
+           "year": "2024"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f4d8afa4-7e17-5edd-bc65-894310de04f3/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "42a2d3fc7e909f9ff12bbbc3bec5f110:72288380fc78de3f36b31541cc43520d"
+ },
+ {        
+  "name": "A Quiet Place: Day One", 
+  "category": "Sci-Fi",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMDdjZTljZWMtMDIwNi00MTA5LTkxZmItNmY0NDA3ZDM0N2M2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMDdjZTljZWMtMDIwNi00MTA5LTkxZmItNmY0NDA3ZDM0N2M2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Tatkala Bandaraya New York diserang makhluk asing, seorang wanita dan mangsa-mangsa yang terselamat cuba mencari jalan untuk selamat. Mereka kemudian mendapat tahu bahwa mereka harus benar-benar mendiamkan diri kerana makhluk misteri itu tertarik pada bunyi biarpun bunyi itu amat perlahan sekali.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KNRAM_IVP_LAND_917x516.jpg", 
+           "director": ["Michael Sarnoski"], 
+           "cast": ["Lupita Nyong'o","Joseph Quinn","Alex Wolff"],
+           "trailer": "YPY7J-flzE8",
+           "year": "2024"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0a5d9373-340a-5783-be8e-c00bb8ab2196/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "e00d7d226f27208121479385a4a20b10:feec00b0bc5ef867da6452d296d904de"
+ },
+ {        
+  "name": "IF", 
+  "category": "KIds",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYjFiY2U2NjUtMWIxMy00NjJkLWI3OTItYzM3MzBlZDkyMDNkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYjFiY2U2NjUtMWIxMy00NjJkLWI3OTItYzM3MzBlZDkyMDNkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Setelah pengalaman yang trauma, seorang budak perempuan mula melihat masa silam setiap orang dengan kawan khayalan mereka. Tidak sanggup melihat kawan khayalan hilang begitu sahaja selepas dilupakan setiap orang, dia memulakan pengembaraan sakti untuk menghubungkan 'Ifs' dengan kawan-kawan mereka.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KMTGX_IVP_LAND_917x516.jpg", 
+           "director": ["John Krasinski"], 
+           "cast": ["Cailey Fleming","Ryan Reynolds"],
+           "trailer": "mb2187ZQtBE",
+           "year": "2024"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7f8a84a0-19ab-55dc-83ad-4454cfa8ef41/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "ab115ed13e9bddc2299a4eda5cd73410:a07f55bd1bdc2ef7e921d9597677e7c4"
+ },
+ {        
+  "name": "Beetlejuice Beetlejuice", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYmRlYzE3ZTYtNjIyZi00MWYyLWEzZDItOWI5NzM1Yjc0NmI5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYmRlYzE3ZTYtNjIyZi00MWYyLWEzZDItOWI5NzM1Yjc0NmI5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Beetlejuice kembali lagi! Selepas berlaku tragedi dalam keluarga tanpa diduga, tiga genersai keluarga Deetz pulang ke rumah di Sungai Winter. Masih dihantui Beetlejuice, hidup Lydia menjadi tak menentu apabila anak gadisnya yang suka memberontak, Astrid menemui hantu misteri bandar di loteng. Kini menanti masa untuk seseorang menyebut nama Beetlejuice tiga kali dan hantu nakal itu kembali mengganggu.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KLJSZ_IVP_LAND_917x516.jpg", 
+           "director": ["Tim Burton"], 
+           "cast": ["Michael Keaton","Winona Ryder","Monica Bellucci","Jenna Ortega"],
+           "trailer": "CoZqL9N6Rx4",
+           "year": "2024"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b48b9365-b71f-5e0c-93eb-1f2227e3f68a/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "a5b607bdb3da585f0564f9ec6491d510:ea77dc9e6d06ca58d5e424794e6829f3"
+ },
+ {        
+  "name": "Monkey Man", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BOTJlNzY5OTAtNjIxNi00MTUxLWJkZjEtZDcxYTg2YWY0MjZkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BOTJlNzY5OTAtNjIxNi00MTUxLWJkZjEtZDcxYTg2YWY0MjZkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Seorang pemuda tanpa nama melancarkan kempen membalas dendam terhadap pemimpin korup yang membunuh ibunya dan terus menjadi mangsa secara sistematik golongan miskin dan tidak berkuasa.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KMUFP_IVP_LAND_917x516.jpg", 
+           "director": ["Dev Patel"], 
+           "cast": ["Dev Patel","Sharlto Copley","Pitobash"],
+           "trailer": "g8zxiB5Qhsc",
+           "year": "2024"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/98cc9ade-483f-5056-b620-5d039599aa5d/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "e5b9235ef525feb7035cace947fc0310:51a64000d9d9600d5845399427f7f45b"
+ },
+ {        
+  "name": "Bad Boys", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMWNjZWEwNDMtMWE1ZC00MTgwLTk2YzAtYmE0NTkwOWVhMDI0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMWNjZWEwNDMtMWE1ZC00MTgwLTk2YzAtYmE0NTkwOWVhMDI0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Marcus Burnett merupakan lelaki yang mengikut telunjuk isterinya manakala Mike Lorry, seorang yang bebas dan tidak terikat dengan wanita. Kedua-dua mereka adalah polis dan diberi masa 72 jam untuk mendapat kembali konsainan dadah yang dicuri dari balai polis mereka. Keadaan menjadi bertambah rumit apabila mereka ingin mendapat pertolongan dari satu-satunya saksi pembunuhan, mereka terpaksa berpura-pura terhadap satu sama lain.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/IKEUC_IVP_LAND_917x516.jpg", 
+           "director": ["Michael Bay"], 
+           "cast": ["Will Smith","Martin Lawrence"],
+           "trailer": "OLYENHi4IIc",
+           "year": "1995"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/eb5d70e7-1ef8-5155-87bf-582fee57f73a/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "0855fca57a6543cd8c755b60c57c0610:328c1965d027e94c73793fb3f58873af"
+ },
+ {
+  "name": "Bad Boys II", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTVkM2YxODItOGNlMy00NWExLWI2NTgtODEzMmM5NThiM2E2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTVkM2YxODItOGNlMy00NWExLWI2NTgtODEzMmM5NThiM2E2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Polis narkotik, Mike Lowrey dan Marcus Burnett mengetuai satu pasukan menyiasat kemasukan ekstasi di Miami. Pencarian mereka menjurus kepada raja dadah yang merbahaya, Johnny Tapia yang merancang untuk mengawal pengedaran dadah di bandar telah menyebabkan perang bawah tanah.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/IKETM_IVP_LAND_917x516.jpg", 
+           "director": ["Michael Bay"], 
+           "cast": ["Will Smith","Martin Lawrence"],
+           "trailer": "MsGSpfK6H4A",
+           "year": "2003"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/05090be6-37ff-5e21-96cf-286b5004c248/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "53d17c3ecc5226a7f3c74e5bef939a10:2f915d3ea799231570b63a2495e503fb"
+ },
+ {
+  "name": "Bad Boys for Life", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYzM3ZTFmMTUtODAxNy00N2IxLWI2MGMtYTdmMDFhNmZkMDI3XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYzM3ZTFmMTUtODAxNy00N2IxLWI2MGMtYTdmMDFhNmZkMDI3XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Marcus dan Mike terpaksa berdepan ancaman baru, pertukaran karier dan krisis pertengahan umur apabila mereka menyertai pasukan elit yang baru ditubuhkan, AMMO dari jabatan polis Miami untuk menumpaskan Armando Armas, ketua kartel dadah Miami yang kejam.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/JDDKR_IVP_LAND_917x516.jpg", 
+           "director": ["Adil El Arbi","Bilall Fallah"], 
+           "cast": ["Will Smith","Martin Lawrence","Vanessa Hudgens"],
+           "trailer": "jKCj3XuPG8M",
+           "year": "2020"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fb7c3809-99cd-573e-9bed-84e98e6a2c71/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "812ed35dbb414e9e469643bb14818a10:d0cf714c88b9ece3b9a7768e78797be9"
+ },
+ {
+  "name": "Bad Boys: Ride or Die", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZWNjZWUwNDgtYTM4ZC00Zjk0LTg3ZWItNGEyZmVkZTIxZDk0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZWNjZWUwNDgtYTM4ZC00Zjk0LTg3ZWItNGEyZmVkZTIxZDk0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Mereka kembali dengan gabungan ikonik aksi yang mendebarkan dan komedi yang menghiburkan. Setelah ketua polis mereka yang telah meninggal dunia dikaitkan dengan kartel dadah, polis-polis Miami yang bijak, Mike Lowrey dan Marcus Burnett memulakan misi berbahaya untuk membersihkan nama beliau.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KNVLB_IVP_LAND_917x516.jpg", 
+           "director": ["Adil El Arbi","Bilall Fallah"], 
+           "cast": ["Will Smith","Martin Lawrence","Vanessa Hudgens"],
+           "trailer": "ZTQyMmz-cQE",
+           "year": "2024"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2813bed5-d159-50c9-9cc7-7668f24295b5/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "33cf4c54194b60161c6a12c617c12e10:6f7dfa2e800403a4527e26463c4b705a"
+ },
   {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
