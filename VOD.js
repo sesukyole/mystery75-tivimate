@@ -1218,6 +1218,23 @@
            "drm": "clearkey", 
            "drmkey": "33cf4c54194b60161c6a12c617c12e10:6f7dfa2e800403a4527e26463c4b705a"
  },
+ {
+  "name": "The Garfield", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYjY2NDZhN2EtZmYwNS00NDU2LThiODAtNmY4OWY2ODNmZWRmXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYjY2NDZhN2EtZmYwNS00NDU2LThiODAtNmY4OWY2ODNmZWRmXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Garfield tanpa diduga bertemu semula dengan bapanya yang telah lama hilang, seekor kucing jalanan yang agak selekeh bernama Vic. Dia dan rakan anjingnya Odie terpaksa meninggalkan kehidupan mereka yang selesa untuk menyertai satu rompakan berisiko bersama Vic.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KNNVU_IVP_LAND_917x516.jpg", 
+           "director": ["Mark Dindal"], 
+           "cast": ["Chris Pratt","Samuel L. Jackson","Hannah Waddingham"],
+           "trailer": "IeFWNtMo1Fs",
+           "year": "2024"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6b925e24-974f-574a-a798-07927003c9b7/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "4e6aae74347b1b8f8952822229f1a410:edc733dcb2aebd608d63c2e0a779719b"
+ },
   {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
