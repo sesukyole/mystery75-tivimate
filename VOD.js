@@ -1258,33 +1258,16 @@
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "plot": "Raikan empat dekad berdepan hantu Bersama Ghostbusters: Frozen Empire, dibintangi bersama Kumail Nanjiani dan Patton Oswalt yang bakal membawa anda melalui setiap aspek francais kegemaran ini. Saksikan juga kisah terbaru!", 
-           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KNQPH_IVP_LAND_917x516.jpg", 
-           "director": ["Gregg Temkin"], 
-           "cast": ["James Acaster","William Atherton","Dan Aykroyd"],
-           "trailer": "NJDl4a25ktA",
-           "year": "2016"
+           "plot": "Keluarga Spengler kembali semula ke rumah api Bandaraya New York yang ikonik di mana semuanya bermula. Penemuan artifak purba membebaskan tentera -tentera hantu yang menimbulkan kematian dingin ke atas bandaraya dan pasukan Ghostbuster. Baik yang baharu dan lama perlu menyertai pasukan untuk melindungi rumah mereka dan menyelamatkan dunia dari Zaman Ais kedua.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KMXJK_IVP_LAND_917x516.jpg", 
+           "director": ["Gil Kenan"], 
+           "cast": ["Paul Rudd","Carrie Coon","Bill Murray"],
+           "trailer": "HpOBXh02rVc",
+           "year": "2024"
             }, 
            "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/28e8a6fe-98c5-5f0c-a2ae-2e193f0142a0/default_primary.mpd ", 
            "drm": "clearkey", 
            "drmkey": "d818cd437470152ab1f1d4c58de0f410:cb6ae99436baef9195f8bed2376e3c2f"
- },
- {
-  "name": "Ghostbusters: Frozen Empire [Light 'Em Up: Ghostbusters Past, Present & Future]", 
-  "category": "Sci-Fi",
-  "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "plot": "Raikan empat dekad berdepan hantu Bersama Ghostbusters: Frozen Empire, dibintangi bersama Kumail Nanjiani dan Patton Oswalt yang bakal membawa anda melalui setiap aspek francais kegemaran ini. Saksikan juga kisah terbaru!", 
-           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KNQPH_IVP_LAND_917x516.jpg", 
-           "director": ["Gregg Temkin"], 
-           "cast": ["James Acaster","William Atherton","Dan Aykroyd"],
-           "trailer": "NJDl4a25ktA",
-           "year": "2024"
-            }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a426d2a7-65b6-5e2f-9717-87f5cb8a0e2a/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "b0879efb4e8cb2ff40e18b79c32af910:0a29312cd309fcdfd88382245e1d35e4"
  },
   {
     "name": "TWINKLING WATERMELON",
