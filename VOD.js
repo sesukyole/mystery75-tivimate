@@ -1235,6 +1235,40 @@
            "drm": "clearkey", 
            "drmkey": "4e6aae74347b1b8f8952822229f1a410:edc733dcb2aebd608d63c2e0a779719b"
  },
+ {
+  "name": "Furiosa: A Mad Max Saga", 
+  "category": "Sci-Fi",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Ketika dunia menuju kemusnahan, Furiosa dirampas dari Green Place of Many Mothers dan jatuh ke tangan Biker Horde yang hebat, diketuai oleh Warlord Dementus. Melalui Wasteland, mereka menemui Citadel, yang dipimpin oleh Immortan Joe.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KLEJU_IVP_LAND_917x516.jpg", 
+           "director": ["George Miller"], 
+           "cast": ["Anya Taylor-Joy","Chris Hemsworth","Alyla Browne"],
+           "trailer": "FVswuip0-co",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/20c8f3b1-9f05-5cb6-bd94-e20ba5ef4de0/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "034d8effab9c0662706604b6af831710:0d286f70be2a088a97a162d2db7ab43d"
+ },
+ {
+  "name": "Ghostbusters: Frozen Empire [Light 'Em Up: Ghostbusters Past, Present & Future]", 
+  "category": "Sci-Fi",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Raikan empat dekad berdepan hantu Bersama Ghostbusters: Frozen Empire, dibintangi bersama Kumail Nanjiani dan Patton Oswalt yang bakal membawa anda melalui setiap aspek francais kegemaran ini. Saksikan juga kisah terbaru!", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KNQPH_IVP_LAND_917x516.jpg", 
+           "director": ["Gregg Temkin"], 
+           "cast": ["James Acaster","William Atherton","Dan Aykroyd"],
+           "trailer": "NJDl4a25ktA",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a426d2a7-65b6-5e2f-9717-87f5cb8a0e2a/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "034d8effab9c0662706604b6af831710:0d286f70be2a088a97a162d2db7ab43d"
+ },
   {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
