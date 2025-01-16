@@ -1167,7 +1167,7 @@
            "drmkey": "0855fca57a6543cd8c755b60c57c0610:328c1965d027e94c73793fb3f58873af"
  },
  {
-  "name": "Bad Boys II", 
+  "name": "Bad Boys 2", 
   "category": "Action",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMTVkM2YxODItOGNlMy00NWExLWI2NTgtODEzMmM5NThiM2E2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
@@ -1255,13 +1255,47 @@
   "name": "Ghostbusters", 
   "category": "Sci-Fi",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "plot": "Keluarga Spengler kembali semula ke rumah api Bandaraya New York yang ikonik di mana semuanya bermula. Penemuan artifak purba membebaskan tentera -tentera hantu yang menimbulkan kematian dingin ke atas bandaraya dan pasukan Ghostbuster. Baik yang baharu dan lama perlu menyertai pasukan untuk melindungi rumah mereka dan menyelamatkan dunia dari Zaman Ais kedua.", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "After the members of a team of scientists lose their cushy positions at a university in New York City, they decide to become 'ghostbusters' to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.", 
+           "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVP_25634_IVP_LAND_917x516_25634_2025115_211653.jpg", 
+           "director": ["Ivan Reitman"], 
+           "cast": ["Bill Murray,Dan Aykroyd,Sigourney Weaver"],
+           "trailer": "wQAljlSmjC8",
+           "year": "1984"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1d9628be-0e68-5114-86c0-4f23fdfd7904/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "b94ca18f787678be765bbe7fd8e5ec10:e5a86e6b093536508ce993818f9ff130"
+ },
+ {
+  "name": "Ghostbusters 2", 
+  "category": "Sci-Fi",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZThjODU5NTMtMWJiNC00NjNkLWJmM2YtM2EzNDg3NjMxYjU5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZThjODU5NTMtMWJiNC00NjNkLWJmM2YtM2EzNDg3NjMxYjU5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Setelah menyelamatkan Bandar New York daripada satu serangan hantu, Ghostbusters dibubarkan kerana memusnahkan bandar ketika pertempuran. Tetapi apabila ahli mereka, Peter Venkman mendapat tahu yang roh-roh menyasar anak lelakinya, Ghostbusters melancarkan satu misi memburu hantu jahat. Pencarian itu menjadi tidak keruan, lalu mereka dihadapkan ke mahkamah. Tetapi apabila hantu-hantu itu berpaling ke hakim, hakim itu lalu mengeluarkan satu arahan membenarkan Ghostbusters untuk kembali bekerja.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/HTCCR_IVP_LAND_917x516.jpg", 
+           "director": ["Ivan Reitman"], 
+           "cast": ["Bill Murray,Dan Aykroyd,Sigourney Weaver"],
+           "trailer": "weIqC-oUGmA",
+           "year": "1989"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/90cfe34b-b929-56e9-9252-5d2cf0dcf9a9/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "cb03bc7f2255980ac8ca220506695610:03c43574b06133a21752e73473ec59e1"
+ },
+ {
+  "name": "Ghostbusters 3: Answer The Call", 
+  "category": "Sci-Fi",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZjNhMzU5MjgtY2VhMC00NzZmLTk1YTEtMDc5OGU1OWJiMTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZjNhMzU5MjgtY2VhMC00NzZmLTk1YTEtMDc5OGU1OWJiMTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Dua penyelidik paranormal bersatu tenaga dengan seorang jurutera nuklear dan seorang atendan laluan bawah tanah untuk menyelamatkan Manhattan daripada serbuan mengejut roh-roh, hantu-hantu dan selut yang menyelubungi bandar itu. Akhirnya, mereka berdepan dengan satu entiti jahat yang mempunyai kebolehan untuk mengawal manusia.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/HWCFC_IVP_LAND_917x516.jpg", 
-           "director": ["Gil Kenan"], 
-           "cast": ["Paul Rudd","Carrie Coon","Bill Murray"],
-           "trailer": "HpOBXh02rVc",
+           "director": ["Paul Feig"], 
+           "cast": ["Melissa McCarthy,Kristen Wiig"],
+           "trailer": "w3ugHP-yZXw",
            "year": "2016"
             }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bce11521-2ff4-5b0c-96a9-031c7ff9041e/default_primary.mpd", 
@@ -1269,7 +1303,7 @@
            "drmkey": "2282b7ff622058420662d395f2a24410:58acdffd6c6541f3b0075270c873f325"
  },
  {
-  "name": "Ghostbusters: Frozen Empire", 
+  "name": "Ghostbusters 5: Frozen Empire", 
   "category": "Sci-Fi",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
@@ -1284,6 +1318,23 @@
            "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/28e8a6fe-98c5-5f0c-a2ae-2e193f0142a0/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "d818cd437470152ab1f1d4c58de0f410:cb6ae99436baef9195f8bed2376e3c2f"
+ },
+ {
+  "name": "Geng Jin", 
+  "category": "Comedy",
+  "info": { 
+           "poster": "https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KKWRI_P_IVP_PORT_390x585_7F5BD_20241120_191151.jpg", 
+           "bg": "https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KKWRI_P_IVP_PORT_390x585_7F5BD_20241120_191151.jpg", 
+           "plot": "Dato Azmi dan keluarganya berpindah ke rumah agam lama peninggalan arwah bapanya yang terbiar. Rumah tersebut dihuni dua geng jin yang saling bermusuhan, iaitu Geng Busut dan Geng Gayut. Kedua-dua geng jin ini sering bertempur untuk merebut rumah tersebut, dan mereka menakutkan orang kampung yang cuba mendekatinya. Namun, kehadiran Dato Azmi dan keluarganya mencetuskan pelbagai kejadian aneh dan lucu apabila jin-jin tersebut cuba mengusir mereka.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KKWRI_IVP_LAND_917x516.jpg", 
+           "director": ["Pessha Mohamed"], 
+           "cast": ["Atu Zero,Sharifah Sakinah,Yoe Parey"],
+           "trailer": "m6S57yqYTv4",
+           "year": "2024"
+            }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/85501dcc-4012-5a6e-9148-fe88cb7ae190/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "2047d7067eac381a0b297153a9680c10:e8a1348af556a2438b27d3f0dcf142b2"
  },
   {
     "name": "TWINKLING WATERMELON",
