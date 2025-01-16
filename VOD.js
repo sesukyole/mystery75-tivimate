@@ -1336,6 +1336,91 @@
            "drm": "clearkey", 
            "drmkey": "2047d7067eac381a0b297153a9680c10:e8a1348af556a2438b27d3f0dcf142b2"
  },
+ {
+  "name": "Godzilla", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BODE2NTdmMmYtY2U1OS00MjExLWIwNjQtYjQ5NTA0ZDZmZjZiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BODE2NTdmMmYtY2U1OS00MjExLWIwNjQtYjQ5NTA0ZDZmZjZiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Ford Brady, seorang pakar bom tentera laut baru saja bertemu semula keluarganya di San Francisco, apabila dia dipaksa untuk pergi ke Jepun bagi membantu bapanya yang lama terpisah, Joe. Namun, kemudian kedua-dua mereka terbabit dalam kisis yang makin buruk apabila Godzila, Raja Raksasa muncul dari lautan untuk memerangi musuh yang berniat jahat dan mengancam kehidupan manusia. Makhluk itu menyebabkan kemusnahan besar-besaran selepas kejadian itu, apabila mereka menuju ke medan perang terakhir: San Francisco.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/JNYYG_IVP_LAND_917x516.jpg", 
+           "director": ["Gareth Edwards"], 
+           "cast": ["Aaron Taylor-Johnson,Elizabeth Olsen,Bryan Cranston"],
+           "trailer": "vIu85WQTPRc",
+           "year": "2014"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ab257805-b35c-58dc-a58f-4a7826409af2/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "8ba1debae616f2e4a2ce34e5aa8ae910:9cfb31ead39a8c6f5151f7689621b8e4"
+ },
+ {
+  "name": "Godzilla: King of the Monsters", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMDVhMjk2OGUtYzYxNS00NzBjLTk5YTItYzI0ZjgzNjY1NmI0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMDVhMjk2OGUtYzYxNS00NzBjLTk5YTItYzI0ZjgzNjY1NmI0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Ahli-ahli agensi kerajaan kripto-zoologi Monarch menghadapi spesis kuno lama yang dianggap sebagai mitos semata-mata, termasuk Godzilla ganas, yang bertarung dengan raksasa Mothra dan Rodan serta musuhnya yang paling ketat, Raja Ghidorah berkepala tiga.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/JJDSJ_IVP_LAND_917x516.jpg", 
+           "director": ["Michael Dougherty"], 
+           "cast": ["Kyle Chandler,Vera Farmiga,Millie Bobby Brown"],
+           "trailer": "QFxN2oDKk0E",
+           "year": "2019"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d5ff8dc8-fe56-50b2-bb9c-bcc14e9e3165/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "b5ad78cb627a8ea3f7c4376ae9a0a910:69d011d9e45517b81be32f5cd06d7ec1"
+ },
+ {
+  "name": "Godzilla Vs Kong", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjZlYjUwZjItZmQ1ZS00NDU2LWFhNWMtMGRmMmZiMzliY2NhXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjZlYjUwZjItZmQ1ZS00NDU2LWFhNWMtMGRmMmZiMzliY2NhXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Ketika manusia berjuang untuk masa depan mereka, makhluk yang amat besar, Godzila dan Kong bertarung antara satu sama lain. Misi Monarch atas muka bumi yang tidak dicartakan, membongkar bukti-bukti asal-usul kaum Titan dan konspirasi manusia mengancam untuk menghapuskan kewujudan Godzila dan Kong di bumi selama-lamanya.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/JSSMA_IVP_LAND_917x516.jpg", 
+           "director": ["Adam Wingard"], 
+           "cast": ["Alexander Skarsgard,Millie Bobby Brown,Rebecca Hall"],
+           "trailer": "odM92ap8_c0",
+           "year": "2021"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d5ff8dc8-fe56-50b2-bb9c-bcc14e9e3165/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "b5ad78cb627a8ea3f7c4376ae9a0a910:69d011d9e45517b81be32f5cd06d7ec1"
+ },
+ {
+  "name": "Godzilla X Kong: The New Empire", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Nikmati sekuel terbaharu selepas tiga tahun peristiwa Godzilla vs. Kong. Kong telah melebarkan wilayahnya di Hollow Earth selepas mengalahkan Mechagodzilla. Sementara itu di permukaan Bumi, Godzilla terus mengekalkan perjanjian antara manusia dan raksasa gergasi, yang dikenali sebagai 'Titans', membunuh Scylla di Rom dan seterusnya berehat di Colosseum.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/78B22_IVP_LAND_917x516.jpg", 
+           "director": ["Adam Wingard"], 
+           "cast": ["Rebecca Hall,Brian Tyree Henry,Dan Stevens"],
+           "trailer": "lV1OOlGwExM",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f68eead3-7900-5dd8-8990-eacc3545df88/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "319b72818e5bab7a754db7c451425a10:676ecd6239226626017367c017aab603"
+ },
+ {
+  "name": "Gladiator", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Pada tahun 180, kematian maharaja Marcus Aurelius menyebabkan Empayar Rom menjadi huru-hara. Maximus ialah salah seorang jeneral tentera Rom yang paling berkebolehan dan dipercayai serta penasihat utama kepada maharaja. Ketika anak lelaki Marcus yang licik Commodus naik takhta, Maximus akan dihukum bunuh. Dia melarikan diri, tetapi ditangkap oleh pedagang hamba. Menamakan semula orang Sepanyol dan terpaksa menjadi gladiator, Maximus mesti bertarung hingga mati dengan lelaki lain untuk hiburan penonton yang membayar.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/HTMVX_IVP_LAND_917x516.jpg", 
+           "director": ["Ridley Scott"], 
+           "cast": ["Russell Crowe,Joaquin Phoenix,Connie Nielsen"],
+           "trailer": "P5ieIbInFpg",
+           "year": "2000"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f7e2bf87-757f-5e59-86bb-e67af81ebe0c/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "afbd0716a80672df17ad90045d8e3610:c603d468f44864f695956c1134823e51"
+ },
   {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
