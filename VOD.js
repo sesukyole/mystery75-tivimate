@@ -1,7 +1,7 @@
 [ 
  {        
   "name": "16 Puasa", 
-  "category": "Citra",
+  "category": "Comedy",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
@@ -9,7 +9,6 @@
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/IDMVZ_IVP_LAND_917x516.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
-           "genre": ["Comedy"],
            "trailer": "nw2roBPsbyU",
            "year": "2017"
             }, 
@@ -19,7 +18,7 @@
  }, 
  {        
   "name": "17 Puasa", 
-  "category": "Warna",
+  "category": "Comedy",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
@@ -27,7 +26,6 @@
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/IVIHW_IVP_LAND_917x516.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
-           "genre": ["Comedy"],
            "trailer": "e9dWysgWKNU",
            "year": "2019"
            }, 
@@ -37,7 +35,7 @@
  }, 
  {        
   "name": "300", 
-  "category": "Hbo",
+  "category": "Action",
   "info": { 
            "poster": "https://dai3fd1oh325y.cloudfront.net/images/720p/017484X0-portrait.jpg", 
            "bg": "https://dai3fd1oh325y.cloudfront.net/images/720p/017484X0-portrait.jpg", 
@@ -45,7 +43,6 @@
            "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/017484X0-landscape.jpg", 
            "director": ["Zack Snyder"], 
            "cast": ["Gerard Butler","Lena Headey","David Wenham","Dominic West","Vincent Regan","Michael Fassbender","Tom Wisdom","Andrew Pleaviin","Andrew Tiernan","Rodrigo Santoro","Peter Mensah","Stephen Mchattie"],
-           "genre": ["Action"],
            "trailer": "UrIbxk7idYA",
            "year": "2007"
             }, 
@@ -1255,6 +1252,23 @@
            "drmkey": "034d8effab9c0662706604b6af831710:0d286f70be2a088a97a162d2db7ab43d"
  },
  {
+  "name": "Ghostbusters", 
+  "category": "Sci-Fi",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Keluarga Spengler kembali semula ke rumah api Bandaraya New York yang ikonik di mana semuanya bermula. Penemuan artifak purba membebaskan tentera -tentera hantu yang menimbulkan kematian dingin ke atas bandaraya dan pasukan Ghostbuster. Baik yang baharu dan lama perlu menyertai pasukan untuk melindungi rumah mereka dan menyelamatkan dunia dari Zaman Ais kedua.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/HWCFC_IVP_LAND_917x516.jpg", 
+           "director": ["Gil Kenan"], 
+           "cast": ["Paul Rudd","Carrie Coon","Bill Murray"],
+           "trailer": "HpOBXh02rVc",
+           "year": "2016"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bce11521-2ff4-5b0c-96a9-031c7ff9041e/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "2282b7ff622058420662d395f2a24410:58acdffd6c6541f3b0075270c873f325"
+ },
+ {
   "name": "Ghostbusters: Frozen Empire", 
   "category": "Sci-Fi",
   "info": { 
@@ -1267,7 +1281,7 @@
            "trailer": "HpOBXh02rVc",
            "year": "2024"
             }, 
-           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/28e8a6fe-98c5-5f0c-a2ae-2e193f0142a0/default_primary.mpd ", 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/28e8a6fe-98c5-5f0c-a2ae-2e193f0142a0/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "d818cd437470152ab1f1d4c58de0f410:cb6ae99436baef9195f8bed2376e3c2f"
  },
