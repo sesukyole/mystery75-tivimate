@@ -1,7 +1,7 @@
 [ 
  {        
   "name": "16 Puasa", 
-  "category": "Comedy",
+  "category": "Citra",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
@@ -9,7 +9,7 @@
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/IDMVZ_IVP_LAND_917x516.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
-           "country": [ "Malaysia" ],
+           "genre": ["Comedy"],
            "trailer": "nw2roBPsbyU",
            "year": "2017"
             }, 
@@ -19,7 +19,7 @@
  }, 
  {        
   "name": "17 Puasa", 
-  "category": "Comedy",
+  "category": "Warna",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
@@ -27,8 +27,9 @@
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/IVIHW_IVP_LAND_917x516.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
+           "genre": ["Comedy"],
            "trailer": "e9dWysgWKNU",
-           "year": "2017"
+           "year": "2019"
            }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c5dfdbee-1bfb-59dc-bc04-047e7da111ef/default_primary.mpd", 
            "drm": "clearkey", 
@@ -36,7 +37,7 @@
  }, 
  {        
   "name": "300", 
-  "category": "Action",
+  "category": "Hbo",
   "info": { 
            "poster": "https://dai3fd1oh325y.cloudfront.net/images/720p/017484X0-portrait.jpg", 
            "bg": "https://dai3fd1oh325y.cloudfront.net/images/720p/017484X0-portrait.jpg", 
@@ -44,6 +45,7 @@
            "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/017484X0-landscape.jpg", 
            "director": ["Zack Snyder"], 
            "cast": ["Gerard Butler","Lena Headey","David Wenham","Dominic West","Vincent Regan","Michael Fassbender","Tom Wisdom","Andrew Pleaviin","Andrew Tiernan","Rodrigo Santoro","Peter Mensah","Stephen Mchattie"],
+           "genre": ["Action"],
            "trailer": "UrIbxk7idYA",
            "year": "2007"
             }, 
