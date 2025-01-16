@@ -863,6 +863,7 @@
  {        
   "name": "12.12: The Day", 
   "category": "Action",
+  "category": "Drama",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMTZmMTMyMDMtNDA2Mi00ZjU5LTljMjYtYjg3NmVmMDQ5NmQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWZmYzI5OWMtZDg4Ny00ZThiLWFjYjQtNjQ1NzA1MWY1OTJiXkEyXkFqcGc@._V1_QL100_UX500.jpg", 
