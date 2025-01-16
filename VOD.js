@@ -1421,6 +1421,74 @@
            "drm": "clearkey", 
            "drmkey": "afbd0716a80672df17ad90045d8e3610:c603d468f44864f695956c1134823e51"
  },
+ {
+  "name": "Jumanji", 
+  "category": "Pengembaraan",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYTFkMjFmODgtYzRiZi00NmQwLTliZWMtMzRhMWQ5ZmY3ZDExXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYTFkMjFmODgtYzRiZi00NmQwLTliZWMtMzRhMWQ5ZmY3ZDExXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Dua kanak-kanak main satu permainan papan magik purba, lalu melepaskan lelaki yang terperangkap dalam papan permainan itu sejak berdekad dan bahaya hanya dapat dihentikan dengan menghabiskan permainan itu.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/255DD_IVP_LAND_917x516.jpg", 
+           "director": ["Joe Johnston"], 
+           "cast": ["Robin Williams,Kirsten Dunst,Bonnie Hunt"],
+           "trailer": "eTjDsENDZ6s",
+           "year": "1995"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/52f23844-6ae1-5a6e-86eb-0a943f611694/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "af31d9d7478e20882d57d21da9936810:6b79a343f44104f160d9c7f32f8cb6cd"
+ },
+ {
+  "name": "Jumanji: Welcome to the Jungle", 
+  "category": "Pengembaraan",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Bila empat remaja terjumpa konsol permainan video lama, mereka terus diradak ke persekitaran hutan permainan itu, ke dalam tubuh avatar masing-masing. Mereka mendapat tahu - kamu bukan bermain Jumanji, Jumanji yang mainkan kamu. Mereka harus mengharungi pengembaraan yang paling bahaya dalam hidup mereka, jika tidak mahu terperangkap dalam permainan itu untuk selamanya.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/IIRRU_IVP_LAND_917x516.jpg", 
+           "director": ["Jake Kasdan"], 
+           "cast": ["Dwayne Johnson,Kevin Hart,Jack Black"],
+           "trailer": "2QKg5SZ_35I",
+           "year": "2017"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f7867d5a-1b60-594a-a511-c6817afbcfda/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "b3fae5d59d061b16868580a92d00d110:80b1adc477213c78f5027532b77cdd34"
+ },
+ {
+  "name": "Jumanji: The Next Level", 
+  "category": "Pengembaraan",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYWFjODExZWEtYzIwYS00M2YwLTk4YTktNDQ5ZmVmOThiNmI1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYWFjODExZWEtYzIwYS00M2YwLTk4YTktNDQ5ZmVmOThiNmI1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Empat rakan sekolah tinggi diheret ke hutan ketika leka bermain permainan video lama yang ditemui mereka. Bertukar menjadi avatar dewasa pilihan agar bertahan dalam permainan itu, mereka harus mengalahkannya dengan kembali ke dunia nyata dan melalui cabaran paling berbahaya, menemui apa yang pernah Alan Parrish tinggalkan 20 tahun lalu. Empat rakan itu harus menukar cara berfikir tentang diri mereka, jika tidak mahu terjebak dalam permainan yang akan terus dimainkan orang lain tanpa henti.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/JCEYL_IVP_LAND_917x516.jpg", 
+           "director": ["Jake Kasdan"], 
+           "cast": ["Dwayne Johnson,Kevin Hart,Jack Black"],
+           "trailer": "rBxcF-r9Ibs",
+           "year": "2019"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0b5b8844-4520-5eeb-bc79-b8963d4c93aa/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "ddc42ac834c3840891680cb914002d10:813ba7f17b07d17cb2a4b9d7980bb343"
+ },
+ {
+  "name": "The Man from Nowhere", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTgzMTkxNjAxNV5BMl5BanBnXkFtZTgwMDU3MDE0MjE@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTgzMTkxNjAxNV5BMl5BanBnXkFtZTgwMDU3MDE0MjE@._V1_QL100_UX500_.jpg", 
+           "plot": "Seorang penjaga kedai pajak dengan kehidupan ganas di masa silam membalas dendam terhadap pemerdagangan dadah dan organ dengan harapan dapat menyelamatkan kanak-kanak yang merupakan satu-satunya kawannya.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KOGFD_IVP_LAND_917x516.jpg", 
+           "director": ["Lee Jeong-Beom"], 
+           "cast": ["Won Bin,Kim Sae-Ron,Kim Hee-Won"],
+           "trailer": "38rPoGSr19U",
+           "year": "2010"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/476b51f5-af03-5fb0-be48-44d68efa6a1e/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "c5270ba5907020663a37a30043bee410:833004d8867a146ca084d3f50e3c06b9"
+ },
   {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
