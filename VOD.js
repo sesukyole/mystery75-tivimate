@@ -3320,11 +3320,11 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2308671b-5341-598e-b3ad-6d132d97e534/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "56c0847b0f6bdf7ec3c4c08f5e46ef10:567bbe8b26192845454cb6dbbfcda2f0"
-                   }, 
+                   }
             ]
         },
         {
-          "season": 2.1,
+          "season": 2,
           "name": "BoBoiBoy Galaxy Sori",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg",
