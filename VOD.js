@@ -3605,8 +3605,10 @@
                    "drmkey": ""
                 },
             ]
-        },
-     {
+        }
+    ],
+    [
+       {
           "season": 3,
           "name": "Mechamato",
           "info": {
@@ -3632,7 +3634,6 @@
                    "video": "", 
                    "drm": "clearkey", 
                    "drmkey": ""
-                },
-    ]
+                },  
 }
 ]
