@@ -1442,8 +1442,8 @@
   "name":"King Arthur: Legend Of The Sword",
   "category":"Pengembaraan",
   "info":{
-          "poster":"https://dai3fd1oh325y.cloudfront.net/images/7200p/021244X0-portrait.jpg",
-          "bg":"https://dai3fd1oh325y.cloudfront.net/images/7200p/021244X0-portrait.jpg",
+          "poster":"https://dai3fd1oh325y.cloudfront.net/images/720p/021244X0-portrait.jpg",
+          "bg":"https://dai3fd1oh325y.cloudfront.net/images/720p/021244X0-portrait.jpg",
           "plot":"Dibintangi Charlie Hunnam dalam watak tajuk, filem ini adalah ambilan pemusnah berhala daripada mitos Excalibur klasik, menjejaki perjalanan Arthur dari jalanan ke takhta. Apabila bapanya dibunuh, Vortigern (Jude Law), pak cik Arthur, merampas takhta. Dirampas hak kelahiran dan tidak mengetahui identiti sebenarnya, Arthur menjalani kehidupan yang sukar di lorong belakang bandar itu. Namun sebaik dia menarik pedang daripada batu, hidupnya menjadi kacau-bilau dan dia terpaksa menerima legasi sebenarnya...sama ada dia suka ataupun tidak.",
           "backdrop":"https://dai3fd1oh325y.cloudfront.net/images/originald/021244X0-landscape.jpg",
           "director":["Guy Ritchie"],
