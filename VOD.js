@@ -2928,7 +2928,7 @@
     "seasons": [
         {
           "season": 2,
-          "name": "BoBoiBoy Galaxy",
+          "name:es": "BoBoiBoy Galaxy",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
                     "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
