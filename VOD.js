@@ -2917,10 +2917,10 @@
     ]
  },
  {
-    "name": "BoBoiBoy Galaxy",
+    "name": "BoBoiBoy",
     "category": "Kids",
     "info": {
-              "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+              "poster": "https://m.media-amazon.com/images/M/MV5BZDg0OGI2MWMtZGRiNi00ZDdkLTlkMGYtZTJjNjAxZjYwNmQyXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
               "director": ["Nizam Razak"], 
               "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
               "year": "2016"
