@@ -2942,7 +2942,7 @@
                     "name": "BoBoiBoy",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "bg": "https://m.media-amazon.com/images/M/MV5BZDg0OGI2MWMtZGRiNi00ZDdkLTlkMGYtZTJjNjAxZjYwNmQyXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "plot": "BoBoiBoy arrives in Rintis Island to stay with Tok Aba during the school holidays. He makes new friends while helping out at Tok Aba's Kokotiam",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
@@ -2952,11 +2952,23 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d28da433-11be-54ff-b5bb-0578c0844a9b/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "687e154d03c864a1e21110c55237ab10:5c1c58dec7348c8858ed9858f32b3449"
-                  }  
+                  } 
             ]
-        },
+        }
+    ]
+ },
+ {
+    "name": "BoBoiBoy Galaxy",
+    "category": "Kids",
+    "info": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDg0OGI2MWMtZGRiNi00ZDdkLTlkMGYtZTJjNjAxZjYwNmQyXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+              "director": ["Nizam Razak"], 
+              "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+              "year": "2016"
+             },
+    "seasons": [
         { 
-          "season": 2,
+          "season": 1,
           "name": "BoBoiBoy Galaxy",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
