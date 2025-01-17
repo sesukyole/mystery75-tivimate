@@ -696,7 +696,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 #EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png" group-logo="" group-title="4K",Astro UHD 4K
 https://linear16-playback.sooka.my/CH1/masterCH1.mpd
 
-
+[ 
+ {        
+  "name": "16 Puasa", 
+  "category": "Comedy",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+           "plot": "Kisah sekumpulan kawan baik di sebuah kampung yang ponteng puasa. Mereka menyembunyikan aktiviti mereka daripada pengetahuan isteri masing-masing. Mereka juga menetapkan jadual siapa yang akan membeli makanan di pekan dan kemudian makan di tempat-tempat terlindung. Berjayakah mereka berterusan sebegitu sepanjang bulan Ramadan?.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/IDMVZ_IVP_LAND_917x516.jpg", 
+           "director": ["Mamat Khalid"], 
+           "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
+           "trailer": "nw2roBPsbyU",
+           "year": "2017"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cbfc1b59-d17a-57e3-9a55-6b72c59ef9db/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "6a5580676416fb8b215e23638ddcd610:07ff72561ad9723e01be293effdd6b8d"
+ }, 
+]
 
 
 
