@@ -2927,9 +2927,8 @@
              },
     "seasons": [
         {
-          "season": 1,
-          "name": "BoBoiBoy",
-          "title": "BoBoiBoy Galaxy",
+          "season": 2,
+          "name": "BoBoiBoy Galaxy",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
                     "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
@@ -2940,7 +2939,7 @@
            "episodes": [       
                 {
                     "episode": 1,
-                    "name": "BoBoiBoy Galaxy - BoBoiBoy Kembali!",
+                    "name": "BoBoiBoy Kembali!",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
@@ -3323,21 +3322,9 @@
                     "drmkey": "56c0847b0f6bdf7ec3c4c08f5e46ef10:567bbe8b26192845454cb6dbbfcda2f0"
                    }, 
             ]
-        }
-    ]
- },
- {
-    "name": "BoBoiBoy Galaxy Sori",
-    "category": "Kids",
-    "info": {
-              "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg",
-              "director": ["Nizam Razak"], 
-              "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
-              "year": "2023"
-             },
-    "seasons": [
+        },
         {
-          "season": 1,
+          "season": 2.1,
           "name": "BoBoiBoy Galaxy Sori",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg",
