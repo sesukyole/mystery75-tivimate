@@ -863,7 +863,7 @@
  {        
   "name": "12.12: The Day", 
   "category": "Action",
-  info": { 
+  "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMTZmMTMyMDMtNDA2Mi00ZjU5LTljMjYtYjg3NmVmMDQ5NmQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWZmYzI5OWMtZDg4Ny00ZThiLWFjYjQtNjQ1NzA1MWY1OTJiXkEyXkFqcGc@._V1_QL100_UX500.jpg", 
            "plot": "Selepas pembunuhan Presiden Park, undang-undang ketenteraan diisytiharkan. Rampasan kuasa dilakukan oleh Komander Keselamatan Pertahanan, Chun Doo-Gwang. Ketua Komander Pertahanan, Lee Tae-shin, seorang yang ketegar percaya bahawa pihak tentera tidak sepatutnya mengambil tindakan politik, bangkit menentang Chun Doo-Gwang. Konflik antara kedua pihak semakin meruncing menyebabkan Seoul dalam keadaan yang tidak menentu.", 
