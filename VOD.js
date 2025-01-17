@@ -2961,7 +2961,7 @@
     "name": "BoBoiBoy Galaxy",
     "category": "Kids",
     "info": {
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDg0OGI2MWMtZGRiNi00ZDdkLTlkMGYtZTJjNjAxZjYwNmQyXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
               "director": ["Nizam Razak"], 
               "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
               "year": "2016"
@@ -3477,7 +3477,7 @@
           "season": 2,
           "name": "BoBoiBoy Galaxy Windara",
           "info": {
-                    "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BZTIxODdkNzItNWM1NC00NWJmLWIzZWYtNjRkOTBlMDk2ZmQzXkEyXkFqcGc@._V1_QL100_UX550_.jpg",
                     "backdrop": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                     "director": ["Nizam Razak"], 
                     "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
