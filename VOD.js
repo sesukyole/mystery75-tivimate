@@ -1612,7 +1612,7 @@
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
     "info": {
-              "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+              "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
               "plot":"MUZIK DAN PENGEMBARAAN",
               "director": ["Son Jung Hyun"], 
               "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
@@ -1622,7 +1622,7 @@
         {
          "name": "TWINKLING WATERMELON",
          "info": {
-                    "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                    "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                     "plot":"Kisah ajaib tentang seorang ahli CODA yang berbakat dalam muzik mengembara ke tahun 1995, bertemu bapanya yang baru berusia 18 tahun, dan bersama-sama membentuk kugiran bernama 'Watermelon Sugar'.",
                     "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg",
                     "director": ["Son Jung Hyun"], 
@@ -1634,8 +1634,8 @@
                    "episode": 1, 
                     "name": "EPISODE  1",
                     "info": {
-                             "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                             "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                             "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                             "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                              "plot":"Eun-gyeol, budak CODA, satu-satunya yang boleh mendengar dalam keluarganya dan sebagai penyelesai masalah. Suatu hari, selepas dia dibuli, muzik sedih dari Viva Music menarik perhatian Eun-gyeol.",
                              "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                              "director": ["Son Jung Hyun"], 
@@ -1649,11 +1649,11 @@
               {
                   "episode": 2, 
                    "name": "EPISODE  2          ",
-                   "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                   "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                   "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                   "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                    "info": {
-                            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                             "plot": "Spine 9 menawarkan Eun-gyeol peluang untuk uji bakat. Dia mendapat peluang untuk menyertai jelajah dunia Yoon Dong-jin, legenda segala kumpulan muzik, tetapi persembahannya menjadi kacau.",
                             "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                             "director": ["Son Jung Hyun"], 
@@ -1668,8 +1668,8 @@
                    "episode": 3,
                     "name": "EPISODE  3          ",
                     "info": {
-                            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                             "plot": "Untuk menyelesaikan misi mustahil Se-kyung, Yi-chan merekrut kumpulan muzik dari Sekolah Tinggi Baekwang dan membentuk Pencipta Memori Cinta Pertama.",
                             "director": ["Son Jung Hyun"], 
                             "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
@@ -1683,8 +1683,8 @@
                    "episode": 4, 
                     "name": "EPISODE  4          ",
                     "info": {
-                            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                             "plot": "Se-kyung cemas selepas bertemu Eun-gyeol yang seolah-olah mengetahui rahsia keluarganya. Apabila berpeluang melanjutkan pelajaran ke luar negara, dia memutuskan untuk keluar dari negara itu.",
                             "director": ["Son Jung Hyun"], 
                             "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
@@ -1698,8 +1698,8 @@
                    "episode": 5, 
                     "name": "EPISODE  5          ",
                     "info": {
-                            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                             "plot": "Eun-gyeol teringat bagaimana ayahnya kehilangan pendengaran dalam satu kemalangan dan memutuskan untuk berada di sisi Yi-chan untuk mencegah kemalangan itu berlaku.",
                             "director": ["Son Jung Hyun"], 
                             "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
@@ -1713,8 +1713,8 @@
                    "episode": 6,
                     "name": "EPISODE  6          ",
                     "info": {
-                            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                             "plot": "Selepas Se-kyung kembali, dia bukan sahaja bersikap mesra dengan Yi-chan, malah penuh semangat! Eun-gyeol risau kerana dia tak dapat membaca apa yang ada dalam fikiran Se-kyung.", 
                             "director": ["Son Jung Hyun"], 
                             "cast": ["Ryeoun,Seol In-ah,Choi Hyun-wook,Shin Eun-soo"],
@@ -1728,8 +1728,8 @@
                  "episode": 7, 
                   "name": "EPISODE  7          ",
                   "info": {
-                          "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                          "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                          "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                          "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                           "plot": "Chung-a terjaga dan mendapati bahawa Yi-chan telah membawanya ke hospital. Yi-chan mempunyai banyak persoalan untuk Eun-gyeol, namun Eun-gyeol telah hilang tanpa khabar selama beberapa hari.", 
                           "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                           "director": ["Son Jung Hyun"], 
@@ -1744,8 +1744,8 @@
                "episode": 8,
                 "name": "EPISODE  8          ",
                  "info": { 
-                         "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                         "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                         "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                         "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                          "plot": "Eun-gyeol berasa lega dan berlari pulang, lalu menceritakan kepada ayahnya dan Eunho tentang apa yang berlaku dalam mimpinya.", 
                          "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                          "director": ["Son Jung Hyun"], 
@@ -1760,8 +1760,8 @@
                "episode": 9,
                 "name": "EPISODE  9          ", 
                 "info": { 
-                        "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                        "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                        "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                        "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                         "plot": "Yi-chan terkejut dengan pengakuan Eun-gyeol di hadapan orang ramai, menumbuk Eun-gyeol. Dalam kekecohan itu, ahli-ahli kumpulan muzik cuba meleraikan mereka.", 
                         "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                         "director": ["Son Jung Hyun"], 
@@ -1776,8 +1776,8 @@
               "episode": 10,  
                "name": "EPISODE  10         ",
                "info": { 
-                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                        "plot": "Chung-a belajar bahasa isyarat daripada Eun-gyeol, membuatkan Eun-yu cemburu. Sementara itu, kata-kata Chung-a tentang menjadi kawan terus menghantui fikiran Yi-chan!", 
                        "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                        "director": ["Son Jung Hyun"], 
@@ -1792,8 +1792,8 @@
               "episode": 11,  
                "name": "EPISODE  11         ",
                "info": { 
-                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                        "plot": "Pesta semakin hampir. Ketika Eun-gyeol sibuk membuat persiapan untuk persembahan, dia teringat petunjuk penting tentang kemalangan yang menyebabkan ayahnya hilang pendengaran.", 
                        "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                        "director": ["Son Jung Hyun"], 
@@ -1808,8 +1808,8 @@
               "episode": 12,  
                "name": "EPISODE  12         ",
                "info": { 
-                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                        "plot": "Selepas menghalang ayahnya daripada hilang pendengaran, Eun-gyeol teringat janjinya kepada Eun-yu. Dia lewat datang untuk memohon maaf, tetapi Eun-yu menghalaunya keluar.", 
                        "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                        "director": ["Son Jung Hyun"], 
@@ -1824,8 +1824,8 @@
               "episode": 13,  
                "name": "EPISODE  13         ",
                "info": { 
-                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                        "plot": "Kumpulan yang dijangka bubar kini mendapat misi untuk menyertai pertandingan kumpulan remaja kebangsaan dan mereka perlu cipta lagu sendiri. Yi-chan cadangkan agar ahli-ahli kumpulan pergi ke kem lagu.", 
                        "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                        "director": ["Son Jung Hyun"], 
@@ -1840,8 +1840,8 @@
               "episode": 14,  
                "name": "EPISODE  14         ",
                "info": { 
-                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                        "plot": "Eun-gyeol dan Eun-yu melompat keluar dari kereta api menuju ke kem lagu. Yi-chan dan Chung-a saling memandang dengan penuh kasih. Ahli-ahli kumpulab lain cemburu melihat dua pasangan itu.", 
                        "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                        "director": ["Son Jung Hyun"], 
@@ -1856,8 +1856,8 @@
               "episode": 15,  
                "name": "EPISODE  15         ",
                "info": { 
-                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                        "plot": "Kisah ajaib tentang seorang ahli CODA yang berbakat dalam muzik mengembara ke tahun 1995, bertemu bapanya yang baru berusia 18 tahun, dan bersama-sama membentuk kugiran bernama 'Watermelon Sugar'.", 
                        "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                        "director": ["Son Jung Hyun"], 
@@ -1872,8 +1872,8 @@
               "episode": 16,  
                "name": "EPISODE  16         ",
                "info": { 
-                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
-                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_FMjpg_UX390_.jpg", 
+                       "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+                       "bg": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
                        "plot": "Kisah ajaib tentang seorang ahli CODA yang berbakat dalam muzik mengembara ke tahun 1995, bertemu bapanya yang baru berusia 18 tahun, dan bersama-sama membentuk kugiran bernama 'Watermelon Sugar'.", 
                        "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000217X847064_IVP_LAND_917x516.jpg", 
                        "director": ["Son Jung Hyun"], 
@@ -3097,6 +3097,230 @@
                     "drm": "clearkey", 
                     "drmkey": "5c85db6aa83ddcb659163e81afdc4210:b3a3aae7d5e784adb3ed37bf25503063"
                    }, 
+                {
+                    "episode": 11,
+                    "name": "Pertarungan Hangat",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "In the final TAPOPS toughness test, Team BoBoiBoy heads to planet Volkania where they need to retrieve a Power Sphera at the top of an unstable volcano.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a5070f5d-04a2-53c3-a152-47ff2bdffde9/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "7a98622be16b37f38094c7ed78bf5110:78e17ba7c0e1b743157d23284497d942"
+                   }, 
+                {
+                    "episode": 12,
+                    "name": "Si Penceroboh Panto",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "TAPOPS Space Station has been infiltrated by Jokertu's accomplice, who has stolen Power Spheras in the station for a mysterious evil master.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bb01a776-6556-5ce4-badf-2233619242e9/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "323f7b46b075698ae534174df6150110:c4355325aabf99d9473672de1bf7f2cb"
+                   }, 
+                {
+                    "episode": 13,
+                    "name": "Sarkas Kegelapan",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "BoBoiBoy and friends travel to Circus Planet to retrieve the stolen Power Spheras and finally meet the ringmaster pulling the strings.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ad55123b-27a6-5c77-a156-9315acc562d8/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "d9f32c103816d14b75f9db4daea5af10:ddb18bd776b4ad594b8ce45f1b916570"
+                   }, 
+                {
+                    "episode": 14,
+                    "name": "Kemunculan Halilintar",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "Team BoBoiBoy find themselves outmatched by the fearsome Jugglenaut when unexpected help arrives in the nick of time.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/dee381ab-c0a4-5e5a-8a11-2d15d2e6636b/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "c0a4be40c28ce441ddf26d7e4aac9410:d5da137522dede0eca2b082a8cfab7a9"
+                   }, 
+                {
+                    "episode": 15,
+                    "name": "Perlumbaan Nova Prix",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "Team BoBoiBoy is sent to enter the dangerous and thrilling Nova Prix Space Race tournament in order to win the coveted prize: a Power Sphera.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7c2bc054-0a24-5e2e-8796-258eaf131e7e/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "d96dafb5978a3f870c3ea8472a338b10:aae44f2d2efd1ec8669861fd9754b1a2"
+                   }, 
+                {
+                    "episode": 16,
+                    "name": "Loopa Lupa?",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "BoBoiBoy is stuck in a time loop as a Power Sphera named LoopBot keep repeating the day over and over again.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c030d24e-5978-5fcd-85fb-a065a8cd8d1b/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "726426621a820788d0aaac6ce8a7c010:ead4a9b2fb086b655a283ce4378c2ca2"
+                   }, 
+                {
+                    "episode": 17,
+                    "name": "Gelora BoBoiBoy Air",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "Adu Du is back and this time he has brought along Roktaroka who seeks revenge for the destruction inadvertently caused by BoBoiBoy on his home planet.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c94ffb0a-cc61-57a8-918f-b46eedec0e7b/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "24937bfc9faff42880ae65e41670b010:9cdbb37bb8e1e9e194dbe383984bc2d2"
+                   }, 
+                {
+                    "episode": 18,
+                    "name": "Dendam A.B.A.M.",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "A distressed Cattus returns with Team BoBoiBoy to his desert home on Planet Gurunda and finds it under attack by the robotic mercenary called B.R.R.O.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9c7f2014-1d5c-5723-982c-fd49e91b58e6/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "29d48d36042205e4cafc5a4cd94fcc10:52f834aeb65298d3718e418eb5a05361"
+                   }, 
+                {
+                    "episode": 19,
+                    "name": "Pencetak Rompak",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "After crash-landing on Planet Junkberg, Team BoBoiBoy explore the nearby Scrapyard in search of replacement parts and stumble headfirst onto an underground syndicate selling counterfeit Power Spheras.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7020f126-d938-50e5-be43-98962a193d02/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "1aae6f26621b4ccd1e2f4e7d43239610:1ceb45b5499138973d7a388b7077141d"
+                   }, 
+                {
+                    "episode": 20,
+                    "name": "Manipulasi Emosi",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "BoBoiBoy finds everyone on TAPOPS Space Station behaving strangely, and the culprit behind it is closer than he thinks.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8c7876cd-85bd-519a-9ea1-064010548904/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "38da66992439473d42fbb3a599b8b610:bdb984e50ec68e44808f7b024c85736f"
+                   }, 
+                {
+                    "episode": 21,
+                    "name": "Jagara Si Jaga",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "In an attempt to look for data on BoBoiBoy Light, BoBoiBoy and friends must solve riddles given by a giant robot who guards a crashed and abandoned space archive.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/67c6e547-31a1-565e-837d-14f74e90368f/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "b5df1e6f1a57019b800b4eb9e007c910:6e4b84452ec32bbde4c6b9d283e9a51c"
+                   }, 
+                {
+                    "episode": 22,
+                    "name": "Misi Koloni Lanun",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "BoBoiBoy and friends must infiltrate the Pirate Colony to retrieve Power Sphera StealthBot in order to save Sunnova Station.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8880a135-9db3-5a70-9b3d-f2fb3b6959db/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "9658b259f566f8132d3b337532791210:e4554923f17d4cf7c9a6dad6c1479bcf"
+                   }, 
+                 {
+                    "episode": 23,
+                    "name": "Ancaman Armada",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "After their narrow escape from Captain Vargoba, BoBoiBoy and friends are entrusted with bringing StealthBot safely back to TAPOPS Space Station.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/243f5fd0-da4f-5954-9a54-1e75e4a01849/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "177714a79a43814965dcb3f24aa55310:a5af1a602d6eae80cb16c5758402c00d"
+                   }, 
+                {
+                    "episode": 24,
+                    "name": "Sinaran Penamat",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "As the battle of Sunnova Station wages on, BoBoiBoy fights to protect his friends from Captain Vargoba.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2308671b-5341-598e-b3ad-6d132d97e534/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "56c0847b0f6bdf7ec3c4c08f5e46ef10:567bbe8b26192845454cb6dbbfcda2f0"
+                   }, 
             ]
         }
     ]
@@ -3342,5 +3566,73 @@
             ]
         }
     ]
-}
+},
+{
+    "name": "Mechamato",
+    "category": "Kids",
+    "info": {
+              "poster": "https://m.media-amazon.com/images/M/MV5BODg2MTc4ZDgtZmEwNy00MzU2LThlNzctYWI0ZDBjNDQ5NzYxXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+              "director": ["Nizam Razak"], 
+              "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+              "year": "2024"
+             },
+    "seasons": [
+        {
+          "season": 2,
+          "name": "Mechamato",
+          "info": {
+                    "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                    "backdrop": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                    "director": ["Nizam Razak"], 
+                    "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                    "year": "2024"
+                    },
+          "episodes": [       
+               {
+                   "episode": 1,
+                   "name": "",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2024"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+            ]
+        },
+     {
+          "season": 3,
+          "name": "Mechamato",
+          "info": {
+                    "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                    "backdrop": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                    "director": ["Nizam Razak"], 
+                    "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                    "year": "2024"
+                    },
+          "episodes": [       
+               {
+                   "episode": 1,
+                   "name": "",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2024"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+    ]
+}, 
 ]
