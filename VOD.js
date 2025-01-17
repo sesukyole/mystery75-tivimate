@@ -2952,7 +2952,87 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d28da433-11be-54ff-b5bb-0578c0844a9b/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "687e154d03c864a1e21110c55237ab10:5c1c58dec7348c8858ed9858f32b3449"
-                  } 
+                  },
+               {
+                    "episode": 2,
+                    "name": "BoBoiBoy",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                            "year": "2011"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                  },
+               {
+                    "episode": 3,
+                    "name": "BoBoiBoy",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                            "year": "2011"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                  }, 
+               {
+                    "episode": 4,
+                    "name": "BoBoiBoy",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                            "year": "2011"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                  },
+               {
+                    "episode": 5,
+                    "name": "BoBoiBoy",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                            "year": "2011"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                  },
+               {
+                    "episode": 6,
+                    "name": "BoBoiBoy",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                            "year": "2011"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                  },
             ]
         }
     ]
@@ -3366,8 +3446,7 @@
         },
         {
           "season": 2,
-          "name": "BoBoiBoy Galaxy",
-          "category_name": "BoBoiBoy Galaxy Sori",
+          "name": "BoBoiBoy Galaxy Sori",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg",
                     "backdrop": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
@@ -3379,8 +3458,8 @@
                {
                    "episode": 1,
                    "name": "Kembali Beraksi!",
-                   "category_name": "BoBoiBoy Galaxy Sori",
                    "info": {
+                           "name": "BoBoiBoy Galaxy Sori",
                            "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
                            "plot": "Selepas kehancuran Stesen TAPOPS, BoBoiBoy dan rakan-rakan pulang ke Bumi tetapi seorang musuh lama muncul kembali.",
