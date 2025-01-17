@@ -3628,7 +3628,9 @@
                    "video": "", 
                    "drm": "clearkey", 
                    "drmkey": ""
-                }  
+                }
+            ]
+        }
     ]
-}
+},
 ]
