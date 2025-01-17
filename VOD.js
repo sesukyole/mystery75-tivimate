@@ -3585,7 +3585,7 @@
                     "backdrop": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                     "director": ["Nizam Razak"], 
                     "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
-                    "year": "2024"
+                    "year": "2022"
                     },
           "episodes": [       
                {
@@ -3598,11 +3598,27 @@
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
-                           "year": "2024"
+                           "year": "2022"
                           },
-                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7569e479-ca3c-5c5e-9cd2-ac6c411d977c/default_dash.mpd", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7569e479-ca3c-5c5e-9cd2-ac6c411d977c/default_primary.mpd", 
                    "drm": "clearkey", 
                    "drmkey": "41255196d1e059d84845da6541ee8510:53854ba57101e2efb0077fea72212e87"
+                },
+             {
+                   "episode": 2,
+                   "name": "Mechamato",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
+                           "year": "2022"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/692b4e3c-730f-5214-b63e-1f393d610181/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "760205063138c5633167b8056fd26510:7f21fab306b8739a575985bbaaef0f39"
                 }
             ]
         },
@@ -3610,15 +3626,15 @@
        "season": 3,
        "name": "Mechamato",
        "info": {
-                 "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg"
+                 "poster": "https://m.media-amazon.com/images/M/MV5BOTBkYzU5MjQtYWIxNC00M2I2LTg3YTEtMTU2MWM0MzYxYTg1XkEyXkFqcGc@._V1_QL100_UX500_.jpg"
                  },
        "episodes": [
             {
                    "episode": 1,
                    "name": "Mechamato",
                    "info": {
-                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "poster": "https://m.media-amazon.com/images/M/MV5BOTBkYzU5MjQtYWIxNC00M2I2LTg3YTEtMTU2MWM0MzYxYTg1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BOTBkYzU5MjQtYWIxNC00M2I2LTg3YTEtMTU2MWM0MzYxYTg1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                            "plot": "The story of Amato's struggle together with his robot best friend, MechaBot, who has incredible abilities. They unite together as friends to protect Earth from evil robots.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
                            "director": [], 
