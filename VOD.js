@@ -3603,7 +3603,7 @@
                    "video": "", 
                    "drm": "clearkey", 
                    "drmkey": ""
-                },
+                }
             ]
         },
      {
