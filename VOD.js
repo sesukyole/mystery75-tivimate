@@ -3590,11 +3590,11 @@
           "episodes": [       
                {
                    "episode": 1,
-                   "name": "",
+                   "name": "Mechamato",
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                           "plot": "",
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
                            "director": [""], 
                            "cast": [""],
@@ -3615,11 +3615,11 @@
        "episodes": [
             {
                    "episode": 1,
-                   "name": "",
+                   "name": "Mechamato",
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                           "plot": "",
+                           "plot": "The story of Amato's struggle together with his robot best friend, MechaBot, who has incredible abilities. They unite together as friends to protect Earth from evil robots.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
                            "director": [""], 
                            "cast": [""],
