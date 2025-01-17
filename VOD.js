@@ -1,8 +1,7 @@
 [ 
  {        
   "name": "16 Puasa", 
-  "category": "Malay",
-  "genre": "Comedy",
+  "category": "Comedy",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
@@ -19,8 +18,7 @@
  }, 
  {        
   "name": "17 Puasa", 
-  "category": "Malay",
-  "genre": "Comedy",
+  "category": "Comedy",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
@@ -865,8 +863,7 @@
  {        
   "name": "12.12: The Day", 
   "category": "Action",
-  "category": "Drama",
-  "info": { 
+  info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMTZmMTMyMDMtNDA2Mi00ZjU5LTljMjYtYjg3NmVmMDQ5NmQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWZmYzI5OWMtZDg4Ny00ZThiLWFjYjQtNjQ1NzA1MWY1OTJiXkEyXkFqcGc@._V1_QL100_UX500.jpg", 
            "plot": "Selepas pembunuhan Presiden Park, undang-undang ketenteraan diisytiharkan. Rampasan kuasa dilakukan oleh Komander Keselamatan Pertahanan, Chun Doo-Gwang. Ketua Komander Pertahanan, Lee Tae-shin, seorang yang ketegar percaya bahawa pihak tentera tidak sepatutnya mengambil tindakan politik, bangkit menentang Chun Doo-Gwang. Konflik antara kedua pihak semakin meruncing menyebabkan Seoul dalam keadaan yang tidak menentu.", 
@@ -1408,6 +1405,57 @@
            "drmkey": "319b72818e5bab7a754db7c451425a10:676ecd6239226626017367c017aab603"
  },
  {
+   "name":"King Kong",
+   "category":"Pengembaraan",
+   "info":{
+           "poster":"https://dai3fd1oh325y.cloudfront.net/images/720p/016474X0-portrait.jpg",
+           "bg":"https://dai3fd1oh325y.cloudfront.net/images/720p/016474X0-portrait.jpg",
+           "plot":"Pada tahun 1933 New York, penerbit filem yang sangat bercita-cita tinggi memaksa pelakonnya dan kru kapal yang diupah untuk ke Pulau Skull yang misteri, dan di situ, mereka bertemu Kong, mawas besar yang serta-merta tertarik dengan pelakon wanita utama Ann Darrow.",
+           "backdrop":"https://dai3fd1oh325y.cloudfront.net/images/originald/016474X0-landscape.jpg",
+           "director":["Peter Jackson"],
+           "cast":["Naomi Watts","Adrien Brody","Jack Black","Thomas Kretschmann","Colin Hanks","Jamie Bell","Evan Parke","Lobo Chan","Kyle Chandler","Andy Serkis","Craig Hall","John Summer","Mark Hadlow","Geraldine Brophy"],
+           "trailer": "1TSidCNA7mQ",
+           "year":"2005"
+            },
+          "video":"https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d80394b3ae366782ad9b44b_hbovodhd/dash0/MYS_index.mpd",
+          "drm":"clearkey",
+          "drmkey":"98f63e27405f55ad8a7e0f2603b38bf9:c7ea7690b22478c1bdab6ccb1b94f1b1"
+},
+ {
+  "name":"Kong: Skull Island",
+  "category":"Pengembaraan",
+  "info":{
+          "poster":"https://dai3fd1oh325y.cloudfront.net/images/720p/021110X0-portrait.jpg",
+          "bg":"https://dai3fd1oh325y.cloudfront.net/images/720p/021110X0-portrait.jpg",
+          "plot":"Sepasukan saintis, askar dan pengembara bersatu untuk memeriksa pulau mitos, lantas mencetuskan pertarungan hebat antara manusia dan alam semua jadi.",
+          "backdrop":"https://dai3fd1oh325y.cloudfront.net/images/originald/021110X0-landscape.jpg",
+          "director":["Jordon Vogt-Roberts"],
+          "cast":["Tom Hiddleston","Samuel L. Jackson","John Goodman","Brie Larson","Jing Tian","Toby Kebbell","John Ortiz","Corey Hawkins","Jason Mitchell","Shea Whigham","Thomas Mann","John Reilly","Marc Evan Jackson","Eugene Cordero","Miyavi","Will Brittain"],
+          "trailer": "44LdLqgOpjo",
+          "year":"2017"
+           },
+          "video":"https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4e44e8caa5a5e0b11f7f4_hbovodhd/dash0/MYS_DOLBY_index.mpd",
+          "drm":"clearkey",
+          "drmkey":"aed5c31480c95c3bbcfb9ea7c216aab1:d9519e48b6e9e4b7413d2015317d722d"
+ },
+ {
+  "name":"King Arthur: Legend Of The Sword",
+  "category":"Pengembaraan",
+  "info":{
+          "poster":"https://dai3fd1oh325y.cloudfront.net/images/7200p/021244X0-portrait.jpg",
+          "bg":"https://dai3fd1oh325y.cloudfront.net/images/7200p/021244X0-portrait.jpg",
+          "plot":"Dibintangi Charlie Hunnam dalam watak tajuk, filem ini adalah ambilan pemusnah berhala daripada mitos Excalibur klasik, menjejaki perjalanan Arthur dari jalanan ke takhta. Apabila bapanya dibunuh, Vortigern (Jude Law), pak cik Arthur, merampas takhta. Dirampas hak kelahiran dan tidak mengetahui identiti sebenarnya, Arthur menjalani kehidupan yang sukar di lorong belakang bandar itu. Namun sebaik dia menarik pedang daripada batu, hidupnya menjadi kacau-bilau dan dia terpaksa menerima legasi sebenarnya...sama ada dia suka ataupun tidak.",
+          "backdrop":"https://dai3fd1oh325y.cloudfront.net/images/originald/021244X0-landscape.jpg",
+          "director":["Guy Ritchie"],
+          "cast":["Charlie Hunnam","Astrid Berges-Frisbey","Jude Law","Djimon Hounsou","Aidan Gillen","Mikael Persbrandt"],
+          "trailer": "jIM4-HLtUM0",
+          "year":"2017"
+           },
+          "video":"https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/66826065d940521074053437_hbovodhd/dash0/MYS_DOLBY_index.mpd",
+          "drm":"clearkey",
+          "drmkey":"b8dfb1edf79b57f49edfe72a5b4399bf:e436e6da89c54350218895d000929fd4"
+ },
+ {
   "name": "Gladiator", 
   "category": "Action",
   "info": { 
@@ -1491,6 +1539,74 @@
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/476b51f5-af03-5fb0-be48-44d68efa6a1e/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "c5270ba5907020663a37a30043bee410:833004d8867a146ca084d3f50e3c06b9"
+ },
+ {
+  "name": "Mortal Kombat", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNjQyYjJjMzEtZTYzYy00ZjFmLTlkNTktNDI5ZjIwNTAxOWE0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNjQyYjJjMzEtZTYzYy00ZjFmLTlkNTktNDI5ZjIwNTAxOWE0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Selama sembilan generasi, ahli sihir jahat telah menang menentang musuh. Jika dia menang buat kali kesepuluh, kehancuran dan kejahatan bermaharajalela selama-lamanya. Untuk menyelamatkan bumi, tiga pahlawan mesti mengatasi musuh luar biasa.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPTIG_IVP_LAND_917x516.jpg", 
+           "director": ["Paul Anderson"], 
+           "cast": ["Christopher Lambert,Robin Shou,Linden Ashby"],
+           "trailer": "JHIfHL5UgFs",
+           "year": "1995"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d0d38055-6435-57a1-87c1-31f3da52864c/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "bf64e280f5c890388a67efe9fefe5710:56bf81b6003a28ea1ad0340bce000f3a"
+ },
+ {
+  "name": "Mortal Kombat: Annihilation", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZTI4MzkzYmEtNTU1NC00ZDk5LWI4OTktNmRkNWMxN2E1NWNhXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZTI4MzkzYmEtNTU1NC00ZDk5LWI4OTktNmRkNWMxN2E1NWNhXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Sekumpulan pahlawan ahli seni pertahanan diri mempunyai enam hari sahaja untuk menyelamatkan planet dalam 'Mortal Kombat Annihilation'.Untuk berjaya, mereka harus selamat dalam beberapa cabaran yang paling hebat di mana manusia atau dewa tidak pernah mengalami pertarungan dengan hulubalang jahat yang bersumpah untuk menguasai Bumi.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/JTHXK_IVP_LAND_917x516.jpg", 
+           "director": ["John R. Leonetti"], 
+           "cast": ["Robin Shou,Talisa Soto,James Remar"],
+           "trailer": "ObHbkrh8qZM",
+           "year": "1997"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1b3016e6-d055-510c-9f3b-94fb2030376d/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "7500d2c590b285aedbb865147f945910:a4e945cd178e99c21a38693b10277440"
+ },
+ {
+  "name": "Mortal Kombat", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNmRmN2I5M2EtNDA1Ny00N2ZmLWE3YWYtMjQ1NTFjY2Q4NWM5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNmRmN2I5M2EtNDA1Ny00N2ZmLWE3YWYtMjQ1NTFjY2Q4NWM5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Pelawan MMA yang musnah kerjayanya, Cole Young, tidak mengetahui akan warisannya di buru pahlawan terbaik Maharaja Shang Tsung, Sub-Zero yang mencari dan melatih juara-juara terhebat Bumi ketika bersiap-sedia untuk menentang musuh-mush Outworld dalam pertarungan berbahaya demi alam semesta.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/JYTGM_IVP_LAND_917x516.jpg", 
+           "director": ["Simon McQuoid"], 
+           "cast": ["Ludi Lin,Joe Taslim,Tadanobu Asano"],
+           "trailer": "aB6aDO87pBE",
+           "year": "2021"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/cba32032-3203-50cd-9bf7-74188849fedc/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "8e0bc2e24beb077fe2e5d05a7b9d7510:c6126260cde4941b6e1756dbf48e480b"
+ },
+ {
+  "name": "Ninja Assassin", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNDYzMjU1Ml5BMl5BanBnXkFtZTcwMTYzOTM3Mg@@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTcxNDYzMjU1Ml5BMl5BanBnXkFtZTcwMTYzOTM3Mg@@._V1_QL100_UX500_.jpg", 
+           "plot": "Dilatih dari zaman kanak-kanak dengan cara Suku Ozunu, pembunuh Raizo diburu oleh pahlawan lain kerana melarikan diri daripada mereka serta ketuanya.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000319X92257_IVP_LAND_917x516.jpg", 
+           "director": ["James McTeigue"], 
+           "cast": ["Ben Miles, Naomie Harris,Rain,Randall Duk Kim,Rick Yune,Sho Kosugi,Sung Kang"],
+           "trailer": "AcBPlzZS1mw",
+           "year": "2009"
+            }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f457ded6d048943f75fc26c_hbovodhd/dash0/MYS_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "77e5820e8fb55d5e97d3c608a8754927:ead8ff4e7fd15d2b1eb0c8f47bb0ba47"
  },
   {
     "name": "TWINKLING WATERMELON",
