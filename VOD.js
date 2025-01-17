@@ -1883,7 +1883,7 @@
                  "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/fa71b5aa-e65b-5106-9077-b63a6c9970b7/default_primary.mpd", 
                  "drm": "clearkey", 
                  "drmkey": "717ef58ebc8a9c78ac3b5ad71380cb10:6680cc0e2887095cbdf265b969c73f77"
-              },           
+              }          
             ]
         }
     ]
@@ -2485,7 +2485,7 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/33de1fb5-4f7f-5b47-bb55-395f42dda5d7/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "6069c1f6d6a39a8dba70313442c5a410:b3e7360101d2c6a7b8a0ebf6c5afda6a"
-                 },
+                 }
             ]
         }
     ]
@@ -2911,7 +2911,7 @@
                     "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bfa91b98-6f38-5766-8228-65bf121c2a7e/default_primary.mpd", 
                     "drm": "clearkey", 
                     "drmkey": "3b43c5149337931927ce6a8380ebc710:91b0fab5a89fff5b94a890925edb06cf"
-                 }, 
+                 } 
             ]
         }
     ]
@@ -2926,10 +2926,38 @@
               "year": "2016"
              },
     "seasons": [
-        {
+        { 
+          "season": 1,
+          "name": "BoBoiBoy",
+          "info": {
+                    "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                    "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                    "director": ["Nizam Razak"], 
+                    "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                    "year": "2016"
+                    },
+           "episodes": [       
+                {
+                    "episode": 1,
+                    "name": ,
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "BoBoiBoy and Gopal help Cici Ko fight off Space Pirates who are trying to capture a Power Sphera named Motobot.",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                            "year": "2016"
+                           },
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f7f94c80-b265-50c0-929c-a10a25ba09fe/default_primary.mpd", 
+                    "drm": "clearkey", 
+                    "drmkey": "8d1bdd3f1ba1953a94517f92619d2e10:7a44c36b1a9232f66b0ae0648416cf15"
+                  }  
+            ]
+        },
+        { 
           "season": 2,
-          "name:season": "BoBoiBoy Galaxy",
-          "number": 1,
+          "name": "BoBoiBoy Galaxy",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGZhZWItYWI0My00NTA2LTk3NTktYzAwODI4MWRmODIzXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
                     "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQ5NmJmNjgtMDM5Zi00ZGYzLWIzZDktMWM4ZTI4OTE2MWE5XkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
@@ -3596,6 +3624,182 @@
                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/692b4e3c-730f-5214-b63e-1f393d610181/default_primary.mpd", 
                    "drm": "clearkey", 
                    "drmkey": "760205063138c5633167b8056fd26510:7f21fab306b8739a575985bbaaef0f39"
+                },
+             {
+                   "episode": 3,
+                   "name": "Mechamato",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
+                           "year": "2022"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b25611ff-26fc-5644-8363-f51a935fbda8/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "948338fdd7f0350cd7da3fda86bbf710:68583a093837545fe37704cf1bd5649a"
+                },
+             {
+                   "episode": 4,
+                   "name": "Mechamato",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
+                           "year": "2022"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 5,
+                   "name": "Mechamato",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
+                           "year": "2022"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/79415008-9104-59ec-be7c-a80fba867946/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "4aaf19d2cd4cdb1c6a5553db6c8f0810:77c7e88e0f9c2787364c99a1159c33eb"
+                },
+             {
+                   "episode": 6,
+                   "name": "Mechamato",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
+                           "year": "2022"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/5ed6b75d-d1af-5c8d-b54f-0b0b2e7bdc1e/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "e934a879c9246babc6e98078a0966b10:3e0198936f3836c4caecc19433a5e454"
+                },
+             {
+                   "episode": 7,
+                   "name": "Mechamato",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
+                           "year": "2022"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/02488423-3e0c-5a2c-9ff6-a1caf543e71c/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "a5bd50c00971b7e8c05f22d05478e110:6468a513e34fa379b417976e94be12ec"
+                },
+             {
+                   "episode": 8,
+                   "name": "Mechamato",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
+                           "year": "2022"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f2a74cf3-ced4-5623-9ad1-08775febcd4e/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "fcc391059cfec8edfa5a561345fb2b10:44b5bd955618797118ac16b50a727db8"
+                },
+             {
+                   "episode": 9,
+                   "name": "Mechamato",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
+                           "year": "2022"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fcd670fe-f4fe-5474-8dbb-5179af51ad57/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "3e0982d5ca665f7d561e091426d0c910:4f21016d1bae43ec410b94a5a58b2cbd"
+                },
+             {
+                   "episode": 10,
+                   "name": "Mechamato",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
+                           "year": "2022"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/dfa09ea5-484a-5b3a-93be-0fc01c12001e/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "be46a7d2327d2cd73e489586f8ba7210:fa097d22e670a1795700b110e2a54883"
+                },
+             {
+                   "episode": 11,
+                   "name": "Mechamato",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
+                           "year": "2022"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/5495ada7-7b37-58f7-b5c7-aeca591ca5d3/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "385fa44e4c96d02fd45812ab3163f610:542966cbd59b8378d00f65b237a22530"
+                },
+             {
+                   "episode": 12,
+                   "name": "Mechamato",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
+                           "year": "2022"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b0396540-d1dc-529e-b2e6-db1ba58a062a/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "99c6445d0a86af1f38ad57dd0a63c710:a78be25796569aa69c409b779a3bf855"
+                },
+             {
+                   "episode": 13,
+                   "name": "Mechamato",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
+                           "year": "2022"
+                          },
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/620c2e5f-77a5-5e12-83b0-333b16411616/default_primary.mpd", 
+                   "drm": "clearkey", 
+                   "drmkey": "3f9b2133855f7d51c626466b8f187710:2e8931df0d958ccd04a27fb1f0a7ea50"
                 }
             ]
         },
