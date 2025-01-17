@@ -3429,23 +3429,11 @@
                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/81571064-b827-5936-9c6a-f32f1dc7b0d8/default_primary.mpd", 
                    "drm": "clearkey", 
                    "drmkey": "6297d51f8ccd34f08ac1b7f3a5d6e610:bc89470f30559bb5b59ee36ff266492e"
-                 }, 
+                 }
             ]
-        }
-    ]
- },
- {
-    "name": "BoBoiBoy Galaxy Windara",
-    "category": "Kids",
-    "info": {
-              "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
-              "director": ["Nizam Razak"], 
-              "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
-              "year": "2024"
-             },
-    "seasons": [
+        },
         {
-          "season": 1,
+          "season": 2,
           "name": "BoBoiBoy Galaxy Windara",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
