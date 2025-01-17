@@ -3572,8 +3572,8 @@
     "category": "Kids",
     "info": {
               "poster": "https://m.media-amazon.com/images/M/MV5BODg2MTc4ZDgtZmEwNy00MzU2LThlNzctYWI0ZDBjNDQ5NzYxXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
-              "director": ["Nizam Razak"], 
-              "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+              "director": [""], 
+              "cast": [""],
               "year": "2024"
              },
     "seasons": [
@@ -3583,8 +3583,8 @@
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg",
                     "backdrop": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                    "director": ["Nizam Razak"], 
-                    "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                    "director": [""], 
+                    "cast": [""],
                     "year": "2024"
                     },
           "episodes": [       
@@ -3596,8 +3596,8 @@
                            "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                            "plot": "",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
-                           "director": ["Nizam Razak"], 
-                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "director": [""], 
+                           "cast": [""],
                            "year": "2024"
                           },
                    "video": "", 
@@ -3605,21 +3605,15 @@
                    "drmkey": ""
                 },
             ]
-        }
-    ],
-    [
-       {
-          "season": 3,
-          "name": "Mechamato",
-          "info": {
-                    "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg",
-                    "backdrop": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                    "director": ["Nizam Razak"], 
-                    "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
-                    "year": "2024"
-                    },
-          "episodes": [       
-               {
+        },
+     {
+       "season": 3,
+       "name": "Mechamato",
+       "info": {
+                 "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                 },
+       "episodes": [
+            {
                    "episode": 1,
                    "name": "",
                    "info": {
@@ -3627,13 +3621,14 @@
                            "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                            "plot": "",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
-                           "director": ["Nizam Razak"], 
-                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "director": [""], 
+                           "cast": [""],
                            "year": "2024"
                           },
                    "video": "", 
                    "drm": "clearkey", 
                    "drmkey": ""
-                },  
+                }  
+    ]
 }
 ]
