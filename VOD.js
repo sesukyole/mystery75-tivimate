@@ -3366,7 +3366,8 @@
         },
         {
           "season": 2,
-          "name": "BoBoiBoy Galaxy Sori",
+          "name": "BoBoiBoy Galaxy",
+          "category_name": "BoBoiBoy Galaxy Sori",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg",
                     "backdrop": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
@@ -3378,6 +3379,7 @@
                {
                    "episode": 1,
                    "name": "Kembali Beraksi!",
+                   "category_name": "BoBoiBoy Galaxy Sori",
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
