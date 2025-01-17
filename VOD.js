@@ -3562,7 +3562,7 @@
                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/82c19ef2-cf6d-591c-a9c3-eea42158b897/default_primary.mpd", 
                    "drm": "clearkey", 
                    "drmkey": "9d74488c2623b3ebd365dc161167d510:f224cd151a0a3c523810b639a4546495"
-                 },
+                 }
             ]
         }
     ]
@@ -3572,8 +3572,8 @@
     "category": "Kids",
     "info": {
               "poster": "https://m.media-amazon.com/images/M/MV5BODg2MTc4ZDgtZmEwNy00MzU2LThlNzctYWI0ZDBjNDQ5NzYxXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
-              "director": [""], 
-              "cast": [""],
+              "director": ["Nizam Razak"], 
+              "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
               "year": "2024"
              },
     "seasons": [
@@ -3583,8 +3583,8 @@
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg",
                     "backdrop": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                    "director": [""], 
-                    "cast": [""],
+                    "director": ["Nizam Razak"], 
+                    "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
                     "year": "2024"
                     },
           "episodes": [       
@@ -3596,13 +3596,13 @@
                            "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                            "plot": "Kisah perjuangan Amato bersama dengan sahabat baik robotnya, MechaBot, yang mempunyai kemampuan luar biasa.Mereka bersatu bersama-sama sebagai rakan untuk melindungi Bumi dari robot-robot jahat.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
-                           "director": [""], 
-                           "cast": [""],
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Armand Ezra,Muhamad Noradzlan Mohamad Nazir,Alexander Machado"],
                            "year": "2024"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7569e479-ca3c-5c5e-9cd2-ac6c411d977c/default_dash.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "41255196d1e059d84845da6541ee8510:53854ba57101e2efb0077fea72212e87"
                 }
             ]
         },
@@ -3621,8 +3621,8 @@
                            "bg": "https://m.media-amazon.com/images/M/MV5BNTgxNGIxYWItODU2ZC00YzA1LWJmNmMtMDA2YzhiZGEzMzk1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                            "plot": "The story of Amato's struggle together with his robot best friend, MechaBot, who has incredible abilities. They unite together as friends to protect Earth from evil robots.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BN2QyZWZiNzMtOGE0OS00ODczLTg4ZmMtYWI1Njg0OTljZmY5XkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
-                           "director": [""], 
-                           "cast": [""],
+                           "director": [], 
+                           "cast": [],
                            "year": "2024"
                           },
                    "video": "", 
