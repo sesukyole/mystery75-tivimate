@@ -3151,29 +3151,58 @@
           "season": 2,
           "name": "BoBoiBoy",
           "info": {
-                    "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                    "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg",
                     "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                     "director": ["Nizam Razak"], 
-                    "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
-                    "year": "2011"
+                    "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                    "year": "2012"
                    },
           "episodes": [       
                {
                    "episode": 1,
                    "name": "!",
                    "info": {
-                           "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                           "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "plot": "",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
-                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
-                           "year": "2023"
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
                           },
                    "video": "", 
                    "drm": "clearkey", 
                    "drmkey": ""
-                 },  
+                 }
+            ]
+        }, 
+        {
+          "season": 3,
+          "name": "BoBoiBoy",
+          "info": {
+                    "poster": "https://image.tmdb.org/t/p/w500/dOVBrjhAQJVTb8duMjaFuTN0gfU.jpg",
+                    "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                    "director": ["Nizam Razak"], 
+                    "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                    "year": "2013"
+                   },
+          "episodes": [       
+               {
+                   "episode": 1,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/dOVBrjhAQJVTb8duMjaFuTN0gfU.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/dOVBrjhAQJVTb8duMjaFuTN0gfU.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2013"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 }    
             ]
         }
     ]
