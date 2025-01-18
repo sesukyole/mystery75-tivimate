@@ -3033,6 +3033,147 @@
                     "drm": "clearkey", 
                     "drmkey": ""
                   },
+                {
+                    "episode": 7,
+                    "name": "BoBoiBoy",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                            "year": "2011"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                  },
+               {
+                    "episode": 8,
+                    "name": "BoBoiBoy",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                            "year": "2011"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                  },
+               {
+                    "episode": 9,
+                    "name": "BoBoiBoy",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                            "year": "2011"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                  },
+               {
+                    "episode": 10,
+                    "name": "BoBoiBoy",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                            "year": "2011"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                  },
+               {
+                    "episode": 11,
+                    "name": "BoBoiBoy",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                            "year": "2011"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                  },
+               {
+                    "episode": 12,
+                    "name": "BoBoiBoy",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                            "year": "2011"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                  },
+               {
+                    "episode": 13,
+                    "name": "BoBoiBoy",
+                    "info": {
+                            "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                            "plot": "",
+                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                            "director": ["Nizam Razak"], 
+                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                            "year": "2011"
+                           },
+                    "video": "", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                  }
+            ]
+        },
+        {
+          "season": 2,
+          "name": "BoBoiBoy",
+          "info": {
+                    "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                    "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                    "director": ["Nizam Razak"], 
+                    "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
+                    "year": "2011"
+                   },
+          "episodes": [       
+               {
+                   "episode": 1,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2023"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },  
             ]
         }
     ]
@@ -3459,7 +3600,6 @@
                    "episode": 1,
                    "name": "Kembali Beraksi!",
                    "info": {
-                           "name": "BoBoiBoy Galaxy Sori",
                            "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BMzA0YmE3NjItZmNhYi00N2ViLWFhMzMtMThlYWU4Nzg2MTg0XkEyXkFqcGc@._V1_QL100_UX600_.jpg", 
                            "plot": "Selepas kehancuran Stesen TAPOPS, BoBoiBoy dan rakan-rakan pulang ke Bumi tetapi seorang musuh lama muncul kembali.",
@@ -3555,7 +3695,7 @@
             ]
         },
         {
-          "season": 2,
+          "season": 3,
           "name": "BoBoiBoy Galaxy Windara",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BZTIxODdkNzItNWM1NC00NWJmLWIzZWYtNjRkOTBlMDk2ZmQzXkEyXkFqcGc@._V1_QL100_UX550_.jpg",
