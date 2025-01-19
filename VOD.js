@@ -151,8 +151,8 @@
   "name": "Deadpool & Wolverine", 
   "category": "Action",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_FMjpg_UX600_CR0,1,600,900_.jpg", 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Filem ini mengisahkan kerjasama tidak dijangka antara Deadpool (Ryan Reynolds) dan Wolverine (Hugh Jackman) yang berganding bahu untuk melawan penjahat baru yang mengancam untuk mengubah keseluruhan alam nyata mereka. Plot bermula dengan kekacauan dan kecerdasan Deadpool yang biasa, berlanjut kepada naratif yang kompleks di mana pasangan ini mengharungi dendam peribadi, musuh yang tidak henti-henti, dan makna lebih mendalam tentang kepahlawanan.", 
            "backdrop": "https://m.media-amazon.com/images/M/MV5BMGVhYWUyNzMtNDBkOS00NDM1LWIwNGMtZTQ5YjMwNmZhYTE1XkEyXkFqcGdeQWRvb2xpbmhk._V1_UX1920_CR0,1,1920,1080_.jpg", 
            "director": ["Shawn Levy"], 
