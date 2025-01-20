@@ -1608,6 +1608,227 @@
            "drm": "clearkey", 
            "drmkey": "77e5820e8fb55d5e97d3c608a8754927:ead8ff4e7fd15d2b1eb0c8f47bb0ba47"
  },
+ {
+  "name": "Cuckoo", 
+  "category": "Horror",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTBhMjVkOTQtYWUyOS00ZDVmLWJmMDMtYTg3MTBlMGIzNzkxXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTBhMjVkOTQtYWUyOS00ZDVmLWJmMDMtYTg3MTBlMGIzNzkxXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Dengan berat hati, Gretchen, 17 tahun meninggalkan rumahnya di Amerika untuk tinggal bersama ayahnya yang baru saja berpindah ke resort di Jerman Alps bersama keluarga baru. Tiba di residen barunya, mereka diraikan oleh En. König, majikan ayahnya yang mempunyai minat yang sukar dijelaskan kepada saudara tiri Gretchen iaitu Alma. Dia berasakan ada sesuatu yang tidak kena dalam syurgawi percutian yang tiada gangguan.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPXZZ_IVP_LAND_917x516.jpg", 
+           "director": ["Tilman Singer"], 
+           "cast": ["Hunter Schafer,Jan Bluthardt"],
+           "trailer": "sBoPoKL0EQY",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/11e8a102-705c-5099-a9d7-5946ebc03835/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "ffdfc64af88af1d7a1cf275ed2e72810:3585e5afd9bf93e9ca31b3aedc119499"
+ },
+ {
+  "name": "Gladiator 2", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "After his home is conquered by the tyrannical emperors who now lead Rome, Lucius is forced to enter the Colosseum and must look to his past to find strength to return the glory of Rome to its people.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMzZmMjY2NzgtYTM4Zi00OTRlLWI0YjUtZGNhMTc5ZDhlODIyXkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+           "director": ["Ridley Scott"], 
+           "cast": ["Paul Mescal,Denzel Washington,Pedro Pascal"],
+           "trailer": "4rgYUipGJNo",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/457aaea8-77c9-5ba7-9267-2e32cbad880b/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "1fcc68b62f23d5494766810f0d9d3510:05bdb9cbf972adcb0dedc8a7075cde7e"
+ },
+ {
+  "name": "Don Dukun", 
+  "category": "Comedy",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjg0NGJlZjUtZDk1Yy00ODQ2LWJhNmMtYWY1YmVjMGFkOTBlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjg0NGJlZjUtZDk1Yy00ODQ2LWJhNmMtYWY1YmVjMGFkOTBlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Seorang dukun 'instafamous' yang bekerja keras, Don Arif ingin menjadi dukun yang dihormati seperti pengajarnya dengan menghalau hantu olok-olok tetapi ayahnya tidak bersetuju. Tatkala tawaran lumayan daripada seorang janda kaya-raya tiba untuk mengubati anak perempuannya yang dirasuk, Don Arif segera mengambil peluang itu. Pada mulanya dia bersaing dengan pesaingnya, kemudian dia mendapati rahsia gelap mesti bersatu dengan mereka bagi berdepan kuasa jahat untuk menyelamatkan gadis tersebut.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KQCZC_IVP_LAND_917x516.jpg", 
+           "director": ["Waan Hafiz"], 
+           "cast": ["Zul Ariffin,Douglas Lim,Ropie Cecupak"],
+           "trailer": "mirAy8FN6RY",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6169e144-8a0f-5070-a240-0d5bd5772a77/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "7223285d0f7d9c8118ae5a7b89bd6910:782a509f590e25c1cf59b83f64f5539d"
+ },
+  {
+  "name": "Fireheart", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYTA4ODQzOGItNmYyNC00ZTg1LWE0OGQtNmJjMDU5MTRiOGRiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYTA4ODQzOGItNmYyNC00ZTg1LWE0OGQtNmJjMDU5MTRiOGRiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Pada tahun 1932, di bandar New York, wanita tidak dibenarkan menjadi anggota bomba. Georgia Nolan yang berusia enam belas tahun menyimpan impian untuk menjadi anggota bomba wanita pertama di dunia. Apabila seorang penjenayah misteri mula membakar Broadway dan para anggota bomba New York mulai hilang, Georgia Nolan melihat itu sebagai peluang keemasan untuk menyamar sebagai Joe dan menyertai satu pasukan bomba tambahan untuk menghentikan kebakaran.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPKMX_IVP_LAND_917x516.jpg", 
+           "director": ["Theodore Ty,Laurent Zeitoun"], 
+           "cast": ["Alice Pol,Vincent Cassel"],
+           "trailer": "GDz3qdVQtSI",
+           "year": "2022"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/84848ad0-16f2-59df-a20c-a226b66fdc05/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "4dadea6aaa419c3c00f9e3c5e03e0f10:434c4c0c625a79724f087d4701c18bc1"
+ },
+ {
+  "name": "Goodbye Don glees", 
+  "category": "Drama",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYTQyMTQzYWEtOTc2Zi00MzQ1LTlhZTktMmE0OTczMzhmZjJjXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/MV5BYTQyMTQzYWEtOTc2Zi00MzQ1LTlhZTktMmE0OTczMzhmZjJjXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Remaja terasing, Roma, Toto dan Drop menggelarkan diri mereka 'Don Giles',satu nama tidak rasmi untuk aktiviti belakang rumah. Satu hari, apabila mereka dipersalahkan kerana kebakaran hutan berdekatan, mereka menuju ke hutan itu untuk membuktikan mereka tidak bersalah. Ketika bencana menghalang ekspedisi mereka, ketegangan berlaku antara Roma, Toto dan Drop. Mereka sedar menjadi matang membawa mereka ke jalan berbeza dalam hidup.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPXXZ_IVP_LAND_917x516.jpg", 
+           "director": ["Atsuko Ishizuka"], 
+           "cast": ["Natsuki Hanae,Yuki Kaji"],
+           "trailer": "okH8Y9FKpWA",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/aefe82a3-f742-5f4b-821f-40e43bdd3dfa/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "ce27b6e39c6ed00a6b8e646d83a4d810:0627ee954bd28e154ea655f70e4b5e86"
+ },
+ {
+  "name": "Mereka yang Tertewas",
+  "category": "Drama",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYjhjZDJiNDAtNTkzNS00YzhhLTk0YzktMWEyZWFmMzk1ZDA2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/MV5BYjhjZDJiNDAtNTkzNS00YzhhLTk0YzktMWEyZWFmMzk1ZDA2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Berdasarkan novel yang disukai ramai, filem ini membabadkan perjalanan hidup Tapa yang berpindah daripada kampung asalnya ke Kampung Bukit Setugal. Di sana, Tapa yang dikenali sebagai Lebai Pa cuba menyebarkan ajaran Islam ketika populasi semakin tidak mengindahkan agama.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPXYA_IVP_LAND_917x516.jpg", 
+           "director": ["Dato' Zulkeflie M.Osman"], 
+           "cast": ["Zaidi Omar,Fiza Halim,Fad Anuar"],
+           "trailer": "ns6ygiRF5NQ",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1040ed75-800f-585c-a64d-b873f063f547/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "791a80de7bbabf06842d2afc61793010:0c8017557bde46ca52d8fa62a92739e2"
+ },
+ {
+  "name": "The wild Robot",
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Filem ini menceritakan tentang Roz, sebuah robot perkhidmatan yang karam di pulau tidak berpenghuni dan terpaksa menyesuaikan diri dengan persekitarannya, membina hubungan dengan hidupan liar di situ dan menjadi ibu angkat kepada seekor angsa yatim piatu, Brightbill.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPNIT_IVP_LAND_917x516.jpg", 
+           "director": ["Chris Sanders"], 
+           "cast": ["Lupita Nyong'o,Pedro Pascal"],
+           "trailer": "67vbA5ZJdKQ",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/efe73ad7-c737-593d-af70-00a00dfb8d81/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "ffc549db60581acc343db556d6f24710:d8f1a8e54df89dc0589e890e9ac14c8a"
+ },
+ {
+  "name": "Winnie-the-Pooh: Blood and Honey 2",
+  "category": "Horror",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZmU2YmNlOTYtYWY5OS00YTk1LWExNzctMTAxYzY3ZDA1OTE5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/MV5BZmU2YmNlOTYtYWY5OS00YTk1LWExNzctMTAxYzY3ZDA1OTE5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Tidak mahu lagi hidup dalam bayangan, Winnie-the-Pooh, Piglet, Owl dan Tigger menyerang bandar Ashtown, kampung zaman kanak-kanak Christopher Robin. Sekali lagi menyebabkan kematian berdarah dan kekacauan yang mereka tinggalkan.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPVAE_IVP_LAND_917x516.jpg", 
+           "director": ["Rhys Frake-Waterfield"], 
+           "cast": ["Scott Chambers,Tallulah Evans,Ryan Oliva"],
+           "trailer": "jhznkB3g",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e64e9eba-0640-5aa8-a12b-23659bca081b/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "1f1acdc5729eb22a5820178d9bf4f010:790ae7612d16b8b20a415d53f6db7147"
+ },
+ {
+  "name": "Despicable Me 4",
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Gru meraikan anggota baru dalam keluarga, Gru Junior yang berniat untuk menyiksa bapanya. Tidak lama kemudian, keharmonian antara dua beranak berakhir apabila dalang penjenayah, Maxime Le Mal melarikan diri daripada penjara dan berjanji untuk membalas dendam terhadap Gru.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KOHBA_IVP_LAND_917x516.jpg", 
+           "director": ["Chris Renaud"], 
+           "cast": ["Steve Carell,Kristen Wiig,Pierre Coffin"],
+           "trailer": "HK7EEO8jpOE",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/071886f2-5831-51dc-b328-afb8c94b4bea/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "5f5876d6d868934e91611b24c54bde10:b53bf99c9b7f57ebebdf4bf0d86bbdcc"
+ },
+ {
+  "name": "Lights Out",
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMDczYTgwNjEtNmExYy00YzA4LTg0YjUtYjkxNzE4YzZmZGQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/MV5BMDczYTgwNjEtNmExYy00YzA4LTg0YjUtYjkxNzE4YzZmZGQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Michael 'Duffy' Duffield, veteran gelandangan sentiasa berpindah randah sehingga dia bertemu Max Bomer, bekas penipu. Perasan kemahiran Duffy setelah dia terlibat dalam pergaduhan di bar, Max menawarkannya pekerjaan dengan gaji yang tinggi. Bersetuju, Duffy mendapati pekerjaan itu sebenarnya bertarung dalam kelab pertarungan bawah tanah. Dia kemudian terjebak dalam dunia keganasan dan pantang menyerah serta dipenuhi rahsia dan kegelapan.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KKSJN_IVP_LAND_917x516.jpg", 
+           "director": ["Christian Sesma"], 
+           "cast": ["Frank Grillo,Mekhi Phifer,Jaime King"],
+           "trailer": "VfIwIPjBIUE",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c161e6a9-1eff-5a00-8038-194923df8e3f/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "d1c88a90651d1afe62ba6f5c3eebdb10:4c8ab4165be0dce7c1da2d866c8822a3"
+ },
+ {
+  "name": "Baik Punya Ah-Long",
+  "category": "Drama",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNDgxYjBjODEtMDQwNC00N2M3LWJiNGUtMzRkNjY4MmE2ODU2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/MV5BNDgxYjBjODEtMDQwNC00N2M3LWJiNGUtMzRkNjY4MmE2ODU2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Filem ini mengisahkan dua adik-beradik, Aloy dan Ale yang diminta oleh ayah mereka untuk menjalankan perniagaan. Meskipun tiada pengalaman, Aloy dan Ale tetap menyahut cabaran cabaran ayah mereka dengan memulakan perniagaan pinjaman wang. Walau bagaimanapun, perniagaan mereka telah menggugat Lan Panda dan menyebabkan ketidakpuasan hati. Lan Panda kemudiannya memulakan agenda untuk menghapuskan Aloy dan Ale.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPKKC_IVP_LAND_917x516.jpg", 
+           "director": ["Dato Afdlin Shauki"], 
+           "cast": ["Johan Raja Lawak,Zizan Razak,Jo Hanania,Dato' Afdlin Shauki"],
+           "trailer": "82N34VFbp_g",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/550afe51-41b2-5553-b4f6-1167bc3343d3/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "d4688e11f190416b0457bf26df631110:af9c6a136970ae531b9fc19bc318ffc8"
+ },
+ {
+  "name": "The Killer",
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYjQ1MWNkNGQtMzI2ZC00OTJiLTljZDMtZTUxNDljNTI1MTk0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/MV5BYjQ1MWNkNGQtMzI2ZC00OTJiLTljZDMtZTUxNDljNTI1MTk0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Apabila pembunuh kontrak yang ditakuti enggan membunuh seorang wanita muda buta atas arahan pengendalinya, dia mendapati dirinya diburu oleh rakan sekerja lama dan seorang detektif yang gigih.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000018X834383_IVP_LAND_917x516.jpg", 
+           "director": ["JOHN WOO"], 
+           "cast": ["NATHALIE EMMANUEL,OMAR SY,SAM WORTHINGTON"],
+           "trailer": "zgNOS5ofQhw",
+           "year": "2024"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2a954abd-ddff-5491-80c3-983a134a0d21/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "6a996ec55d7252d923c428e6d268e710:8b812702d51652785fbe94ec1d98cfae"
+ },
+ {
+  "name": "Oppenheimer ",
+  "category": "Drama",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Kisah saintis Amerika J. Robert Oppenheimer dan peranannya dalam pembangunan bom atom.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000018X821350_IVP_LAND_917x516.jpg", 
+           "director": ["CHRISTOPHER NOLAN"], 
+           "cast": ["CILLIAN MURPHY,EMILY BLUNT,MATT DAMON"],
+           "trailer": "uYPbbksJxIg",
+           "year": "2023"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/799fb676-7a7e-56cc-8c1f-644d85f66168/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "0818ab9a198e63e121687aafae5f8310:554d74ad946f1995fb5735336b9aa3d4"
+ },
   {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
