@@ -1681,7 +1681,7 @@
   "category": "Drama",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BYTQyMTQzYWEtOTc2Zi00MzQ1LTlhZTktMmE0OTczMzhmZjJjXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/MV5BYTQyMTQzYWEtOTc2Zi00MzQ1LTlhZTktMmE0OTczMzhmZjJjXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYTQyMTQzYWEtOTc2Zi00MzQ1LTlhZTktMmE0OTczMzhmZjJjXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Remaja terasing, Roma, Toto dan Drop menggelarkan diri mereka 'Don Giles',satu nama tidak rasmi untuk aktiviti belakang rumah. Satu hari, apabila mereka dipersalahkan kerana kebakaran hutan berdekatan, mereka menuju ke hutan itu untuk membuktikan mereka tidak bersalah. Ketika bencana menghalang ekspedisi mereka, ketegangan berlaku antara Roma, Toto dan Drop. Mereka sedar menjadi matang membawa mereka ke jalan berbeza dalam hidup.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPXXZ_IVP_LAND_917x516.jpg", 
            "director": ["Atsuko Ishizuka"], 
@@ -1698,7 +1698,7 @@
   "category": "Drama",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BYjhjZDJiNDAtNTkzNS00YzhhLTk0YzktMWEyZWFmMzk1ZDA2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/MV5BYjhjZDJiNDAtNTkzNS00YzhhLTk0YzktMWEyZWFmMzk1ZDA2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYjhjZDJiNDAtNTkzNS00YzhhLTk0YzktMWEyZWFmMzk1ZDA2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Berdasarkan novel yang disukai ramai, filem ini membabadkan perjalanan hidup Tapa yang berpindah daripada kampung asalnya ke Kampung Bukit Setugal. Di sana, Tapa yang dikenali sebagai Lebai Pa cuba menyebarkan ajaran Islam ketika populasi semakin tidak mengindahkan agama.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPXYA_IVP_LAND_917x516.jpg", 
            "director": ["Dato' Zulkeflie M.Osman"], 
@@ -1715,7 +1715,7 @@
   "category": "Kids",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Filem ini menceritakan tentang Roz, sebuah robot perkhidmatan yang karam di pulau tidak berpenghuni dan terpaksa menyesuaikan diri dengan persekitarannya, membina hubungan dengan hidupan liar di situ dan menjadi ibu angkat kepada seekor angsa yatim piatu, Brightbill.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPNIT_IVP_LAND_917x516.jpg", 
            "director": ["Chris Sanders"], 
@@ -1732,7 +1732,7 @@
   "category": "Horror",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZmU2YmNlOTYtYWY5OS00YTk1LWExNzctMTAxYzY3ZDA1OTE5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/MV5BZmU2YmNlOTYtYWY5OS00YTk1LWExNzctMTAxYzY3ZDA1OTE5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZmU2YmNlOTYtYWY5OS00YTk1LWExNzctMTAxYzY3ZDA1OTE5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Tidak mahu lagi hidup dalam bayangan, Winnie-the-Pooh, Piglet, Owl dan Tigger menyerang bandar Ashtown, kampung zaman kanak-kanak Christopher Robin. Sekali lagi menyebabkan kematian berdarah dan kekacauan yang mereka tinggalkan.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPVAE_IVP_LAND_917x516.jpg", 
            "director": ["Rhys Frake-Waterfield"], 
@@ -1749,7 +1749,7 @@
   "category": "Kids",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Gru meraikan anggota baru dalam keluarga, Gru Junior yang berniat untuk menyiksa bapanya. Tidak lama kemudian, keharmonian antara dua beranak berakhir apabila dalang penjenayah, Maxime Le Mal melarikan diri daripada penjara dan berjanji untuk membalas dendam terhadap Gru.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/KOHBA_IVP_LAND_917x516.jpg", 
            "director": ["Chris Renaud"], 
@@ -1766,7 +1766,7 @@
   "category": "Action",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMDczYTgwNjEtNmExYy00YzA4LTg0YjUtYjkxNzE4YzZmZGQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/MV5BMDczYTgwNjEtNmExYy00YzA4LTg0YjUtYjkxNzE4YzZmZGQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMDczYTgwNjEtNmExYy00YzA4LTg0YjUtYjkxNzE4YzZmZGQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Michael 'Duffy' Duffield, veteran gelandangan sentiasa berpindah randah sehingga dia bertemu Max Bomer, bekas penipu. Perasan kemahiran Duffy setelah dia terlibat dalam pergaduhan di bar, Max menawarkannya pekerjaan dengan gaji yang tinggi. Bersetuju, Duffy mendapati pekerjaan itu sebenarnya bertarung dalam kelab pertarungan bawah tanah. Dia kemudian terjebak dalam dunia keganasan dan pantang menyerah serta dipenuhi rahsia dan kegelapan.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/KKSJN_IVP_LAND_917x516.jpg", 
            "director": ["Christian Sesma"], 
@@ -1783,7 +1783,7 @@
   "category": "Drama",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BNDgxYjBjODEtMDQwNC00N2M3LWJiNGUtMzRkNjY4MmE2ODU2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/MV5BNDgxYjBjODEtMDQwNC00N2M3LWJiNGUtMzRkNjY4MmE2ODU2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNDgxYjBjODEtMDQwNC00N2M3LWJiNGUtMzRkNjY4MmE2ODU2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Filem ini mengisahkan dua adik-beradik, Aloy dan Ale yang diminta oleh ayah mereka untuk menjalankan perniagaan. Meskipun tiada pengalaman, Aloy dan Ale tetap menyahut cabaran cabaran ayah mereka dengan memulakan perniagaan pinjaman wang. Walau bagaimanapun, perniagaan mereka telah menggugat Lan Panda dan menyebabkan ketidakpuasan hati. Lan Panda kemudiannya memulakan agenda untuk menghapuskan Aloy dan Ale.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/KPKKC_IVP_LAND_917x516.jpg", 
            "director": ["Dato Afdlin Shauki"], 
@@ -1800,7 +1800,7 @@
   "category": "Action",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BYjQ1MWNkNGQtMzI2ZC00OTJiLTljZDMtZTUxNDljNTI1MTk0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/MV5BYjQ1MWNkNGQtMzI2ZC00OTJiLTljZDMtZTUxNDljNTI1MTk0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYjQ1MWNkNGQtMzI2ZC00OTJiLTljZDMtZTUxNDljNTI1MTk0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Apabila pembunuh kontrak yang ditakuti enggan membunuh seorang wanita muda buta atas arahan pengendalinya, dia mendapati dirinya diburu oleh rakan sekerja lama dan seorang detektif yang gigih.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000018X834383_IVP_LAND_917x516.jpg", 
            "director": ["JOHN WOO"], 
@@ -1817,7 +1817,7 @@
   "category": "Drama",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Kisah saintis Amerika J. Robert Oppenheimer dan peranannya dalam pembangunan bom atom.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000018X821350_IVP_LAND_917x516.jpg", 
            "director": ["CHRISTOPHER NOLAN"], 
