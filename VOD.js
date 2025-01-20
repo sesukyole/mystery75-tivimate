@@ -1621,7 +1621,7 @@
            "trailer": "sBoPoKL0EQY",
            "year": "2024"
             }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/11e8a102-705c-5099-a9d7-5946ebc03835/default_dash.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/11e8a102-705c-5099-a9d7-5946ebc03835/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "ffdfc64af88af1d7a1cf275ed2e72810:3585e5afd9bf93e9ca31b3aedc119499"
  },
@@ -1638,7 +1638,7 @@
            "trailer": "4rgYUipGJNo",
            "year": "2024"
             }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/457aaea8-77c9-5ba7-9267-2e32cbad880b/default_dash.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/457aaea8-77c9-5ba7-9267-2e32cbad880b/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "1fcc68b62f23d5494766810f0d9d3510:05bdb9cbf972adcb0dedc8a7075cde7e"
  },
@@ -1655,7 +1655,7 @@
            "trailer": "mirAy8FN6RY",
            "year": "2024"
             }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6169e144-8a0f-5070-a240-0d5bd5772a77/default_dash.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6169e144-8a0f-5070-a240-0d5bd5772a77/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "7223285d0f7d9c8118ae5a7b89bd6910:782a509f590e25c1cf59b83f64f5539d"
  },
@@ -1672,7 +1672,7 @@
            "trailer": "GDz3qdVQtSI",
            "year": "2022"
             }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/84848ad0-16f2-59df-a20c-a226b66fdc05/default_dash.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/84848ad0-16f2-59df-a20c-a226b66fdc05/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "4dadea6aaa419c3c00f9e3c5e03e0f10:434c4c0c625a79724f087d4701c18bc1"
  },
@@ -1689,7 +1689,7 @@
            "trailer": "okH8Y9FKpWA",
            "year": "2024"
             }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/aefe82a3-f742-5f4b-821f-40e43bdd3dfa/default_dash.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/aefe82a3-f742-5f4b-821f-40e43bdd3dfa/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "ce27b6e39c6ed00a6b8e646d83a4d810:0627ee954bd28e154ea655f70e4b5e86"
  },
@@ -1706,7 +1706,7 @@
            "trailer": "ns6ygiRF5NQ",
            "year": "2024"
             }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1040ed75-800f-585c-a64d-b873f063f547/default_dash.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1040ed75-800f-585c-a64d-b873f063f547/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "791a80de7bbabf06842d2afc61793010:0c8017557bde46ca52d8fa62a92739e2"
  },
@@ -1723,7 +1723,7 @@
            "trailer": "67vbA5ZJdKQ",
            "year": "2024"
             }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/efe73ad7-c737-593d-af70-00a00dfb8d81/default_dash.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/efe73ad7-c737-593d-af70-00a00dfb8d81/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "ffc549db60581acc343db556d6f24710:d8f1a8e54df89dc0589e890e9ac14c8a"
  },
@@ -1740,7 +1740,7 @@
            "trailer": "jhznkB3g",
            "year": "2024"
             }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e64e9eba-0640-5aa8-a12b-23659bca081b/default_dash.mpd", 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e64e9eba-0640-5aa8-a12b-23659bca081b/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "1f1acdc5729eb22a5820178d9bf4f010:790ae7612d16b8b20a415d53f6db7147"
  },
