@@ -1829,6 +1829,40 @@
            "drm": "clearkey", 
            "drmkey": "0818ab9a198e63e121687aafae5f8310:554d74ad946f1995fb5735336b9aa3d4"
  },
+ {
+  "name": "Aquaman",
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_QL100_UX500_.jpg", 
+           "plot": "Arthur Curry, separuh manusia dan separuh Atlantean yang mendapati dirinya pewaris kerajaan bawah laut, Atlantis. Suatu ketika dulu tamadun paling maju di Bumi, kini ia sebuah kota bawah laut yang diperintah Raja Orm yang gila kuasa. Dengan bilangan tentera yang ramai, Orm merancang untuk menakluk seluruh lautan - dan seterusnya kehidupan di darat. Dengan bantuan Vulko iaitu penasihat diraja, Aquaman harus mendapatkan Trident of Atlan yang berlagenda dan menerima takdir sebagai pelindung lautan.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/IUHMM_IVP_LAND_917x516.jpg", 
+           "director": ["James Wan"], 
+           "cast": ["Jason Momoa,Amber Heard,Patrick Wilson"],
+           "trailer": "2wcj6SrX4zw",
+           "year": "2018"
+            }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da9c19bcbea8a6a4ef2035c_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "168f91ebd48457969146c998154c67f5:a48463bb600178a9bffb367f8300c666"
+ },
+ {
+  "name": "Aquaman and the Lost Kingdom",
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMGFhZjViNWYtMDVlNS00ZWRmLWFiZTAtMjU3YmM0MTQ1Y2ZhXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMGFhZjViNWYtMDVlNS00ZWRmLWFiZTAtMjU3YmM0MTQ1Y2ZhXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Setelah gagal untuk mengalahkan Aquaman, Black Manta yang mahu  membalas dendam atas kematian ayahnya, ingin menumpaskan Aquaman buat selama-lamanya.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/10000150X813093_IVP_LAND_917x516.jpg", 
+           "director": ["James Wan"], 
+           "cast": ["Jason Momoa,Amber Heard,Patrick Wilson, Nicole Kidman"],
+           "trailer": "mRGMMd8eazw",
+           "year": "2023"
+            }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ff1ea79b-4932-5c9d-89dd-e6ef6eaae894/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "69868e26443b703a67fe379daf350b10:44aff11cfe0a1868e542317b22d62020"
+ },
   {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
