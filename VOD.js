@@ -1863,6 +1863,40 @@
            "drm": "clearkey", 
            "drmkey": "69868e26443b703a67fe379daf350b10:44aff11cfe0a1868e542317b22d62020"
  },
+ {
+  "name": "Batman",
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Selepas menyaksikan pembunuhan kejam kedua ibu bapanya sewaktu kacil, jutawan-dermawan Bruce Wayne berikrar sepanjang hayatnya memerangi jenayah dengan menyamar sebagai Batman. Musuh ketatnya, Joker mempunyai rancangan keji terhadap rakyat Gotham City. Ketamakannya dipadankan dengan ketaksuban terhadap wartawan Vicki Vale. Tetapi Batman ada untuk menangani setiap langkah Joker. Dengan nasib Gotham City dan Vicki dalam pertimbangan, adakah kebaikan atau kejahatan akan terus kekal?", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjIxNGVjM2YtOGU3My00NmY1LWEzNTktOWUzMDcyOTZlM2E1XkEyXkFqcGc@._V1_QL75_UX1000_.jpg", 
+           "director": ["Tim Burton"], 
+           "cast": ["Michael Keaton,Jack Nicholson,Kim Basinger"],
+           "trailer": "ygK7sAavO0c",
+           "year": "1989"
+            }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe7965e59f821aa9e6ee5c_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "c7b1796a439c5df68b81ef3fea4f6baf:0be630fa0e280198c09a7adf0d41ee96"
+ },
+ {
+  "name": "Batman Returns",
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Hanya Batman yang mampu mempertahankan bandaraya ini dari kacau- bilau yang dilakukan oleh Penguin apabila dia sengaja menyebarkan sisa toksik ke seluruh metropolitan. Sementara itu, Kesatria Gelap ini mungkin bertemu padanan dirinya, Si Catwoman yang licik - namun, dia masih belum tahu samada dia adalah kawan atau lawan.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/JVXAM01_IVP_LAND_917x516.jpg", 
+           "director": ["Tim Burton"], 
+           "cast": [" Michael Keaton,Danny DeVito,Michelle Pfeiffer"],
+           "trailer": "TlbtLfWvFbo",
+           "year": "1992"
+            }, 
+           "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fbc8a3e59f821aa9e6ae4b_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "ca5a6104c62f531b9c0e3388659ba33b:cac21ce1c0f9ec23264a67b8bbe16f33"
+ },
   {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
