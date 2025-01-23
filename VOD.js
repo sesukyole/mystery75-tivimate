@@ -13,7 +13,7 @@
            "added": 18,
            "ttl": 18,
            "trailer": "nw2roBPsbyU",
-           "year": "2017"
+           "year": "2017 18"
             }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cbfc1b59-d17a-57e3-9a55-6b72c59ef9db/default_primary.mpd", 
            "drm": "clearkey", 
