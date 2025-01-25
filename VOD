@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/mystery75/streaming/app/Series.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml"
 
 
 
@@ -1202,7 +1202,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/43bc
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a5580676416fb8b215e23638ddcd610:07ff72561ad9723e01be293effdd6b8d
-#EXTINF:-1 tvg-id="" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg" group-title="", 16 Puasa
+#EXTINF:-1 tvg-id="16 Puasa" group-title="AstroFirst" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_FMjpg_UX390_CR0,1,380,562_.jpg" group-title="", 16 Puasa
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cbfc1b59-d17a-57e3-9a55-6b72c59ef9db/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
