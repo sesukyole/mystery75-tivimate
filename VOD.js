@@ -1,7 +1,8 @@
 [ 
  {        
   "name": "16 Puasa", 
-  "category": "Movies",
+  "category": "Comedy",
+  "category": "Malay",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
@@ -9,7 +10,6 @@
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/IDMVZ_IVP_LAND_917x516.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
-           "genre": ["Comedy"],
            "trailer": "nw2roBPsbyU",
            "year": "2017"
             }, 
@@ -19,7 +19,7 @@
  }, 
  {        
   "name": "17 Puasa", 
-  "category": "Movies",
+  "category": "Comedy",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMmI1YWIwNWUtYzYwYi00MjFiLWEzYjUtNTE3MzU0ZTUxOGE0XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
@@ -27,7 +27,6 @@
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/IVIHW_IVP_LAND_917x516.jpg", 
            "director": ["Mamat Khalid"], 
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
-           "genre": ["Comedy"],
            "trailer": "e9dWysgWKNU",
            "year": "2019"
            }, 
@@ -37,7 +36,7 @@
  }, 
  {        
   "name": "300", 
-  "category": "Movies",
+  "category": "Action",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BOGZhNDJlY2EtNDE0YS00NzNlLWEzMjktZWE2ZTM2NDljODU2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BOGZhNDJlY2EtNDE0YS00NzNlLWEzMjktZWE2ZTM2NDljODU2XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
@@ -45,7 +44,6 @@
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/ITNJV_IVP_LAND_917x516.jpg", 
            "director": ["Zack Snyder"], 
            "cast": ["Gerard Butler","Lena Headey","David Wenham","Dominic West","Vincent Regan","Michael Fassbender","Tom Wisdom","Andrew Pleaviin","Andrew Tiernan","Rodrigo Santoro","Peter Mensah","Stephen Mchattie"],
-           "genre": ["Action"],
            "trailer": "UrIbxk7idYA",
            "year": "2007"
             }, 
@@ -55,7 +53,7 @@
  }, 
  {        
   "name": "300: Rise Of An Empire", 
-  "category": "Movies",
+  "category": "Action",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@._V1_QL100_UX500_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@._V1_QL100_UX500_.jpg", 
@@ -63,7 +61,6 @@
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/JLHUA_IVP_LAND_917x516.jpg", 
            "director": ["Noam Murro"], 
            "cast": ["Sullivan Stapleton","Eva Green","Lena Headey"],
-           "genre": ["Action"],
            "trailer": "QiTBMODZy0I",
            "year": "2014"
             }, 
