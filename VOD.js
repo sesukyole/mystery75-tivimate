@@ -2,7 +2,6 @@
  {        
   "name": "16 Puasa", 
   "category": "Comedy",
-  "category": "Malay",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BZWUwY2RkNjUtYjdhMS00YTE5LWExODEtMGVhYTk4ZDdiOWVlXkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
