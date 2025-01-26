@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://xmltv.tvkaista.net/guides/indihometv.com.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://xmltv.tvkaista.net/guides/indihometv.com.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9LdWFsYV9MdW1wdXI%3D&date=20250126&channel_id=171853"refresh="1440" max-conn="1" refresh="24"
 https://www.bevy.be/bevyfiles/spain.xml.gz,
 
 
@@ -325,7 +325,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/GalaxyPremium.png" group-logo="" group-title="FHD",Galaxy Premium
+#EXTINF:-1 tvg-id="171853" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/GalaxyPremium.png" group-logo="" group-title="FHD",Galaxy Premium
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
