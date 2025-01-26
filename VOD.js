@@ -3245,7 +3245,7 @@
            "episodes": [       
                 {
                     "episode": 1,
-                    "name": "BoBoiBoy",
+                    "name": "The Beginning",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
@@ -3261,195 +3261,195 @@
                   },
                {
                     "episode": 2,
-                    "name": "BoBoiBoy",
+                    "name": "Adu Du Attacks!",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "",
+                            "plot": "When Adu Du sends his minions to attack BoBoiBoy and his friends in order to get back Ochobot who now considers BoBoiBoy his master, Ochobot grants Gopal, Yaya, and Ying superpowers to fight him back.",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
                             "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
                             "year": "2011"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fcd62da0-f131-533b-9735-9d9053d371c3/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "367554da2ed1cb93cafce48819daa610:52f60e5a8df4d93e4138e1cdb0469432"
                   },
                {
                     "episode": 3,
-                    "name": "BoBoiBoy",
+                    "name": "Multi-Monster Mayhem!",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "",
+                            "plot": "Adu Du experiments and creates a creature named the 'Multi-Monster' who is able to duplicate itself every time it is defeated, and sends it to attack BoBoiBoy and Friends.",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
                             "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
                             "year": "2011"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d03b55f3-1881-52fa-aad7-dd3662ce5efe/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "f4d19f4e5a99b2ae39303adbf2034a10:4e46345fb05ad70ad9eb8fd4249e055a"
                   }, 
                {
                     "episode": 4,
-                    "name": "BoBoiBoy",
+                    "name": "Kidnapped!",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "",
+                            "plot": "Adu Du seeks revenge by kidnapping BoBoiBoy's friends. Gopal finally discovers the true nature of his superpower and it is....?",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
                             "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
                             "year": "2011"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3e470362-bec9-506e-8c2b-f09944bf712a/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "02816407372db8403ccb5c83d0705e10:85f4a85bec95085b7f0bf3be3459e58a"
                   },
                {
                     "episode": 5,
-                    "name": "BoBoiBoy",
+                    "name": "With Great Power Comes... A Catch?!",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "",
+                            "plot": "BoBoiBoy uses his ability to split into three to help Tok Aba deliver cocoa around the neighbourhood. Meanwhile, Adu Du attempts to steal Tok Aba's secret recipe book using his minion robots.",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
                             "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
                             "year": "2011"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e2820b52-7586-5cab-80db-f97b5e976363/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "cfb1f9b1c87dd6e07239a071a1596410:770a6eeaffce52a4fd2dbb627b463724"
                   },
                {
                     "episode": 6,
-                    "name": "BoBoiBoy",
+                    "name": "A New Form Awakens!",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "",
+                            "plot": "BoBoiBoy gains consciousness only to discover that he is now trapped in Adu Du's spaceship and unable to rejoin with his other split forms.",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
                             "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
                             "year": "2011"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e8d7c26e-f2ae-5853-b1bc-7750f6f273af/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "d775445c39ddcf9aa9a770ec3f335e10:ad5be1a3a545a9b23f9dff96b149de5c"
                   },
                 {
                     "episode": 7,
-                    "name": "BoBoiBoy",
+                    "name": "Game On!",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "",
+                            "plot": "Adu Du and Probe has trapped BoBoiBoy and Gopal inside a video game. Can they get out of the game in time or are they doomed to roam the 8-bit world forever?",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
                             "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
                             "year": "2011"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f4fc77ef-c740-5374-b88e-000c86ef9330/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "38cd07f985289a1f0e653d4fe6310510:6fa70b00258a0d7fcaaa2c0c2edd56d5"
                   },
                {
                     "episode": 8,
-                    "name": "BoBoiBoy",
+                    "name": "Justice Does Not Sleep!",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "",
+                            "plot": "BoBoiBoy and Gopal are able to escape the game and are now back in the real world... along with Papa Zola, the video game's hero!",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
                             "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
                             "year": "2011"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a88fa761-ac1b-57a7-9086-01bc739af940/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "3b8299592efb2a48f58c9cb05bba2d10:812074d771e1f28ac55d3f85e9b9927a"
                   },
                {
                     "episode": 9,
-                    "name": "BoBoiBoy",
+                    "name": "Checkers",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "",
+                            "plot": "The Sleeping Monster challenges Papa Zola to a game of checkers. Will BoBoiBoy and his friends be able to defeat the monster and escape from the dream world?",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
                             "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
                             "year": "2011"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/88cd482b-37a7-5494-b29a-a0ce6434ef76/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "3ba67912d736b05367d7c96a19566110:f669da1b81972d1596ffa7061b4be791"
                   },
                {
                     "episode": 10,
-                    "name": "BoBoiBoy",
+                    "name": "Fan Mail",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "",
+                            "plot": "Adu Du orders Probe to steal BoBoiBoy's fan mails but Probe and Computer end up answering the letters instead.",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
                             "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
                             "year": "2011"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/79ff1b29-e7dc-5271-96a4-90e46b5cc83b/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "3131d7d8219137b3fd6f61b78a7e3510:d10f455e1d40b3adfb93e796e375b1d3"
                   },
                {
                     "episode": 11,
-                    "name": "BoBoiBoy",
+                    "name": "Cookie Casualty",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "",
+                            "plot": "It's the eve of World Cookie Day and Yaya is excited to bake many cookies. Adu Du decides to take advantage of this day by sending Probe to swap one of the cookie ingredients with 'Emotive Chemical X'.",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
                             "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
                             "year": "2011"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/02481aa4-c4a5-5a1e-bf0f-d36b86bf247d/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "0f7b99f38e7146f257539856d5de9710:2aa8331b7cf6d080b897073f8b2a0e82"
                   },
                {
                     "episode": 12,
-                    "name": "BoBoiBoy",
+                    "name": "Getting A Little Windy In Here",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "",
+                            "plot": "After eating a cookie laced with 'Emotive Chemical X', BoBoiBoy Wind transforms into BoBoiBoy Cyclone who is emotionally unstable. BoBoiBoy Lightning and Earth decide to take him down.",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
                             "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
                             "year": "2011"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b8439708-4ad6-567b-82c6-80b57e204a2d/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "f83f0474ecf342b9d6208e64503ad410:405887a9f7bff926fcb83634d349daa3"
                   },
                {
                     "episode": 13,
-                    "name": "BoBoiBoy",
+                    "name": "Finale - Shake It Up",
                     "info": {
                             "poster": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
                             "bg": "https://m.media-amazon.com/images/M/MV5BZTMyNzk1NDAtMWRlYy00MTNlLTgxNTgtZDFjMDM5NTBiZWEwXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-                            "plot": "",
+                            "plot": "Gopal, Yaya, and Ying are upset to find out that BoBoiBoy will be leaving soon. Meanwhile, Adu Du's spaceship has been sold in exchange for a powerful weapon called Mukalakus.",
                             "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                             "director": ["Nizam Razak"], 
                             "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean"],
                             "year": "2011"
                            },
-                    "video": "", 
+                    "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2febb014-e8da-5faa-9d23-609ef62bca4a/default_primary.mpd", 
                     "drm": "clearkey", 
-                    "drmkey": ""
+                    "drmkey": "4f9fea24baddbb2cf0229ec3be366b10:178c73032e980bb5a33005f726b36139"
                   }
             ]
         },
@@ -3466,211 +3466,211 @@
           "episodes": [       
                {
                    "episode": 1,
-                   "name": "!",
+                   "name": "Welcome Back, BoBoiBoy!",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "The gang is happy that BoBoiBoy is back in Rintis Island, but they're not so sure about Fang, the new kid in school. Gopal tells tales about a haunted house in town.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9eff8000-40ea-5c39-bc70-52c2e63a92c1/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "c35d57fdb5130141e12fadf76d8fd910:d8822cfc6905f26ea76f6ff86b3b233a"
                  },
              {
                    "episode": 2,
-                   "name": "!",
+                   "name": "The Haunted House",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "BoBoiBoy and Gopal investigate the alleged haunted house. Adu Adu and Probe hope for an alliance with the 'ghost'.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9dc05d6d-bacf-575c-81b5-e406402da7b5/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "81c8521cb329ed3741fa286816467810:22bf34de45c8be8603ec01dc57c50a1c"
                  },
              {
                    "episode": 3,
-                   "name": "!",
+                   "name": "Physical Education",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "Papa Zola, the school's newest P.E. Teacher, announces an egg-and-spoon race, further inflaming Fang and BoBoiBoy's rivalry. Adu Du tries to take advantage of the situation.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bae8e76d-5b88-57cf-9fd7-7d4eebb823e2/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "3f8e81b32bdc092cb857515ca588d010:56901a86395c40b79b15da78aad5046f"
                  },
              {
                    "episode": 4,
-                   "name": "!",
+                   "name": "Football Fight!",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "Adu Du and a couple of 'friends' join Fang's football team to compete against BoBoiBoy. No superpowers allowed, but Adu Du has some tricks up his sleeve.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/da131884-305c-5f51-a08c-ecdd1927ef00/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "06c6a0d7f4ae6c03373e8ca9ef31d310:2ad85b86dff8ecce1e7949d9d2f039d9"
                  },
              {
                    "episode": 5,
-                   "name": "!",
+                   "name": "Late for School",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "BoBoiBoy wonders why Ochobot keeps fainting when he sees Fang. For some reason, Fang seems to like buying Yaya's cookies. Suspicious! Gopal and BoBoiBoy decide to trail him to investigate.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/51120a59-ac4f-58d7-a68f-e9b8282b70b7/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "61e880d49e6f5e50cd0078bf57ffcc10:8c2f45b5b7081b31828e2d4a03b64f87"
                  },
              {
                    "episode": 6,
-                   "name": "!",
+                   "name": "Giant Mini World",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "The boys are mice-sized after being shrunk by Probe and have to put their differences aside to survive. Fang explains why he keeps buying Yaya's cookies.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/16902ef9-5c50-55db-97e2-cefe80a43a8e/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "544ac6537b3270b69e9d46c6780c4f10:f0386e4b38bb04b74fb1f98307e95de2"
                  },
              {
                    "episode": 7,
-                   "name": "!",
+                   "name": "Chemical Emotive Y",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "The gang confronts Fang about Ochobot's situation but Adu Du ambushes them with a Emotive Chemical Y ray gun. To turn themselves back to normal, they head to Adu Du's Boxy Bunker.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/96729815-0e6d-50db-8032-ea59b6fc591a/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "b95d242ce8ce219a1403f5f228081910:5557cfbf2a82135ce6b8fe20a4a4edbd"
                  },
              {
                    "episode": 8,
-                   "name": "!",
+                   "name": "Fang & Ochobot's Secret",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "The kids need to get past Adu Du's traps for the cure to their extreme emotions. Meanwhile, Fang recalls his encounter with Ochobot and how he got his powers.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/5e9ffae7-8c54-5c3a-8d8a-6cf193a83a4b/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "735d3c51b0e58668229b4af85be9ed10:a67e10504875b550e9042a62a68b8311"
                  },
              {
                    "episode": 9,
-                   "name": "!",
+                   "name": "Mornings with Mr Probe & Adu Du",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "Probe and Adu Du recap their twisted version of events through their TV show, 'Mornings with Mr Probe & Adu Du'. Guests include Adu Du playing the victim, and a naive Papa Zola.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3c911d61-ba4b-5d8b-a634-bd76731017f1/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "38446e674e52100f5c98047f298f4510:fe5f92c326d3a9802869c103ebbd06e4"
                  },
              {
                    "episode": 10,
-                   "name": "!",
+                   "name": "First Contact",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "After buying Adu Du's old spaceship, Ejo Jo learns about Earth, and our gang of heroes. Adu Du unconvincingly tries to dissuade Ejo Jo from coming to Earth.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/82b65f81-e19f-5770-8f0f-57607dd8b319/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "2c3418762c4b91c63f65d463adf36610:eff73882cbaa72f62e8d86c6d4d541a8"
                  },
              {
                    "episode": 11,
-                   "name": "!",
+                   "name": "Pop Quiz Season",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "Papa Zola surprises the kids with a Pop Quiz after class. Adu Du is anxious about Ejo Jo coming to Earth, so Probe suggests defeating the kids and stealing their powers first.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8ebc8f30-a1e3-54c1-bcd9-12b65908e239/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "e71071de4a1c9c9551b749616d711210:f5688cdc7791432d83a841dfc85f0b3d"
                  },
              {
                    "episode": 12,
-                   "name": "!",
+                   "name": "Ejo Jo Attacks",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "Ejo Jo arrives on Earth but Adu Du is less than welcoming. Angered, Ejo Jo unleashes his Destroyer Robot but Probe sacrifices himself to save his boss.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7afb82d5-a4eb-538d-be63-01567cf230d6/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "298457ed3f32337d15ce5722640b5b10:6970e65fac7cb6d73a5760768ee714a0"
                  }, 
              {
                    "episode": 13,
-                   "name": "!",
+                   "name": "Goodbye Probe",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
-                           "plot": "",
+                           "plot": "BoBoiBoy, Fang, and Ochobot are hiding in Adu Du's Boxy Bunker, while their friends are at Ejo Jo's mercy. Adu Du feels lost after losing Probe.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                            "director": ["Nizam Razak"], 
                            "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
                            "year": "2012"
                           },
-                   "video": "", 
+                   "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6e3e4e63-d851-5591-a057-ee5ea7eb7e58/default_primary.mpd", 
                    "drm": "clearkey", 
-                   "drmkey": ""
+                   "drmkey": "a9dd03ebf536fd8e5528bf76ea1c5910:fd81982aff4784025fd40b7050ec1075"
                  }
             ]
         }, 
@@ -4604,7 +4604,7 @@
           "name": "18 Again",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BNWZkYzk0YWEtZjE5ZC00MDFjLTg5M2MtNjVmNjUzZGU0OTIyXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
-                    "backdrop": "https://m.media-amazon.com/images/M/MV5BNWZkYzk0YWEtZjE5ZC00MDFjLTg5M2MtNjVmNjUzZGU0OTIyXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                    "backdrop": "https://m.media-amazon.com/images/M/MV5BMTI5Zjg0Y2MtODNiYS00YzQxLTkzZjgtMjQ4MDhhYWM5M2VkXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                     "director": ["Ha Byung-hoon"], 
                     "cast": ["Kim Ha-neul,Lee Do-hyun"],
                     "year": "2020"
