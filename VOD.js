@@ -1931,7 +1931,7 @@
   },
   {
     "name": "TWINKLING WATERMELON",
-    "category": "Drama",
+    "category": "Korea",
     "info": {
               "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
               "plot":"MUZIK DAN PENGEMBARAAN",
@@ -2211,7 +2211,7 @@
 },
 {
     "name": "ANDAI TIADA DIA",
-    "category": "Drama",
+    "category": "Malay",
     "info": {
               "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPzAErCxGSLjakC9xW1GLo1LzFT.jpg",
               "plot": "ADAPTASI DARI NOVEL",
@@ -2813,7 +2813,7 @@
  },
  {
     "name": "Dedaun Hijau Di Angin Lalu",
-    "category": "Drama",
+    "category": "Malay",
     "info": {
               "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVOBpcmzAjrwMN3o7XCERWf55b349gvsBCUeMpAThdGGItJw7YWjqL5XtU0Huq0TVo6bKt0uVtYmLYpt9F-kxfuXy-2FMLofoQ4Zh8cPl8eowO1kNYUn62f_IKyUGX3OKG3g3Gl9jhfkwmlomPFyeZQOC2yjt8b2Oxco3H5TyAGghiwWckxna2hgcF-3o/s16000/Dedaun%20Hijau%20Di%20Angin%20Lalu.jpg",
               "plot": "ADAPTASI DARI NOVEL",
@@ -3702,7 +3702,7 @@
           "episodes": [       
                {
                    "episode": 1,
-                   "name": "!",
+                   "name": "",
                    "info": {
                            "poster": "https://image.tmdb.org/t/p/w500/dOVBrjhAQJVTb8duMjaFuTN0gfU.jpg", 
                            "bg": "https://image.tmdb.org/t/p/w500/dOVBrjhAQJVTb8duMjaFuTN0gfU.jpg", 
@@ -4607,7 +4607,7 @@
 },
  {
     "name": "18 Again",
-    "category": "Romance",
+    "category": "Korea",
     "info": {
               "poster": "https://m.media-amazon.com/images/M/MV5BNWZkYzk0YWEtZjE5ZC00MDFjLTg5M2MtNjVmNjUzZGU0OTIyXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
               "director": ["Ha Byung-hoon"], 
