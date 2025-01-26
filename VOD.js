@@ -3479,6 +3479,198 @@
                    "video": "", 
                    "drm": "clearkey", 
                    "drmkey": ""
+                 },
+             {
+                   "episode": 2,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+             {
+                   "episode": 3,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+             {
+                   "episode": 4,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+             {
+                   "episode": 5,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+             {
+                   "episode": 6,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+             {
+                   "episode": 7,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+             {
+                   "episode": 8,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+             {
+                   "episode": 9,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+             {
+                   "episode": 10,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+             {
+                   "episode": 11,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+             {
+                   "episode": 12,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 }, 
+             {
+                   "episode": 13,
+                   "name": "!",
+                   "info": {
+                           "poster": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "bg": "https://image.tmdb.org/t/p/w500/uwRRCbtrNQfoULzstFwp3u2tbie.jpg", 
+                           "plot": "",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNjQxOTVmMDctOTJmZi00NWE3LTkyNWEtNjRkMGM1YWI1ZGJlXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz,Nur Sarah Alisya Zainal Rashid,Yap Ee Jean,Dzubir Mohammed Zakaria"],
+                           "year": "2012"
+                          },
+                   "video": "", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
                  }
             ]
         }, 
@@ -4409,7 +4601,6 @@
              },
     "seasons": [
         {
-          "season": 1,
           "name": "18 Again",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BNWZkYzk0YWEtZjE5ZC00MDFjLTg5M2MtNjVmNjUzZGU0OTIyXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
