@@ -1914,6 +1914,21 @@
            "drm": "clearkey", 
            "drmkey": "81d68c65a7062d0b51c57a0bc4699810:ad602e50de285c7e9773cdf988e6f396"
  },
+ {
+  "name": "Roh",
+  "category": "Horror",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BY2M1OTg3MGEtMTdjNy00MWYxLTgwNzgtNTYxMDNlYzBjYTVjXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BY2M1OTg3MGEtMTdjNy00MWYxLTgwNzgtNTYxMDNlYzBjYTVjXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "plot": "Apabila seorang budak aneh mengunjungi sebuah keluarga daif, peristiwa mistik dan seram turut berlaku.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMmE1NzBlYmItNTM3YS00ZTIxLTk1ODItN2Y4ZGQ5MjlkNmIyXkEyXkFqcGc@._V1_QL100_UX917_.jpg", 
+           "director": ["Emir Ezwan"], 
+           "cast": ["Farah Ahmad,Mhia Farhana,Harith Haziq"],
+           "trailer": "RCzo_Wpi3Pw",
+           "year": "2019"
+            }, 
+           "video": "https://d1k2us671qcoau.cloudfront.net/vodapi/vuclip_bp.m3u8?vid=1166063008&layer=P2/video/a1211428-6c21-4de0-a86b-312ea8091529/vid_1080p_V20221014055832.m3u8&area_id=1001&lang_id=7&ts=202501270156&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMWsydXM2NzFxY29hdS5jbG91ZGZyb250Lm5ldC92b2RhcGkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzkzMjE3Mn19fV19&Signature=SuR3pO9ov4FWRYjjeLyAM4-XuOmej-HF4qXICqWRFVDW6Xr1wkUZ24-xz-gZRzYMjvUsFMNA-eq849hgV9PSzphl4R49fExq3ZHeVy0zePliwl7UyOZKQJDmYqzf0Q6cIHQohRcNU2yML90rR0I4TC8YzvERL8tQDmKpY7UKe5LHLlNPyhnVwXHVN0XDNNpX4XjbN5d5c0zZxhJie4MuhSAJychSJuEh25B886wRdOfgwKWNf~fWOXu0jR7k~CC3OAC0K9ibZqJ8M2-CLxKmX-TZsbhBnsfUaq-eNwsFQo4LBsHzjFx-OPv3~TACUZGmdmld1GYU3QQuhHL3UnBI~Q__&Key-Pair-Id=APKAJ6Z4RF5IYK7Y3SQQ" 
+  },
   {
     "name": "TWINKLING WATERMELON",
     "category": "Drama",
