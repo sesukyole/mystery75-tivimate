@@ -1863,7 +1863,7 @@
            "drm": "clearkey", 
            "drmkey": "69868e26443b703a67fe379daf350b10:44aff11cfe0a1868e542317b22d62020"
  },
- {
+{
   "name": "Batman",
   "category": "Action",
   "info": { 
@@ -1880,7 +1880,7 @@
            "drm": "clearkey", 
            "drmkey": "c7b1796a439c5df68b81ef3fea4f6baf:0be630fa0e280198c09a7adf0d41ee96"
  },
- {
+{
   "name": "Batman Returns",
   "category": "Action",
   "info": { 
@@ -1897,7 +1897,7 @@
            "drm": "clearkey", 
            "drmkey": "ca5a6104c62f531b9c0e3388659ba33b:cac21ce1c0f9ec23264a67b8bbe16f33"
  },
- {
+{
   "name": "17 Again",
   "category": "Comedy",
   "info": { 
@@ -1914,7 +1914,7 @@
            "drm": "clearkey", 
            "drmkey": "81d68c65a7062d0b51c57a0bc4699810:ad602e50de285c7e9773cdf988e6f396"
  },
- {
+{
   "name": "Roh",
   "category": "Horror",
   "info": { 
@@ -1929,7 +1929,75 @@
             }, 
            "video": "https://d1k2us671qcoau.cloudfront.net/vodapi/vuclip_bp.m3u8?vid=1166063008&layer=P2/video/a1211428-6c21-4de0-a86b-312ea8091529/vid_1080p_V20221014055832.m3u8&area_id=1001&lang_id=7&ts=202501270156&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMWsydXM2NzFxY29hdS5jbG91ZGZyb250Lm5ldC92b2RhcGkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzkzMjE3Mn19fV19&Signature=SuR3pO9ov4FWRYjjeLyAM4-XuOmej-HF4qXICqWRFVDW6Xr1wkUZ24-xz-gZRzYMjvUsFMNA-eq849hgV9PSzphl4R49fExq3ZHeVy0zePliwl7UyOZKQJDmYqzf0Q6cIHQohRcNU2yML90rR0I4TC8YzvERL8tQDmKpY7UKe5LHLlNPyhnVwXHVN0XDNNpX4XjbN5d5c0zZxhJie4MuhSAJychSJuEh25B886wRdOfgwKWNf~fWOXu0jR7k~CC3OAC0K9ibZqJ8M2-CLxKmX-TZsbhBnsfUaq-eNwsFQo4LBsHzjFx-OPv3~TACUZGmdmld1GYU3QQuhHL3UnBI~Q__&Key-Pair-Id=APKAJ6Z4RF5IYK7Y3SQQ" 
   },
-  {
+ {
+   "name": "Kung Fu Panda", 
+   "category": "Kids", 
+   "info": {
+            "poster": "https://m.media-amazon.com/images/M/MV5BZDU5MDNiMGItYjVmZi00NDUxLTg2OTktNGE0NzNlNzM4NzgyXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+            "bg": "https://m.media-amazon.com/images/M/MV5BZDU5MDNiMGItYjVmZi00NDUxLTg2OTktNGE0NzNlNzM4NzgyXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+            "plot": "Ia mengikuti seekor panda yang cemerkap dan terlebih berat yang bercita-cita untuk menjadi mahaguru kung fu tetapi di sebaliknya dia seakan telah ditakdirkan untuk mengikuti jejak ayah dan datuknya dalam perniagaan restoran. Apabila wira jahat kung fu diramalkan akan melarikan diri setelah 20 tahun dalam penjara, Po dengan tidak sengaja telah dinamakan sebagai yang terpilih untuk membawa keamanan dan ini telah menghampakan wira-wira kung fu yang lain.", 
+            "backdrop": "https://linear-poster.astro.com.my/prod/poster/HSTXF_IVP_LAND_917x516.jpg", 
+            "director": ["Mark Osborne"], 
+            "cast": ["Jack Black","Dustin Hoffman","Angelina Jolie","Ian Mcshane","Jackie Chan","Seth Rogen","Lucy Liu","David Cross","Randall Duk Kim","James Hong","Dan Fogler","Michael Clarke Duncan","Wayne Knight","Kyle Gass","Jr Reed"],
+            "trailer": "PXi3Mv6KMzY",
+            "year": "2008"
+             }, 
+            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fa3a73ae366782ad9a5c4_hbovodhd/dash0/MYS_index.mpd", 
+            "drm": "clearkey", 
+            "drmkey": "c1faec7cba765d68a3111a835c7f83c2:a8268e019602f670f8c463222ec1553b"
+ },
+{
+  "name": "Kung Fu Panda 2", 
+  "category": "Kids", 
+  "info": {
+            "poster": "https://m.media-amazon.com/images/M/MV5BYmIxMGYzMTUtZDQzYy00ODc4LWE1YzQtZGMwYTc0YTYyYTE0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+            "bg": "https://m.media-amazon.com/images/M/MV5BYmIxMGYzMTUtZDQzYy00ODc4LWE1YzQtZGMwYTc0YTYyYTE0XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+            "plot": "Kini dikenali sebagai Dragon Warrior, Po melindungi Lembah Kedamaian bersama kawan-kawannya dan mahaguru kung fu yang lain iaitu Furious Five. Tetapi seorang penjahat bahaya mengancam kehidupan baru Po dengan merancang untuk menggunakan satu senjata rahsia untuk menghapus seni mempertahankan diri dan menawan China. Untuk mendapat kekuatan mengalahkan musuh barunya itu, Po harus mengingat kembali masa silamnya dan merungkai rahsia asal-usulnya.", 
+            "backdrop": "https://linear-poster.astro.com.my/prod/poster/HSTXH_IVP_LAND_917x516.jpg", 
+            "director": ["Jennifer Yuh Nelson"], 
+            "cast": ["Jack Black","Angelina Jolie","Dustin Hoffman","Gary Oldman","Seth Rogen","Lucy Liu","David Cross","James Hong","Michelle Yeoh","Danny Mcbride","Dennis Haysbert","Jean-Claude Van Damme","Victor Garber","Jackie Chan"],
+            "trailer": "TIA6KNfpRqs",
+            "year": "2011"
+             }, 
+            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fb2323ae366782ad9a74c_hbovodhd/dash0/MYS_index.mpd", 
+            "drm": "clearkey", 
+            "drmkey": "6445f22cb6bf5782a97572cf8b4a8d3f:09806afc3b84fa626e60f194e9d581a7"
+ }, 
+{
+  "name": "Kung Fu Panda 3", 
+  "category": "Kids", 
+  "info": {
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_QL100_UX500_.jpg", 
+            "bg": "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_QL100_UX500_.jpg", 
+            "plot": "Apabila ayah panda Po tiba-tiba muncul semula, pasangan yang bersatu semula itu mengembara ke satu syurga rahsia panda dan bertemu bermacam panda-panda baru yang lucu. Tetapi apabila penjahat ghaib Kai mula menghapus semua mahaguru kung fu di seluruh China, Po harus melakukan yang mustahil: belajar melatih sebuah kampung dipenuhi panda yang suka berseronok dan cemerkap untuk menjadi sepasukan Panda Kung Fu yang hebat!", 
+            "backdrop": "https://linear-poster.astro.com.my/prod/poster/HSTXJ_IVP_LAND_917x516.jpg", 
+            "director": ["Alessandro Carloni"], 
+            "cast": ["Jack Black","Bryan Cranston","Dustin Hoffman","Angelina Jolie","J.k. Simmons","Jackie Chan","Seth Rogen","Lucy Liu","Kate Hudson","David Cross","Jean-Claude Van Damme","Wayne Knight","Al Roker"], 
+            "trailer": "yqN7nHM1YTA",
+            "year": "2016"
+             }, 
+            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bbc0d2d940521074c2af68_hbovodhd/dash0/MYS_DOLBY_index.mpd",
+            "drm": "clearkey", 
+            "drmkey": "e96619a1d9130e413a884c7691edcef2:96fe6c272997229f21b381204e3f3dde"
+ },
+{
+  "name": "Kung Fu Panda Holiday", 
+  "category": "Kids", 
+  "info": {
+            "poster": "https://m.media-amazon.com/images/M/MV5BYmIyM2Q1NDktNzg5OS00YzNiLWI1NzktZDJlODA4N2I1YWI1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+            "bg": "https://m.media-amazon.com/images/M/MV5BYmIyM2Q1NDktNzg5OS00YzNiLWI1NzktZDJlODA4N2I1YWI1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+            "plot": "Po is to host the annual winter holiday feast and he struggles to meet his friends' expectations.", 
+            "backdrop": "https://linear-poster.astro.com.my/prod/poster/KLRJX_IVP_LAND_917x516.jpg", 
+            "director": ["Tim Johnson"], 
+            "cast": ["Jack Black,Dustin Hoffman"], 
+            "trailer": "S2JQJVdV8HQ",
+            "year": "2010"
+             }, 
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f48cba51-7e87-54a9-beab-c102d2b9b704/default_primary.mpd",
+            "drm": "clearkey", 
+            "drmkey": "a8f1f34c37cbfbfa2238622bf8038510:f1e66c6714669ddf9c26e68ed4b33aa3"
+ },
+{
     "name": "TWINKLING WATERMELON",
     "category": "Korea",
     "info": {
