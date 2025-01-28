@@ -1998,6 +1998,57 @@
             "drmkey": "a8f1f34c37cbfbfa2238622bf8038510:f1e66c6714669ddf9c26e68ed4b33aa3"
  },
 {
+  "name": "Madagascar", 
+  "category": "Kids", 
+  "info": {
+            "poster": "https://m.media-amazon.com/images/M/MV5BYjk4OGFmZmYtYWE4NC00MzM4LTkwZTItODdhMjk3NTZjMmI5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+            "bg": "https://m.media-amazon.com/images/M/MV5BYjk4OGFmZmYtYWE4NC00MzM4LTkwZTItODdhMjk3NTZjMmI5XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+            "plot": "Alex, seekor singa yang merupakan ketua hutan di bandar menjadi tarikan utama di Zoo Utama New York. Ia dan rakan-rakannya – kuda belang Marty, zirafah Melman dan badak Gloria – telah menghabiskan hidup mereka dalam tawanan yang selesa, menjadi tumpuan ramai dan diberi makanan secukupnya. Tidak mahu tinggal bersendirian, Marty berkeinginan untuk mencari kehidupan yang lebih baik dan melarikan diri – dengan bantuan beberapa ekor penguin—untuk menjelajah dunia.", 
+            "backdrop": "https://linear-poster.astro.com.my/prod/poster/HSMZW_IVP_LAND_917x516.jpg", 
+            "director": ["Eric Darnell"], 
+            "cast": ["Ben Stiller","Chris Rock","David Schwimmer","Jada Pinkett Smith","Cedric The Entertainer","Sacha Baron Cohen","Andy Righter"], 
+            "trailer": "orAqhC-Hp_o",
+            "year": "2005"
+             }, 
+            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dc58e31cbea8a6a4ef4acd7_hbovodhd/dash0/MYS_index.mpd", 
+            "drm": "clearkey", 
+            "drmkey": "640c353fd52c56a69de189a00b056965:adeb297e14d6daa9063cd70e30a04129"
+ },
+{
+  "name": "Madagascar 2: Escape Africa", 
+  "category": "Kids", 
+  "info": {
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_QL100_UX500_.jpg", 
+            "bg": "https://m.media-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_QL100_UX500_.jpg", 
+            "plot": "Setelah mendapati diri mereka terdampar di pantai Madagascar yang jauh, kesemua binatang New York memulakan rancangan di luar jangkaan namun bakal menemui kejayaan. Apabila kapal terbang pertama Air Penguin mulai berlepas, krew ini akan ikut serta sehingga tiba di tempat luas Afrika, di mana kesemua ahli dari zoo bandar New York membuat penemuan spesis krew tersendiri, buat pertama kalinya. Afrika umpama satu tempat yang menarik, namun adakah ia lebih baik dari Central Park, tempat asal mereka?", 
+            "backdrop": "https://linear-poster.astro.com.my/prod/poster/HSMZW_IVP_LAND_917x516.jpg", 
+            "director": ["Eric Darnell"], 
+            "cast": ["Ben Stiller","Chris Rock","David Schwimmer","Jada Pinkett Smith","Sacha Baron Cohen","Cedric The Entertainer","Andy Richter","Bernie Mac", "Alec Baldwin","Sherri Shepherd","Will.i.am","Elisa Gabrielli","Tom Mcgrath","Chris Miller"], 
+            "trailer": "MUAbupPbGbQ",
+            "year": "2008"
+             }, 
+            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5de9aba5cbea8a6a4ef81ade_hbovodhd/dash0/MYS_index.mpd", 
+            "drm": "clearkey", 
+            "drmkey": "0947fd0dd8155341b25b294184271d5c:37aa763ff3280968ca0eb959990180b5"
+ },
+{
+  "name": "Madagascar 3: Europe'S Most Wanted", 
+  "category": "Kids", 
+  "info": {
+            "poster": "https://m.media-amazon.com/images/M/MV5BYTM5OWRiZTAtOTNkMS00NzNhLTkwYmYtMWI1MzkyMjE3MWE1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+            "bg": "https://m.media-amazon.com/images/M/MV5BYTM5OWRiZTAtOTNkMS00NzNhLTkwYmYtMWI1MzkyMjE3MWE1XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+            "plot": "Singa Alex, kuda belang Marty, badak Gloria, dan zirafah Melman masih berjuang untuk pulang ke Big Apple yang disayangi dan sudah tentu sekali, King Julien, Maurice dan kesemua penguins untuk pengembaraan lucu. Perjalanan itu membawa mereka ke Eropah di mana mereka menemui peluang sempurna: sarkis bergerak yang dicipta semula – gaya Madagascar.", 
+            "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVP_14045_IVP_LAND_672x378_14045_2024524_104223.jpg", 
+            "director": ["Eric Darnell"], 
+            "cast": ["Ben Stiller","Chris Rock","Jada Pinkett Smith","David Schwimmer","Sacha Baron Cohen"], 
+            "trailer": "PlkWVkpP59U",
+            "year": "2012"
+             }, 
+            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6010249c6d048943f772720c_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
+            "drm": "clearkey", 
+            "drmkey": "88bfaf1cf2aa5f80a56b1d8a30fcd23f:997bf96d4b3e2bec266b6ba0fa4ee735"
+ },
+{
     "name": "TWINKLING WATERMELON",
     "category": "Korea",
     "info": {
