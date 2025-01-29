@@ -2049,6 +2049,40 @@
             "drmkey": "88bfaf1cf2aa5f80a56b1d8a30fcd23f:997bf96d4b3e2bec266b6ba0fa4ee735"
  },
 {
+  "name":"The Boss Baby",
+  "category":"Kids",
+  "info": {
+            "poster":"https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_QL100_UX500_.jpg",
+            "bg":"https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_QL100_UX500_.jpg",
+            "plot":"Hidup seorang budak lelaki berusia tujuh tahun menjadi tonggang-terbalik oleh adik barunya, seorang bayi dikenali sebagai Boss Baby yang memakai sut dan mempunyai gaya kasar seorang ahli perniagaan. Tetapi, mereka berdua terpaksa mengetepikan permusuhan mereka apabila mereka harus bekerjasama dalam satu misi perisikan antara bayi-bayi dan anak-anak anjing.",
+            "backdrop":"https://linear-poster.astro.com.my/prod/poster/IDTWO_IVP_LAND_917x516.jpg",
+            "director":["Tom Mcgrath"],
+            "cast":["Alec Baldwin","Jimmy Kimmel","Lisa Kudrow","Steve Buscemi","Tobey Maguire","Miles Bakshi"],
+            "trailer": "qjMYUQwBG0w",
+            "year":"2017"
+             },
+            "video":"https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65d5bd7ed940521074f51ff4_hbovodhd/dash0/MYS_DOLBY_index.mpd",
+            "drm":"clearkey",
+            "drmkey":"ff616580c2f96eaa824eba89ee1318be:8355c80065090d17caf33739fbade3e6"
+ },
+{
+  "name":"The Boss Baby: Family Business",
+  "category":"Kids",
+  "info": {
+            "poster":"https://m.media-amazon.com/images/M/MV5BZjJiYjgzMzctZmE5OC00ODA2LWE1MzktZDdlMDFiNmM5OGQ1XkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+            "bg":"https://m.media-amazon.com/images/M/MV5BZjJiYjgzMzctZmE5OC00ODA2LWE1MzktZDdlMDFiNmM5OGQ1XkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+            "plot":"Berlatarkan 30 tahun setelah peristwa filem pertama, Tim Templeton yang kini dewasa tinggal bersama isterinya, Carol dan dua anak mereka, Tabitha 7 tahun dan bayi Tina. Adik Tim, Ted kini CEO berjaya namun sering tiada. Tim mendapati Tina adalah Baby Boss baru ditugaskan untuk mendapatkan Ted bagi misi khas: menghalang Dr. Erwin Amstrong dari mengubah ibu bapa kepada zombi.",
+            "backdrop":"https://linear-poster.astro.com.my/prod/poster/JYKHB_IVP_LAND_917x516.jpg",
+            "director":["Tom Mcgrath"],
+            "cast":["Alec Baldwin,James Marsden,Amy Sedaris"],
+            "trailer": "2CmnTJZcLK4",
+            "year":"2021"
+             },
+            "video":"vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8ee163f5-7f30-59d7-91f5-2a097d2d62f4/default_primary.mpd",
+            "drm":"clearkey",
+            "drmkey":"4faacdaa83f4b289d061af997830f610:1ede3902d124bf5ca98cf57742741fe5"
+ },
+{
     "name": "TWINKLING WATERMELON",
     "category": "Korea",
     "info": {
